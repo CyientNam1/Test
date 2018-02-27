@@ -1,0 +1,25 @@
+{
+	"polygonLayer":"JOB ALLOCATION GRID",
+	"WFMURL" :"https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/WFM/WMServer",
+	"jobType" :1282,
+	"jobType_qc_ca" :2897,
+	"jobType_qc_boe" :2898,
+	"WFMUsername" : "Steve.Way",
+	"selectPolyTooltip" : "Click on Grid to Add to WFM Job Selection",
+	"unSelectPolyTooltip" : "Click on Grid to Remove from WFM Job Selection",
+	"parentJobAOI" : "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/WFM_AOI_XCELADB/MapServer",
+	"parentJobType" : 1281,
+	"parentJobAOILayerID" : 0,
+	"heldOnType": 3, 
+	"heldOnValue" : 672,
+	"depOnType" :3,
+	"depOnValue": 665,
+	"checkoutURL": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/FISHNET_XCELADB/FeatureServer/0",
+	"identityService" : "https://www.cyient-fiops.com/XCELAPIGateway/Roles/",
+	"Users" : "ACTION=GetRoles",
+	"FeederTableURL" :"https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/46",
+	"UdcWorkgridsURL": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/UDC_WorkGrids_XCELADB/FeatureServer/0",
+	"CircuitURL" :"https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/46",
+	"workGridUrl":"https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/UDC_WorkGrids_XCELADB/FeatureServer/0"
+	
+}

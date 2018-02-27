@@ -1,0 +1,268 @@
+{
+    "feederReports": [
+        {
+            "folderName" : "ARVA1700",
+            "lastModified": "2018-02-03T01:12:45Z",
+            "files": [
+                {
+                    "fileName": "01-ARVA1700 Feature Summary",
+                    "url": "assets/data/reports/ARVA1700/01-ARVA1700 Feature Summary.csv",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },               
+                {
+                    "fileName": "02-ARVA1700 Feature Detail Summary",
+                    "url": "assets/data/reports/ARVA1700/02-ARVA1700 Feature Detail Summary.csv",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "03-ARVA1700 Delete Feature Summary",
+                    "url": "assets/data/reports/ARVA1700/03-ARVA1700 Delete Feature Summary.csv",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "04-ARVA1700 Attribute Details(Before and After)",
+                    "url": "assets/data/reports/ARVA1700/04-ARVA1700 Attribute Details(Before and After).xls",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "05-ARVA1700 SAP_Attributes_log",
+                    "url": "assets/data/reports/ARVA1700/05-ARVA1700 SAP_Attributes_log.xlsx",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "06_DI_Report_ARVA1700",
+                    "url": "assets/data/reports/ARVA1700/06_DI_Report_ARVA1700.xlsx",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "ARVA1700_ADMS_DI_Report",
+                    "url": "assets/data/reports/ARVA1700/ARVA1700_ADMS_DI_Report.docx",
+                    "fileType": "WORD",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "ARVA1700_GESW_DI_Report",
+                    "url": "assets/data/reports/ARVA1700/ARVA1700_GESW_DI_Report.docx",
+                    "fileType": "WORD",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "Differences_report_ARVA1700",
+                    "url": "assets/data/reports/ARVA1700/Differences_report_ARVA1700.csv",
+                    "fileType": "CSV",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "Photos_ARVA1700",
+                    "url": "assets/data/reports/ARVA1700/Photos_ARVA1700.xlsx",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                }
+            ]
+        },
+        {
+            "folderName" : "DAKO1501",
+            "lastModified": "2018-02-03T01:12:45Z",
+            "files": [
+                {
+                    "fileName": "01-DAKO1501 Feature Summary",
+                    "url": "assets/data/reports/DAKO1501/01-DAKO1501 Feature Summary.csv",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "02-DAKO1501 Feature Detail Summary",
+                    "url": "assets/data/reports/DAKO1501/02-DAKO1501 Feature Detail Summary.csv",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "03-DAKO1501 Delete Feature Summary",
+                    "url": "assets/data/reports/DAKO1501/03-DAKO1501 Delete Feature Summary.csv",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "04-DAKO1501 Attribute Details(Before and After)",
+                    "url": "assets/data/reports/DAKO1501/04-DAKO1501 Attribute Details(Before and After).xls",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "05-DAKO1501 SAP_Attributes_log",
+                    "url": "assets/data/reports/DAKO1501/05-DAKO1501 SAP_Attributes_log.xlsx",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "06_DI_Report_DAKO1501",
+                    "url": "assets/data/reports/DAKO1501/06_DI_Report_DAKO1501.xlsx",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },               
+                {
+                    "fileName": "DAKO1501_ADMS_DI_Report",
+                    "url": "assets/data/reports/DAKO1501/DAKO1501_ADMS_DI_Report.docx",
+                    "fileType": "WORD",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "DAKO1501_GESW_DI_Report",
+                    "url": "assets/data/reports/DAKO1501/DAKO1501_GESW_DI_Report.docx",
+                    "fileType": "WORD",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "Differences_report_DAKO1501",
+                    "url": "assets/data/reports/DAKO1501/Differences_report_DAKO1501.csv",
+                    "fileType": "CSV",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "Photos_DAKO1501",
+                    "url": "assets/data/reports/DAKO1501/Photos_DAKO1501.xlsx",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                }
+            ]
+        },
+        {
+            "folderName" : "DAKO1581",
+            "lastModified": "2018-02-03T01:12:45Z",
+            "files": [
+                {
+                    "fileName": "01-DAKO1581 Feature Summary",
+                    "url": "assets/data/reports/DAKO1581/01-DAKO1581 Feature Summary.csv",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },               
+                {
+                    "fileName": "02-DAKO1581 Feature Detail Summary",
+                    "url": "assets/data/reports/DAKO1581/02-DAKO1581 Feature Detail Summary.csv",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "03-DAKO1581 Delete Feature Summary",
+                    "url": "assets/data/reports/DAKO1581/03-DAKO1581 Delete Feature Summary.csv",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "04-DAKO1581 Attribute Details(Before and After)",
+                    "url": "assets/data/reports/DAKO1581/04-DAKO1581 Attribute Details(Before and After).xls",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "05-DAKO1581 SAP_Attributes_log",
+                    "url": "assets/data/reports/DAKO1581/05-DAKO1581 SAP_Attributes_log.xlsx",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "06_DI_Report_DAKO1581",
+                    "url": "assets/data/reports/DAKO1581/06_DI_Report_DAKO1581.xlsx",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "DAKO1581_ADMS_DI_Report",
+                    "url": "assets/data/reports/DAKO1581/DAKO1581_ADMS_DI_Report.docx",
+                    "fileType": "WORD",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "DAKO1581_GESW_DI_Report",
+                    "url": "assets/data/reports/DAKO1581/DAKO1581_GESW_DI_Report.docx",
+                    "fileType": "WORD",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "DAKO1581_Difference_report",
+                    "url": "assets/data/reports/DAKO1581/DAKO1581_Difference_report.csv",
+                    "fileType": "CSV",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "Photos_DAKO1581",
+                    "url": "assets/data/reports/DAKO1581/Photos_DAKO1581.xlsx",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                }
+            ]
+        },
+        {
+            "folderName" : "SHER2013",
+            "lastModified": "2018-02-03T01:12:45Z",
+            "files": [
+                {
+                    "fileName": "01-SHER2013 Feature Summary",
+                    "url": "assets/data/reports/SHER2013/01-SHER2013 Feature Summary.xlsx",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "02-SHER2013 Feature Detail Summary",
+                    "url": "assets/data/reports/SHER2013/02-SHER2013 Feature Detail Summary.csv",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "03-SHER2013 Delete Feature Summary",
+                    "url": "assets/data/reports/SHER2013/03-SHER2013 Delete Feature Summary.csv",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "04-SHER2013 Attribute Details(Before and After)",
+                    "url": "assets/data/reports/SHER2013/04-SHER2013 Attribute Details(Before and After).xls",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "05-SHER2013 SAP_Attributes_log",
+                    "url": "assets/data/reports/SHER2013/05-SHER2013 SAP_Attributes_log.xlsx",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "06_DI_Report_SHER2013",
+                    "url": "assets/data/reports/SHER2013/06_DI_Report_SHER2013.xlsx",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },               
+                {
+                    "fileName": "SHER2013_ADMS_DI_Report",
+                    "url": "assets/data/reports/SHER2013/SHER2013_ADMS_DI_Report.docx",
+                    "fileType": "WORD",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "SHER2013_GESW_DI_Report",
+                    "url": "assets/data/reports/SHER2013/SHER2013_GESW_DI_Report.docx",
+                    "fileType": "WORD",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "SHER2013_Difference_report",
+                    "url": "assets/data/reports/SHER2013/SHER2013_Difference_report.csv",
+                    "fileType": "CSV",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                },
+                {
+                    "fileName": "Photos_SHER2013",
+                    "url": "assets/data/reports/SHER2013/Photos_SHER2013.xlsx",
+                    "fileType": "XLSX",
+                    "lastModified": "2018-02-03T01:12:45Z"
+                }
+            ]
+        }
+    ]
+}

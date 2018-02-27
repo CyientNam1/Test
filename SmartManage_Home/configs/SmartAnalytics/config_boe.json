@@ -1,0 +1,11 @@
+{
+  "allPlaceholder": "",
+  "showInfoWindowOnSelect": true,
+  "sources": [
+    {
+      "name": "OH Primary",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/13",
+      "placeholder": "all" 
+    }
+  ]
+}

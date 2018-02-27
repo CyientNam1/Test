@@ -1,0 +1,38 @@
+  body
+	       {
+	           background-color: #1b1b1b;
+	           padding-top: 40px;
+	       }
+	.form-signin {
+		max-width: 280px;
+		padding: 15px;
+		margin:100px 0px 100px 475px;
+		position: fixed; 
+		opacity: 0.8;	   
+	 }
+	 
+	.panel-default {
+	   opacity: 0.9;
+	   /*margin-top:30px;*/
+	}
+	.input-group-addon
+	{
+	   background-color: rgb(50, 118, 177);
+	   border-color: rgb(40, 94, 142);
+	   color: rgb(255, 255, 255);
+	}
+
+	.form-signup input[type="text"],.form-signup input[type="password"] { border: 1px solid rgb(50, 118, 177); }
+
+	.img  
+	{
+		position: absolute;
+    z-index: 10;
+    top: 0;
+    padding: 15px;
+    left: 0;
+	}
+	.divStyle {
+background: white;
+height: 300px;
+        }

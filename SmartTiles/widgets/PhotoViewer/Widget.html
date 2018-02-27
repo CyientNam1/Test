@@ -1,0 +1,44 @@
+<div id="authorContainer">
+    <!--<div class="jimu-r-row paddingForRow">
+        <label class="titleContent">Search Image By Feature ID:</label>
+    </div>-->
+    <div class="jimu-r-row add-section">
+        <input class="jimu-input input-image-search" data-dojo-attach-point="searchtextbox" id="searchtextbox" type="text" placeholder="${nls.placeholderImageID}">
+        <div class="btn-search" data-dojo-attach-point="searchButton" data-dojo-attach-event="onclick:_onsearchBtnClicked">
+            <div class="jimu-center-img"></div>
+        </div>
+    </div>
+    <!--<div class="jimu-r-row paddingForRow">
+      
+        <div class="col-3-4">
+            <label class="searchtextbox" id="value0Box" style="font-weight: 600px;" data-dojo-type="dijit/form/TextBox" data-dojo-props="intermediateChanges:true"></label>
+        </div>
+        <div class="col-1-4">
+            <button id="searchButton" data-dojo-type="dijit/form/Button" type="button">&#128269;</button><br>
+        </div>
+    </div>-->
+
+    <div class="imageheader">
+        <div class="jimu-r-row add-section header paddingForRow" id="titlePanel">
+            <span class="titleContent">Feature Id:</span><span id="content" class="titleContent"></span>
+        </div>
+        <div class="jimu-r-row paddingForRow" id="photoPanel">
+            <a href="" id="imageUrl" title="Click on image to open in new tab" target="_blank">
+                <img class="authorWidgetAvatar" src="" data-dojo-attach-point="avatarNode" id="photochange"></br>
+            </a>
+        </div>
+        <div class="jimu-r-row paddingForRowButtons">
+            <div class="col-1-4">
+                <button id="prevBtn" class="prevButton" data-dojo-type="dijit/form/Button" type="button">&#10094;</button>
+            </div>
+            <div class="col-1-2" style="text-align: center; vertical-align: middle;font-size: 18px;">
+                <label for="Checkbox2" class="Checkbox2" id="Checkbox2">0 of 0</label>
+            </div>
+
+            <div class="col-1-4">
+                <button id="nextBtn" class="nextAndSearchButton" data-dojo-type="dijit/form/Button" type="button">&#10095;</button><br>
+            </div>
+        </div>
+    </div>
+
+</div>

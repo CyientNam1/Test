@@ -1,0 +1,99 @@
+
+.SFJobMGTGrid .SF_WorkflowExecuteButtonIcon {
+    background-image: url(../images/execute2.svg);
+    background-size: 25px 25px;
+    background-repeat: no-repeat;
+    width: 25px;
+    height: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+
+.SFJobMGTGrid .SF_WorkflowExecuteButtonIcon {
+    background-image: url(../images/execute2.svg);
+    background-size: 25px 25px;
+    background-repeat: no-repeat;
+    width: 25px;
+    height: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.SFJobMGTGrid .SF_WorkflowDelteButtonIcon {
+    background-image: url(../images/Delete.png);
+    background-size: 25px 25px;
+    background-repeat: no-repeat;
+    width: 25px;
+    height: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.SFJobMGTGrid .dgrid-cell-padding {
+    padding: 0px;
+    color: black;
+}
+
+.SFJobMGTGrid .dijitButtonNode {
+    border-style: none;
+}
+
+.SFJobMGTGrid .dgrid-column-JTX_JOBS-JOB_ID {
+    width: 60px;
+}
+
+.SFJobMGTGrid .dgrid-column-JTX_JOBS-JOB_NAME {
+    width: 120px;
+}
+
+.SFJobMGTGrid .dgrid-column-JTX_JOBS-ASSIGNED_TO {
+    width: 150px;
+}
+
+.SFJobMGTGrid .dgrid-column-JTX_JOBS-CREATED_BY {
+    width: 150px;
+}
+
+.SFJobMGTGrid .dgrid-column-JTX_JOBS-CREATED_DATE {
+    width: 100px;
+}
+
+.SFJobMGTGrid .dgrid-column-JTX_JOB_STEP-STEP_NAME {
+    width: 120px;  
+    font: italic;
+    font-style: italic;  
+    font-weight: 600; 
+}
+
+.SFJobMGTGrid .dgrid-column-JTX_JOB_TYPES-JOB_TYPE_NAME {
+    width: 100px;
+  
+    
+}
+/* .SFJobMGTGrid .dgrid-column-JTX_JOBS-PERC_COMPLETE {
+    width: 100px; 
+   
+} */
+
+.SFJobMGTGrid .field-WorkflowExecute {
+    width: 50px;
+}
+
+.SFJobMGTGrid .field-ExportData {
+    width: 80px;
+}
+
+.SFJobMGTGrid .field-WorkflowDelete {
+    width: 50px;
+}
+.SFJobMGTGrid .field-WorkflowAssign {
+    width: 600px;
+}
+

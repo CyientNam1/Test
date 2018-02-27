@@ -1,0 +1,1333 @@
+{
+  "selectByShape": true,
+  "selectByFeature": false,
+  "selectByFeatureQuery": false,
+  "toggleLayersOnOpen": false,
+  "updateLayers": [
+    {
+      "id": "XCEL_ADMS_ELECTRIC_1310",
+      "name": "Step Transformer Bank",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_5381",
+      "name": "Edist Meter",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_7827",
+      "name": "Secondary Capacitor",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_552",
+      "name": "UG Primary",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          155,
+          187,
+          89,
+          255
+        ],
+        "width": 2.25,
+        "type": "esriSLS",
+        "style": "esriSLSSolid"
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_6906",
+      "name": "UG Switch",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_8695",
+      "name": "UG Service",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          155,
+          187,
+          89,
+          255
+        ],
+        "width": 2.25,
+        "type": "esriSLS",
+        "style": "esriSLSSolid"
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_4642",
+      "name": "UG Transformer",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_5940",
+      "name": "UG Secondary",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          155,
+          187,
+          89,
+          255
+        ],
+        "width": 2.25,
+        "type": "esriSLS",
+        "style": "esriSLSSolid"
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_2698",
+      "name": "UG Fuse",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_8488",
+      "name": "UG ATO",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_5013",
+      "name": "Switching Facility",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_5433",
+      "name": "Substation",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_6659",
+      "name": "Street Light",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_5662",
+      "name": "Splice Box",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_6731",
+      "name": "Sectionalizer Bank",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_1270",
+      "name": "Secondary Transformer",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_3116",
+      "name": "Secondary Open Point",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_5801",
+      "name": "Riser",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_3660",
+      "name": "Regulator Bank",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_4514",
+      "name": "Reclosure Bank",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_4870",
+      "name": "Primary Splice",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_5345",
+      "name": "Primary Open Point",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_62",
+      "name": "Primary Meter",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_4615",
+      "name": "Pole H Fixture",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          155,
+          187,
+          89,
+          255
+        ],
+        "width": 2.25,
+        "type": "esriSLS",
+        "style": "esriSLSSolid"
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_6215",
+      "name": "Pole Brace",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_7878",
+      "name": "Pole",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_832",
+      "name": "Pedestal",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_8603",
+      "name": "OH Transformer Bank",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_9742",
+      "name": "OH Switch",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_1253",
+      "name": "OH Service",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          155,
+          187,
+          89,
+          255
+        ],
+        "width": 2.25,
+        "type": "esriSLS",
+        "style": "esriSLSSolid"
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_2479",
+      "name": "OH Secondary",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          155,
+          187,
+          89,
+          255
+        ],
+        "width": 2.25,
+        "type": "esriSLS",
+        "style": "esriSLSSolid"
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_7473",
+      "name": "OH Primary",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          155,
+          187,
+          89,
+          255
+        ],
+        "width": 2.25,
+        "type": "esriSLS",
+        "style": "esriSLSSolid"
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_5759",
+      "name": "OH Fuse",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_6473",
+      "name": "OH ATO",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_9040",
+      "name": "Nonmetered Facility",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_9918",
+      "name": "Fault Indicator",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_6173",
+      "name": "Elbow",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_8635",
+      "name": "Distributed Storage",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_1077",
+      "name": "Distribution Generation",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_2039",
+      "name": "Cogeneration",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_6218",
+      "name": "Circuit Breaker",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_1590",
+      "name": "Capacitor Rack",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_950",
+      "name": "Area Light",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "id": "XCEL_ADMS_ELECTRIC_9368",
+      "name": "Anchor Guy",
+      "queryField": "",
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    }
+  ],
+  "selectByLayer": {},
+  "commonFields": [
+    {
+      "alias": "Status",
+      "name": "STATUS"
+    },
+    {
+      "alias": "UDC",
+      "name": "UDC"
+    },
+    {
+      "alias": "SUBTYPECOD",
+      "name": "SUBTYPECOD"
+    },
+    {
+      "alias": "COID",
+      "name": "COID"
+    },
+    {
+      "alias": "CHGCODE",
+      "name": "CHGCODE"
+    },
+    {
+      "alias": "FIELD_VERI",
+      "name": "FIELD_VERI"
+    },
+    {
+      "alias": "VERI_TYPE",
+      "name": "VERI_TYPE"
+    },
+    {
+      "alias": "LABELTEXT",
+      "name": "LABELTEXT"
+    },
+    {
+      "alias": "CONVERSION",
+      "name": "CONVERSION"
+    },
+    {
+      "alias": "INSP_DATE",
+      "name": "INSP_DATE"
+    },
+    {
+      "alias": "FTECH",
+      "name": "FTECH"
+    },
+    {
+      "alias": "FLD1",
+      "name": "FLD1"
+    },
+    {
+      "alias": "FLD2",
+      "name": "FLD2"
+    },
+    {
+      "alias": "FLD3",
+      "name": "FLD3"
+    },
+    {
+      "alias": "FLD4",
+      "name": "FLD4"
+    },
+    {
+      "alias": "FLD5",
+      "name": "FLD5"
+    },
+    {
+      "alias": "COMMENTS",
+      "name": "COMMENTS"
+    },
+    {
+      "alias": "JOBUNIT",
+      "name": "JOBUNIT"
+    },
+    {
+      "alias": "PATS",
+      "name": "PATS"
+    },
+    {
+      "alias": "DEL_DATE",
+      "name": "DEL_DATE"
+    },
+    {
+      "alias": "DATECREATED",
+      "name": "DATECREATED"
+    },
+    {
+      "alias": "DATEMODIFIED",
+      "name": "DATEMODIFIED"
+    },
+    {
+      "alias": "CREATIONUSER",
+      "name": "CREATIONUSER"
+    },
+    {
+      "alias": "LASTUSER",
+      "name": "LASTUSER"
+    },
+    {
+      "alias": "SF_DESIGN_ID",
+      "name": "SF_DESIGN_ID"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "groups": [
+    {
+      "name": "Feeder Name",
+      "desc": "",
+      "operator": "LIKE",
+      "defaultVal": "",
+      "appendSameLayer": true,
+      "appendSameLayerConjunc": "OR",
+      "layers": [
+        {
+          "layer": "XCEL_ADMS_ELECTRIC_53.13",
+          "field": "FEEDER_NAME",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "XCEL_ADMS_ELECTRIC_53.14",
+          "field": "FEEDER_NAME",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "XCEL_ADMS_ELECTRIC_53.19",
+          "field": "FEEDER_NAME",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "XCEL_ADMS_ELECTRIC_53.42",
+          "field": "FEEDER_NAME",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "XCEL_ADMS_ELECTRIC_53.38",
+          "field": "FEEDER_NAME",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "XCEL_ADMS_ELECTRIC_53.3",
+          "field": "FEEDER_NAME",
+          "dataType": "esriFieldTypeString",
+          "useDomain": true
+        }
+      ]
+    }
+  ],
+  "webmapAppendMode": true,
+  "slAppendChoice": "AND",
+  "zoomMode": true,
+  "simpleMode": true
+}

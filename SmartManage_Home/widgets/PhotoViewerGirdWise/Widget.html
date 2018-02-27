@@ -1,0 +1,78 @@
+<div id="authorContainer">
+
+    <div class="panel-group" id="accordion">
+        <div class="panel panel-default" id="panel1">
+            <div class="panel-heading">
+                <span class="panel-title">
+                    <a data-toggle="collapse" style="font-size: 14px;" data-target="#collapseOne" href="#collapseOne"> Click Here To Search By Feature Id </a>
+                </span>
+            </div>
+            <div id="collapseOne" class="panel-collapse collapse in">
+                <div class="jimu-r-row add-section">
+                    <input class="jimu-input input-image-search" data-dojo-attach-point="searchtextbox" id="searchtextbox" type="text" placeholder="${nls.placeholderImageID}">
+                    <div class="btn-search" data-dojo-attach-point="searchButton" data-dojo-attach-event="onclick:_onsearchBtnClicked">
+                        <div class="jimu-center-img"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="panel panel-default" id="panel2">
+            <div class="panel-heading">
+                <span class="panel-title">
+                    <a data-toggle="collapse" style="font-size: 14px;" data-target="#collapseTwo" href="#collapseTwo" class="collapsed">Click Here To Search By Grid Id </a>
+                </span>
+            </div>
+            <div id="collapseTwo" class="panel-collapse collapse">
+                <div class="row paddingForRow">
+                    <div class="col-md-6 col-sm-6 col-lg-6 col-xs-12">
+                        <label class="fontstyle">Select Grid</label>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-lg-6 col-xs-12">
+                        <div class="form-control" id="placeholderForGridPhoto"></div>
+                    </div>
+                </div>
+                <div class="row paddingForRow">
+                    <div class="col-md-6 col-sm-6 col-lg-6 col-xs-12">
+                        <label class="fontstyle">Select Layer</label>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-lg-6 col-xs-12">
+                        <div id="placeholderForLayerList"></div>
+                    </div>
+                </div>
+                <div class="row paddingForRow">
+                    <div class="col-md-6 col-sm-6 col-lg-6 col-xs-12">
+
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-lg-6 col-xs-12">
+                        <button id="searching" class="searchButton" style="float:right" data-dojo-type="dijit/form/Button" type="button">Search</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="imageheader1">
+        <div class="jimu-r-row add-section header paddingForRow" style="font-size: 17px;" id="titlePanel">
+            <span class="titleContent">Feature ID:</span><span id="contenter" class="titleContent"></span>
+        </div>
+        <div class="jimu-r-row paddingForRow" id="photoPanel">
+            <a href="" id="imageUrls" title="Click on image to open in new tab" target="_blank">
+                <img class="authorWidgetAvatar" src="" data-dojo-attach-point="avatarNode" id="photochanger"></br>
+            </a>
+        </div>
+        <div class="jimu-r-row paddingForRowButtons">
+            <div class="col-1-4">
+                <button id="prevBtn1" class="prevButton" data-dojo-type="dijit/form/Button" type="button">&#10094;</button>
+            </div>
+            <div class="col-1-2" style="text-align: center; vertical-align: middle;font-size: 18px;">
+                <label for="Checkbox4" class="Checkbox2" id="Checkbox4">0 of 0</label>
+            </div>
+
+            <div class="col-1-4">
+                <button id="nextBtn1" class="nextAndSearchButton" data-dojo-type="dijit/form/Button" type="button">&#10095;</button><br>
+            </div>
+        </div>
+    </div>
+
+</div>

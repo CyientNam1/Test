@@ -1,0 +1,12 @@
+{
+  "allPlaceholder": "",
+  "showInfoWindowOnSelect": true,
+  "layers": [
+       {
+          "layer": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/19",
+          "Priotiy1MVfields": "PATS",
+          "Priotiy1LVfields": "PATS"  
+        }
+      
+  ]
+}

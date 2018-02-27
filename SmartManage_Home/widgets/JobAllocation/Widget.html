@@ -1,0 +1,58 @@
+<div>
+ <button data-dojo-attach-point="selectPolysButton" data-dojo-type="dijit/form/Button" data-dojo-props="baseClass:'jimu-widget-JobAllocation',iconClass:'SFJobAllocationButtonAdd'"></button>
+ <button data-dojo-attach-point="unSelectPolysButton" data-dojo-type="dijit/form/Button" data-dojo-props="baseClass:'jimu-widget-JobAllocation',iconClass:'SFJobAllocationButtonSubtract'"></button>
+  <button data-dojo-attach-point="clearPolysButton" data-dojo-type="dijit/form/Button" data-dojo-props="baseClass:'jimu-widget-JobAllocation',iconClass:'SFJobAllocationButtonClearJob'"></button>
+ 
+ <br><br>
+	<div>${nls.label8}</div>
+   <select name="assignToGroup" data-dojo-type="dijit/form/Select" data-dojo-attach-point="assignToGroup" style="width: 150px;">
+ </select>
+
+  <br><br>
+	<div>${nls.label1}</div>
+   <select name="assignToSelect" data-dojo-type="dijit/form/Select" data-dojo-attach-point="assignTo" style="width: 150px;" maxHeight="150">
+ </select>
+
+ <br><br>
+ <div id = "GridType">
+	<div >${nls.label10} </div>
+   <select name="assignToJobType" data-dojo-type="dijit/form/Select" data-dojo-attach-point="assignToJobType" style="width: 150px;">
+ </select>
+</div>
+
+ <br><br>
+
+<div id="Grids">
+ <div >${nls.label12} </div>
+  <select id="assignTogrid"  name="assignTogrid" data-dojo-type="dijit/form/Select" data-dojo-attach-point="assignTogrid" style="width: 150px;" maxHeight="150">
+ </select>
+ </div>
+
+ <div id="Feeder">
+	<div >${nls.label11} </div>
+   <select id="assignToFeeder"  name="assignToFeeder" data-dojo-type="dijit/form/Select" data-dojo-attach-point="assignToFeeder"  style="width: 150px;">
+  </select>
+  </div>
+
+<br><br>
+	<!--<div>${nls.label2}</div>
+  <div >
+  <input type="text" name="jobName" value="EAST1575" data-dojo-type="dijit/form/TextBox" data-dojo-attach-point="WFMJobName"/>
+  </div>
+  <br><br>-->
+  <div id="linkFeeder"><input name="createDependency" data-dojo-type="dijit/form/CheckBox" value="link" data-dojo-attach-point="linkWorkflowCheckbox"/>${nls.label3}</div>
+  <!--<br>-->
+  <div id = "link">
+  <select name="linkToWorkflow" data-dojo-type="dijit/form/Select" data-dojo-attach-point="linkToWorkflow" v>
+    
+</select>
+  </div>
+  <br><br>
+ <div>
+ <button id="createJob" data-dojo-attach-point="createJob" data-dojo-type="dijit/form/Button">Create Job</button>
+
+ </div>
+ <div data-dojo-attach-point="jobIDDiv">
+ </div>
+  </div>
+

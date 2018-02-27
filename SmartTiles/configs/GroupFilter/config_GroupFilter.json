@@ -1,0 +1,75 @@
+{
+  "groups": [
+    {
+      "name": "Feeder Name",
+      "desc": "Name",
+      "operator": "LIKE",
+      "defaultVal": "",
+      "appendSameLayer": true,
+      "appendSameLayerConjunc": "OR",
+      "layers": [
+        {
+          "layer": "XCEL_ADMS_FIELD_PROGRESS_F_CLASS_8291.1",
+          "field": "FEEDER_NAME",
+          "dataType": "esriFieldTypeString",
+          "useDomain": true
+        },
+        {
+          "layer": "XCEL_ADMS_FIELD_PROGRESS_F_CLASS_8291.0",
+          "field": "FEEDER_NAME",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "XCEL_ADMS_FIELD_PROGRESS_F_CLASS_8291.2",
+          "field": "FEEDER_NAME",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "XCEL_ADMS_FIELD_PROGRESS_F_CLASS_8291.3",
+          "field": "FEEDER_NAME",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "XCEL_ADMS_FIELD_PROGRESS_F_CLASS_8291.4",
+          "field": "FEEDER_NAME",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "XCEL_ADMS_FIELD_PROGRESS_F_CLASS_8291.5",
+          "field": "FEEDER_NAME",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        }
+      ]
+    },
+    {
+      "name": "Status Filter",
+      "desc": "Status Filter",
+      "operator": "LIKE",
+      "defaultVal": "",
+      "appendSameLayer": true,
+      "appendSameLayerConjunc": "OR",
+      "layers": [
+        {
+          "layer": "XCEL_ADMS_FIELD_PROGRESS_F_CLASS_8291.1",
+          "field": "PATS",
+          "dataType": "esriFieldTypeDouble",
+          "useDomain": true
+        },
+        {
+          "layer": "XCEL_ADMS_FIELD_PROGRESS_F_CLASS_8291.0",
+          "field": "PATS",
+          "dataType": "esriFieldTypeInteger",
+          "useDomain": ""
+        }
+      ]
+    }
+  ],
+  "simpleMode": true,
+  "slAppendChoice": "OR",
+  "zoomMode": true
+}

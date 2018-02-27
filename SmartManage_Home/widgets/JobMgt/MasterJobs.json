@@ -1,0 +1,11 @@
+{
+		"WFMURL" : "https://apigateway.cyient-fiops.com/server/rest/services/XCEL-ADMS/WFM/WMServer",
+		"queryID" : 1602,
+		"WFMUsername" : "Steve.Way",
+		"readOnly": false,
+		"identityService" : "https://ldap.cyient-fiops.com:8082/IdentityServices",
+		"Users" : "ACTION=GetAllUsers",
+		"allowExport" : false,
+		"exportURL": "http://52.72.103.196:8081/ExportData/",
+		"exportJobType": 648
+}

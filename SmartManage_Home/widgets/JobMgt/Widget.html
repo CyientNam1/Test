@@ -1,0 +1,31 @@
+<div data-dojo-attach-point="WFMmgmt">
+  <div id= "jobstatus" style="width:100%; height: 100%;" >
+    <label>Select: </label> 
+      <select id="ddljobstatus" data-dojo-attach-point="ddljobstatus">
+          <option value="1">All Jobs</option>
+          <option value="2">Closed Jobs</option>
+          <option value="3">Assigned</option>
+          <option value="4">In Progress</option>
+          <option value="5">Photo or Attribute Complete</option>
+          <option value="6">Back office QC Fixes Completion</option>
+          <option value="7">Validation Fixes Completion</option>
+          <option value="8">Deliver to Source System</option>
+          <option value="9">Import into Source System</option>
+          <option value="10">Finaly Process and Delivery</option>
+          <option value="11">Customer Admin Jobs(FEEDER)</option>
+      </select> 
+   <!-- <div id="filter-wrapper"> -->
+        <!-- <input
+            id="filter"
+            data-dojo-type="dijit/form/TextBox"
+            data-dojo-props="
+                placeHolder: 'filter by jobname',
+                intermediateChanges:true
+                " style="padding:2p
+           x;margin:3px;;"        
+        /> -->
+    <!-- </div> -->
+      <br /><br /> 
+    </div>
+<div data-dojo-attach-point="resultsGrid"></div>
+</div>

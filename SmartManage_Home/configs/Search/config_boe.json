@@ -1,0 +1,1328 @@
+{
+  "allPlaceholder": "",
+  "showInfoWindowOnSelect": true,
+  "sources": [
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_2093",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/16",
+      "name": "Actual Route",
+      "placeholder": "216230119",
+      "searchFields": [
+        "FEATURE_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_1276",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/0",
+      "name": "Anchor Guy",
+      "placeholder": "231658411",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_4673",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/1",
+      "name": "Area Light",
+      "placeholder": "238339184",
+      "searchFields": [
+        "ID",
+        "LAMP_TYPE"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_6649",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/17",
+      "name": "Arrow",
+      "placeholder": "232379380",
+      "searchFields": [
+        "FEATURE_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_6566",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/18",
+      "name": "Bank Phasing Text",
+      "placeholder": "236782327",
+      "searchFields": [
+        "FEATURE_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_8484",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/0",
+      "name": "Busbar",
+      "placeholder": "234425329",
+      "searchFields": [
+        "ID",
+        "FEEDER_NO"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_1607",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/2",
+      "name": "Capacitor Rack",
+      "placeholder": "233788241",
+      "searchFields": [
+        "ID",
+        "KVAR_RATING"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_4608",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/19",
+      "name": "Change Marker",
+      "placeholder": "216410927",
+      "searchFields": [
+        "FEATURE_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_2323",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/3",
+      "name": "Circuit Breaker",
+      "placeholder": "401225996",
+      "searchFields": [
+        "ID",
+        "FEEDER_NO"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_664",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/4",
+      "name": "Cogeneration",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_1873",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/20",
+      "name": "Config Text",
+      "placeholder": "236782327",
+      "searchFields": [
+        "FEATURE_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_2661",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/1",
+      "name": "Customer Pointer",
+      "placeholder": "243890096",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_5456",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/21",
+      "name": "Customer Connection",
+      "placeholder": "234897861",
+      "searchFields": [
+        "FEATURE_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_9152",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/31",
+      "name": "DAT Flag",
+      "placeholder": "229110871",
+      "searchFields": [
+        "FEEDER_ID",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_9718",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/5",
+      "name": "Distribution Generation",
+      "placeholder": "348305633",
+      "searchFields": [
+        "ID",
+        "RATED_KVA"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_8997",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/6",
+      "name": "Distributed Storage",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "MAXIMUM_KVA"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_4145",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/44",
+      "name": "Edist Meter",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "OBJECTID",
+        "METER_NUMBER"
+      ],
+      "displayField": "METER_NUMBER",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_928",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/7",
+      "name": "Elbow",
+      "placeholder": "74295055",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_5509",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/2",
+      "name": "Electric GPS",
+      "placeholder": "461075809",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_6273",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/15",
+      "name": "Electric Note",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_8887",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/22",
+      "name": "Electric XY",
+      "placeholder": "82542607",
+      "searchFields": [
+        "FEEDER_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_8797",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/26",
+      "name": "Etran OH Conductor",
+      "placeholder": "375583977",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_1350",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/27",
+      "name": "Etran OH Transmission",
+      "placeholder": "all",
+      "searchFields": [
+        "FEEDER_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_6000",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/8",
+      "name": "Fault Indicator",
+      "placeholder": "62473081",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_4183",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/24",
+      "name": "Feeder End Stiching Point",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "JOBUNIT"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_6917",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/25",
+      "name": "Fence",
+      "placeholder": "341451992",
+      "searchFields": [
+        "FEATURE_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId":  "XCEL_ADMS_REFERENCE_905",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/23",
+      "name": "GPS Location",
+      "placeholder": "all",
+      "searchFields": [
+        "FEATURE_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId":"XCEL_ADMS_REFERENCE_5051",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/28",
+      "name": "Lateral Connection",
+      "placeholder": "234547071",
+      "searchFields": [
+        "FEATURE_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_7917",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/9",
+      "name": "Lot Centroid",
+      "placeholder": "all",
+      "searchFields": [
+        "TYPE",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_6071",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/12",
+      "name": "Network Actual Location",
+      "placeholder": "233788241",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_897",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/13",
+      "name": "Network Secondary Location",
+      "placeholder": "236789795",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_5764",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/10",
+      "name": "Nonmetered Facility",
+      "placeholder": "232390352",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId":"XCEL_ADMS_ELECTRIC_633",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/11",
+      "name": "OH ATO",
+      "placeholder": "234898749",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "COMPANY_NO",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_7530",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/12",
+      "name": "OH Fuse",
+      "placeholder": "233851618",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_9412",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/13",
+      "name": "OH Primary",
+      "placeholder": "216332038",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_650",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/14",
+      "name": "OH Secondary",
+      "placeholder": "223985598",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_874",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/15",
+      "name": "OH Service",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_8930",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/16",
+      "name": "OH Switch",
+      "placeholder": "107224338",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_2796",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/17",
+      "name": "OH Transformer Bank",
+      "placeholder": "236764249",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_5706",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/3",
+      "name": "Pad",
+      "placeholder": "233641971",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_3614",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/14",
+      "name": "PAR Flag",
+      "placeholder": "229110703",
+      "searchFields": [
+        "FEEDER_ID",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_3256",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/18",
+      "name": "Pedestal",
+      "placeholder": "232677675",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_7139",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/19",
+      "name": "Pole",
+      "placeholder": "229221323",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_8503",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/20",
+      "name": "Pole Brace",
+      "placeholder": "348213085",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_4403",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/21",
+      "name": "Pole H Fixture",
+      "placeholder": "232174223",
+      "searchFields": [
+        "ID",
+        "NO_OF_ARMS"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_5111",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/29",
+      "name": "Primary Connection",
+      "placeholder": "349227433",
+      "searchFields": [
+        "FEATURE_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_9484",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/22",
+      "name": "Primary Meter",
+      "placeholder": "234897861",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_106",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/23",
+      "name": "Primary Open Point",
+      "placeholder": "234860198",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_8310",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/24",
+      "name": "Primary Splice",
+      "placeholder": "413558478",
+      "searchFields": [
+        "ID",
+        "SPLICE_TYPE"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_530",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/4",
+      "name": "Primary Structure Node",
+      "placeholder": "96248285",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_7659",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/25",
+      "name": "Reclosure Bank",
+      "placeholder": "234473552",
+      "searchFields": [
+        "ID",
+        "RECLOSER_TYPE"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_525",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/26",
+      "name": "Regulator Bank",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_1274",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/27",
+      "name": "Riser",
+      "placeholder": "232148678",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_2025",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/43",
+      "name": "Secondary Capacitor",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "KVAR_RATING"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_328",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/30",
+      "name": "Secondary Connection",
+      "placeholder": "349227433",
+      "searchFields": [
+        "FEATURE_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_7060",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/5",
+      "name": "Secondary Inline Device",
+      "placeholder": "96504072",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_8460",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/28",
+      "name": "Secondary Open Point",
+      "placeholder": "234927756",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_1412",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/6",
+      "name": "Secondary Structure Node",
+      "placeholder": "99001444s",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_6170",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/29",
+      "name": "Secondary Transformer",
+      "placeholder": "55659361",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_9340",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/30",
+      "name": "Sectionalizer Bank",
+      "placeholder": "234481685",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/46",
+      "name": "Service Wire",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_2959",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/7",
+      "name": "Slack span Feed Point",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_8122",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/8",
+      "name": "Span Guy",
+      "placeholder": "232203744",
+      "searchFields": [
+        "ID",
+        "NO_OF_GUYS"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_2031",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/31",
+      "name": "Splice Box",
+      "placeholder": "389484061",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_5577",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/32",
+      "name": "Step Transformer Bank",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "MAP_UNIT_X",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_6503",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/33",
+      "name": "Street Light",
+      "placeholder": "238953559",
+      "searchFields": [
+        "ID",
+        "LAMP_TYPE"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_1932",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/34",
+      "name": "Substation",
+      "placeholder": "55659522",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_6",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/35",
+      "name": "Switching Facility",
+      "placeholder": "233281585",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_6663",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/36",
+      "name": "UG ATO",
+      "placeholder": "412316678",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_7648",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/37",
+      "name": "UG Fuse",
+      "placeholder": "234209613",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_7641",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/42",
+      "name": "UG Primary",
+      "placeholder": "215740457",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_3796",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/10",
+      "name": "UG Route",
+      "placeholder": "212413413",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_1021",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/40",
+      "name": "UG Service",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_8158",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/38",
+      "name": "UG Secondary",
+      "placeholder": "66683975",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_REFERENCE_4477",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/FeatureServer/11",
+      "name": "UG Structure",
+      "placeholder": "456173346",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_8218",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/41",
+      "name": "UG Switch",
+      "placeholder": "234580296",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "XCEL_ADMS_ELECTRIC_3194",
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/39",
+      "name": "UG Transformer",
+      "placeholder": "236836676",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "url": "http://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer",
+      "name": "World",
+      "singleLineFieldName": "SingleLine",
+      "placeholder": "World",
+      "countryCode": "",
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "searchInCurrentMapExtent": false,
+      "type": "locator"
+    }
+  ]
+}

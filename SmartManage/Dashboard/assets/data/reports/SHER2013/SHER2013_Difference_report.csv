@@ -1,0 +1,3646 @@
+Table Name,ID,Parent ID,Change Type,Attribute,Original Value,New Value
+Pole,229023469,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229024070,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229024166,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+OH Primary,215460868,N/A,UPDATE,installed_length,54,55
+Audit History,165071223,N/A,INSERT,,,
+Audit History,165073442,N/A,INSERT,,,
+Audit History,165073474,N/A,INSERT,,,
+Audit History,165070398,N/A,INSERT,,,
+Audit History,165072836,N/A,INSERT,,,
+Audit History,165071250,N/A,INSERT,,,
+Audit History,165071346,N/A,INSERT,,,
+Cable Segment Delta,527272119,N/A,INSERT,,,
+Cable Segment Delta,527272151,N/A,INSERT,,,
+Cable Segment Delta,527272183,N/A,INSERT,,,
+Cable Segment Delta,527272752,N/A,INSERT,,,
+Pole,229024669,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+OH Fuse,234043138,N/A,UPDATE,type,Unknown,Cutout
+OH Fuse,234043138,N/A,UPDATE,facility_tag_x,unset,71
+OH Fuse,234043138,N/A,UPDATE,facility_tag_y,unset,650
+OH Fuse,234043138,N/A,UPDATE,map_unit_x,unset,2132
+OH Fuse,234043138,N/A,UPDATE,map_unit_y,unset,114
+OH Fuse,234043138,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 54' 3.54"""
+OH Fuse,234043138,N/A,GEOM UPDATE,actual_location,point (1),"point (2) - Moved 52' 9.41"""
+Audit History,165071154,N/A,INSERT,,,
+Audit History,165070489,N/A,INSERT,,,
+Audit History,165071186,N/A,INSERT,,,
+Audit History,165071122,N/A,INSERT,,,
+Cable Segment Delta,527272104,N/A,INSERT,,,
+Cable Segment Delta,527272136,N/A,INSERT,,,
+Cable Segment Delta,527272769,N/A,INSERT,,,
+Cable Segment Delta,527271944,N/A,INSERT,,,
+Audit History,165073935,N/A,INSERT,,,
+Audit History,165073967,N/A,INSERT,,,
+Audit History,165073270,N/A,INSERT,,,
+Audit History,165073302,N/A,INSERT,,,
+Cable Segment Delta,527275181,N/A,INSERT,,,
+Cable Segment Delta,527274796,N/A,INSERT,,,
+Cable Segment Delta,527272045,N/A,INSERT,,,
+Cable Segment Delta,527272077,N/A,INSERT,,,
+Cable Segment Delta,527272109,N/A,INSERT,,,
+Cable Segment Delta,527272141,N/A,INSERT,,,
+Audit History,165074925,N/A,INSERT,,,
+Audit History,165074100,N/A,INSERT,,,
+Cable Segment Delta,527272474,N/A,INSERT,,,
+Cable Segment Delta,527272506,N/A,INSERT,,,
+Cable Segment Delta,527272666,N/A,INSERT,,,
+Audit History,165075290,N/A,INSERT,,,
+Audit History,165075322,N/A,INSERT,,,
+Audit History,165075354,N/A,INSERT,,,
+Audit History,165075386,N/A,INSERT,,,
+Cable Segment Delta,527271976,N/A,INSERT,,,
+Cable Segment Delta,527272040,N/A,INSERT,,,
+Cable Segment Delta,527272072,N/A,INSERT,,,
+Cable Segment Delta,527272168,N/A,INSERT,,,
+Primary Wire,215465598,215465597,UPDATE,status,Existing,Deleted
+Audit History,165073334,N/A,INSERT,,,
+Primary Wire,476784415,215461344,UPDATE,status,Existing,Deleted
+Audit History,165072605,N/A,INSERT,,,
+OH Primary,215465738,N/A,UPDATE,installed_length,28.03,43
+OH Primary,215465738,N/A,UPDATE,phase_orientation,ABC,BCA
+OH Transformer Bank Unit,441689287,441689268,UPDATE,phase,A,C
+Pole,228899769,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Primary Wire,215460963,215460962,UPDATE,insulation,WP,BARE
+OH Transformer Bank Unit,235965558,235965545,UPDATE,phase,C,B
+Cable Segment Delta,527272479,N/A,INSERT,,,
+Cable Segment Delta,527272511,N/A,INSERT,,,
+Audit History,165071217,N/A,INSERT,,,
+Audit History,165071281,N/A,INSERT,,,
+Audit History,165071313,N/A,INSERT,,,
+Audit History,165071591,N/A,INSERT,,,
+Audit History,165072288,N/A,INSERT,,,
+OH Primary,215383934,N/A,UPDATE,installed_length,50,49
+OH Primary,215383934,N/A,UPDATE,phase_orientation,ABC,CBA
+Pole,229023934,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Primary Wire,221509570,221509568,UPDATE,status,Existing,Deleted
+Audit History,165073366,N/A,INSERT,,,
+Audit History,165074696,N/A,INSERT,,,
+Audit History,165074728,N/A,INSERT,,,
+Audit History,165074792,N/A,INSERT,,,
+Cable Segment Delta,527272071,N/A,INSERT,,,
+Cable Segment Delta,527272103,N/A,INSERT,,,
+Cable Segment Delta,527272135,N/A,INSERT,,,
+Cable Segment Delta,527272768,N/A,INSERT,,,
+Audit History,165073173,N/A,INSERT,,,
+Audit History,165073205,N/A,INSERT,,,
+Audit History,165073397,N/A,INSERT,,,
+Audit History,165074094,N/A,INSERT,,,
+Pole,229026779,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Audit History,165071564,N/A,INSERT,,,
+Audit History,165071404,N/A,INSERT,,,
+Audit History,165072197,N/A,INSERT,,,
+Cable Segment Delta,527272473,N/A,INSERT,,,
+Cable Segment Delta,527272505,N/A,INSERT,,,
+UG Primary,453018487,N/A,UPDATE,calculated_length,89.9,153.8
+UG Primary,453018487,N/A,GEOM UPDATE,route,chain (1),"chain (2) - Length Changed 63' 11.13"""
+Cable Segment Delta,527272665,N/A,INSERT,,,
+Audit History,165075417,N/A,INSERT,,,
+Audit History,165073579,N/A,INSERT,,,
+Audit History,165071961,N/A,INSERT,,,
+Audit History,165071993,N/A,INSERT,,,
+Audit History,165075521,N/A,INSERT,,,
+OH Primary,441768637,N/A,UPDATE,installed_length,112.9,112
+OH Primary,215465597,N/A,UPDATE,status,Existing,Deleted
+OH Primary,215465597,N/A,UPDATE,calculated_length,11.26,unset
+OH Primary,215465597,N/A,GEOM UPDATE,route,chain (1),chain (2) - Length Changed  < 1cm
+Audit History,165073604,N/A,INSERT,,,
+Audit History,165071289,N/A,INSERT,,,
+Audit History,165072811,N/A,INSERT,,,
+Audit History,165071321,N/A,INSERT,,,
+Audit History,165073067,N/A,INSERT,,,
+Audit History,165073099,N/A,INSERT,,,
+Pole,229024036,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024228,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Audit History,165073411,N/A,INSERT,,,
+Audit History,165071352,N/A,INSERT,,,
+Primary Wire,215460994,215460992,UPDATE,insulation,WP,BARE
+OH Primary,215460962,N/A,UPDATE,installed_length,106,108
+OH Primary,215461111,N/A,UPDATE,installed_length,65,63
+Audit History,165073537,N/A,INSERT,,,
+Audit History,165073569,N/A,INSERT,,,
+Audit History,165071350,N/A,INSERT,,,
+Audit History,165071126,N/A,INSERT,,,
+OH Primary,215275973,N/A,UPDATE,installed_length,117,126
+Audit History,165071977,N/A,INSERT,,,
+Audit History,165072009,N/A,INSERT,,,
+Audit History,165072706,N/A,INSERT,,,
+Audit History,165072738,N/A,INSERT,,,
+Pole,316086727,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Cable Segment Delta,527272054,N/A,INSERT,,,
+Cable Segment Delta,527272086,N/A,INSERT,,,
+Cable Segment Delta,527272118,N/A,INSERT,,,
+Cable Segment Delta,527272258,N/A,INSERT,,,
+Cable Segment Delta,527272290,N/A,INSERT,,,
+Cable Segment Delta,527272386,N/A,INSERT,,,
+OH Transformer Bank,235998758,N/A,UPDATE,output_voltage,Unknown,'120/240'
+OH Transformer Bank,235998758,N/A,GEOM UPDATE,actual_location,point (1),"point (2) - Moved 231' 8.27"""
+OH Transformer Bank,235998758,N/A,GEOM UPDATE,bank_phasing_text,simple_point (1),"simple_point (2) - Moved 210' 10.80"""
+OH Transformer Bank,235998758,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 210' 10.80"""
+OH Transformer Bank,235998758,N/A,GEOM UPDATE,config_text,simple_point (1),"simple_point (2) - Moved 210' 10.80"""
+Audit History,165074045,N/A,INSERT,,,
+Audit History,165070456,N/A,INSERT,,,
+Audit History,165071946,N/A,INSERT,,,
+Audit History,165070424,N/A,INSERT,,,
+Audit History,165072042,N/A,INSERT,,,
+Audit History,165073648,N/A,INSERT,,,
+Audit History,165072727,N/A,INSERT,,,
+Audit History,165072759,N/A,INSERT,,,
+Audit History,165074946,N/A,INSERT,,,
+Audit History,165074029,N/A,INSERT,,,
+Audit History,165074694,N/A,INSERT,,,
+Audit History,165074790,N/A,INSERT,,,
+Audit History,165074918,N/A,INSERT,,,
+OH Primary,221509449,N/A,UPDATE,installed_length,64,42
+Cable Segment Delta,527271948,N/A,INSERT,,,
+Cable Segment Delta,527271980,N/A,INSERT,,,
+Cable Segment Delta,527272044,N/A,INSERT,,,
+Cable Segment Delta,527272076,N/A,INSERT,,,
+Pole,228998876,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,228999573,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Audit History,165073971,N/A,INSERT,,,
+Audit History,165075493,N/A,INSERT,,,
+Audit History,165075525,N/A,INSERT,,,
+Audit History,165073306,N/A,INSERT,,,
+Cable Segment Delta,527272664,N/A,INSERT,,,
+Cable Segment Delta,527272303,N/A,INSERT,,,
+Cable Segment Delta,527271903,N/A,INSERT,,,
+Cable Segment Delta,527271935,N/A,INSERT,,,
+Audit History,165075320,N/A,INSERT,,,
+Cable Segment Delta,527272775,N/A,INSERT,,,
+Cable Segment Delta,527272807,N/A,INSERT,,,
+Audit History,165073501,N/A,INSERT,,,
+Audit History,165073533,N/A,INSERT,,,
+Audit History,165073565,N/A,INSERT,,,
+Audit History,165075151,N/A,INSERT,,,
+Audit History,165074037,N/A,INSERT,,,
+Audit History,165074069,N/A,INSERT,,,
+Audit History,165074165,N/A,INSERT,,,
+Audit History,165075495,N/A,INSERT,,,
+Audit History,165074158,N/A,INSERT,,,
+Primary Wire,474841879,474841865,UPDATE,status,Existing,Deleted
+Pole,229024131,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Primary Wire,215460993,215460992,UPDATE,insulation,WP,BARE
+Cable Segment Delta,527271963,N/A,INSERT,,,
+Cable Segment Delta,527272059,N/A,INSERT,,,
+Cable Segment Delta,527272091,N/A,INSERT,,,
+Pole,441767279,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Primary Wire,441767976,441767964,UPDATE,status,Existing,Deleted
+Audit History,165070422,N/A,INSERT,,,
+OH Transformer Bank,441898699,N/A,UPDATE,bank_configuration,'3 Phase Wye/Delta','3 Phase Wye/Wye'
+Audit History,165071526,N/A,INSERT,,,
+Audit History,165071558,N/A,INSERT,,,
+OH Primary,441689022,N/A,UPDATE,installed_length,102,106
+Pole,229023804,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229023836,N/A,UPDATE,framing_type,Unknown,Horizontal Center Phase High
+Primary Wire,215462380,215462377,UPDATE,insulation,WP,BARE
+Cable Segment Delta,527274788,N/A,INSERT,,,
+Cable Segment Delta,527274820,N/A,INSERT,,,
+Cable Segment Delta,527272133,N/A,INSERT,,,
+Cable Segment Delta,527272165,N/A,INSERT,,,
+Cable Segment Delta,527271941,N/A,INSERT,,,
+Cable Segment Delta,527271973,N/A,INSERT,,,
+Audit History,165074156,N/A,INSERT,,,
+Audit History,165092857,N/A,INSERT,,,
+Audit History,165074113,N/A,INSERT,,,
+Audit History,165073320,N/A,INSERT,,,
+Audit History,165071882,N/A,INSERT,,,
+Pole,441768707,N/A,UPDATE,framing_type,Unknown,Double Circuit Vertical Neutral High
+Pole,229027538,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+OH Primary,215465922,N/A,UPDATE,installed_length,142,136
+Audit History,165075450,N/A,INSERT,,,
+Audit History,165075258,N/A,INSERT,,,
+Edist Device Feeder,527271870,N/A,INSERT,,,
+Cable Segment Delta,527272503,N/A,INSERT,,,
+Cable Segment Delta,527272599,N/A,INSERT,,,
+Cable Segment Delta,527272631,N/A,INSERT,,,
+Primary Wire,527271555,215462739,INSERT,,,
+Audit History,165074558,N/A,INSERT,,,
+Audit History,165074686,N/A,INSERT,,,
+Audit History,165075255,N/A,INSERT,,,
+Audit History,165071928,N/A,INSERT,,,
+Audit History,165072024,N/A,INSERT,,,
+Audit History,165073482,N/A,INSERT,,,
+Audit History,165073610,N/A,INSERT,,,
+OH Primary,215461664,N/A,UPDATE,installed_length,26,34
+OH Primary,215461664,N/A,UPDATE,phase_orientation,ABC,CBA
+Cable Segment Delta,527275000,N/A,INSERT,,,
+Audit History,165071534,N/A,INSERT,,,
+Primary Wire,527271546,388861523,INSERT,,,
+Pole,229023401,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229023241,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Pole,229023273,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Primary Wire,215461024,215461022,UPDATE,insulation,WP,BARE
+OH Primary,215460992,N/A,UPDATE,installed_length,158,154
+Audit History,165073440,N/A,INSERT,,,
+Audit History,165073472,N/A,INSERT,,,
+Primary Wire,441768736,441768724,UPDATE,status,Existing,Deleted
+Audit History,165071118,N/A,INSERT,,,
+Audit History,165072103,N/A,INSERT,,,
+Audit History,165071911,N/A,INSERT,,,
+Cable Segment Delta,527272053,N/A,INSERT,,,
+Cable Segment Delta,527272085,N/A,INSERT,,,
+Cable Segment Delta,527272117,N/A,INSERT,,,
+Cable Segment Delta,527272149,N/A,INSERT,,,
+Pole,229024660,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024692,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229024564,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024596,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Primary Wire,215462379,215462377,UPDATE,insulation,WP,BARE
+Audit History,165072802,N/A,INSERT,,,
+Audit History,165075584,N/A,INSERT,,,
+Audit History,165072866,N/A,INSERT,,,
+Audit History,165073292,N/A,INSERT,,,
+Cable Segment Delta,527271940,N/A,INSERT,,,
+Cable Segment Delta,527271972,N/A,INSERT,,,
+Cable Segment Delta,527272036,N/A,INSERT,,,
+Audit History,165074692,N/A,INSERT,,,
+Audit History,165074788,N/A,INSERT,,,
+Primary Wire,476784411,215461135,UPDATE,insulation,WP,BARE
+OH Transformer Bank,237177225,N/A,UPDATE,bank_configuration,'3 Phase Wye/Delta','3 Phase Wye/Wye'
+Cable Segment Delta,527271979,N/A,INSERT,,,
+Cable Segment Delta,527272075,N/A,INSERT,,,
+Cable Segment Delta,527272107,N/A,INSERT,,,
+Cable Segment Delta,527272139,N/A,INSERT,,,
+Audit History,165074923,N/A,INSERT,,,
+Audit History,165074162,N/A,INSERT,,,
+Audit History,165075460,N/A,INSERT,,,
+Audit History,165075588,N/A,INSERT,,,
+Cable Segment Delta,527272566,N/A,INSERT,,,
+Cable Segment Delta,527271901,N/A,INSERT,,,
+Cable Segment Delta,527271933,N/A,INSERT,,,
+Distributed Generation,527272598,N/A,INSERT,,,
+Audit History,165074461,N/A,INSERT,,,
+Audit History,165074621,N/A,INSERT,,,
+Audit History,165075350,N/A,INSERT,,,
+Audit History,165071021,N/A,INSERT,,,
+OH Fuse,66682122,N/A,UPDATE,status,Existing,Deleted
+Cable Segment Delta,527272095,N/A,INSERT,,,
+Cable Segment Delta,527272191,N/A,INSERT,,,
+Cable Segment Delta,527274770,N/A,INSERT,,,
+Cable Segment Delta,527272166,N/A,INSERT,,,
+Cable Segment Delta,527271942,N/A,INSERT,,,
+Cable Segment Delta,527271974,N/A,INSERT,,,
+Cable Segment Delta,527272038,N/A,INSERT,,,
+Audit History,165073636,N/A,INSERT,,,
+OH Transformer Bank Unit,476505170,237177225,UPDATE,phase,C,B
+Audit History,165073933,N/A,INSERT,,,
+Audit History,165073965,N/A,INSERT,,,
+Audit History,165072635,N/A,INSERT,,,
+Audit History,165071544,N/A,INSERT,,,
+Audit History,165071608,N/A,INSERT,,,
+Pole,229024097,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Audit History,165071762,N/A,INSERT,,,
+Audit History,165071794,N/A,INSERT,,,
+Audit History,165071826,N/A,INSERT,,,
+OH Fuse,234125328,N/A,UPDATE,switch_no,638504s,638504
+OH Fuse,234125328,N/A,UPDATE,xcel_energy_device_id,638504s,638504
+OH Fuse,234125328,N/A,UPDATE,xcel_energy_field_stencil,638504s,638504
+Cable Segment Delta,527272573,N/A,INSERT,,,
+Cable Segment Delta,527272605,N/A,INSERT,,,
+Cable Segment Delta,527272637,N/A,INSERT,,,
+Primary Wire,215381020,215381019,UPDATE,insulation,WP,BARE
+Audit History,165071942,N/A,INSERT,,,
+Audit History,165071341,N/A,INSERT,,,
+OH Primary,248997200,N/A,UPDATE,status,Existing,Deleted
+OH Primary,248997200,N/A,UPDATE,calculated_length,46.26,unset
+Cable Segment Delta,527272385,N/A,INSERT,,,
+Cable Segment Delta,527272417,N/A,INSERT,,,
+Primary Wire,215462378,215462377,UPDATE,insulation,WP,BARE
+OH Primary,215460728,N/A,UPDATE,installed_length,100,98
+OH Primary,215463043,N/A,UPDATE,installed_length,120,121
+OH Primary,215463075,N/A,UPDATE,installed_length,150,146
+OH Primary,215463075,N/A,UPDATE,phase_orientation,ABC,CBA
+Cable Segment Delta,527272472,N/A,INSERT,,,
+Cable Segment Delta,527272504,N/A,INSERT,,,
+Edist Device Feeder,527274787,N/A,INSERT,,,
+Cable Segment Delta,527274819,N/A,INSERT,,,
+Cable Segment Delta,527271939,N/A,INSERT,,,
+Cable Segment Delta,527271971,N/A,INSERT,,,
+Cable Segment Delta,527272035,N/A,INSERT,,,
+Audit History,165071647,N/A,INSERT,,,
+Audit History,165073169,N/A,INSERT,,,
+Audit History,165073201,N/A,INSERT,,,
+Audit History,165073393,N/A,INSERT,,,
+OH Primary,215463117,N/A,UPDATE,installed_length,128,126
+Audit History,165071162,N/A,INSERT,,,
+Audit History,165072083,N/A,INSERT,,,
+Cable Segment Delta,527272430,N/A,INSERT,,,
+Cable Segment Delta,527272501,N/A,INSERT,,,
+Cable Segment Delta,527272661,N/A,INSERT,,,
+Cable Segment Delta,527271900,N/A,INSERT,,,
+Audit History,165075413,N/A,INSERT,,,
+Audit History,165075445,N/A,INSERT,,,
+Audit History,165074588,N/A,INSERT,,,
+Audit History,165074684,N/A,INSERT,,,
+Audit History,165071134,N/A,INSERT,,,
+Audit History,165072688,N/A,INSERT,,,
+Audit History,165071198,N/A,INSERT,,,
+Audit History,165071262,N/A,INSERT,,,
+OH Primary,215465561,N/A,UPDATE,calculated_length,43.49,83.96
+OH Primary,215465561,N/A,UPDATE,installed_length,39,114
+OH Primary,215465561,N/A,GEOM UPDATE,route,chain (1),"chain (2) - Length Changed 41' 7.10"""
+Pole,527275137,N/A,INSERT,,,
+Pole,395956352,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Audit History,165071953,N/A,INSERT,,,
+Pole,229024000,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Audit History,165074627,N/A,INSERT,,,
+Audit History,165071348,N/A,INSERT,,,
+Cable Segment Delta,527272787,N/A,INSERT,,,
+Audit History,165071124,N/A,INSERT,,,
+OH Primary,215381019,N/A,UPDATE,installed_length,159,155
+Audit History,165070419,N/A,INSERT,,,
+Audit History,165071116,N/A,INSERT,,,
+Audit History,165071148,N/A,INSERT,,,
+Audit History,165071180,N/A,INSERT,,,
+Cable Segment Delta,527271956,N/A,INSERT,,,
+Cable Segment Delta,527272052,N/A,INSERT,,,
+Cable Segment Delta,527272084,N/A,INSERT,,,
+Cable Segment Delta,527272116,N/A,INSERT,,,
+Pole,229023961,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229023993,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Audit History,165075501,N/A,INSERT,,,
+Audit History,165075533,N/A,INSERT,,,
+Audit History,165075597,N/A,INSERT,,,
+Audit History,165070454,N/A,INSERT,,,
+Audit History,165071279,N/A,INSERT,,,
+Audit History,165071944,N/A,INSERT,,,
+Audit History,165071311,N/A,INSERT,,,
+OH Transformer Bank Unit,527272034,527271856,INSERT,,,
+Cable Segment Delta,527271938,N/A,INSERT,,,
+Audit History,165071870,N/A,INSERT,,,
+Audit History,165074025,N/A,INSERT,,,
+Audit History,165071678,N/A,INSERT,,,
+Audit History,165071742,N/A,INSERT,,,
+Pole,229025949,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229026582,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Audit History,165071344,N/A,INSERT,,,
+Primary Wire,221509366,221509363,UPDATE,insulation,WP,BARE
+OH Primary,526959002,N/A,INSERT,,,
+Audit History,165074698,N/A,INSERT,,,
+Audit History,165075491,N/A,INSERT,,,
+Audit History,165073336,N/A,INSERT,,,
+Audit History,165073368,N/A,INSERT,,,
+Primary Wire,215460858,215460852,UPDATE,insulation,Unknown,BARE
+Edist Device Feeder,527272532,N/A,INSERT,,,
+Cable Segment Delta,527271899,N/A,INSERT,,,
+Cable Segment Delta,527271931,N/A,INSERT,,,
+Audit History,165074523,N/A,INSERT,,,
+Audit History,165075380,N/A,INSERT,,,
+OH Primary,215467308,N/A,UPDATE,installed_length,89,95
+Cable Segment Delta,527274993,N/A,INSERT,,,
+Cable Segment Delta,527272037,N/A,INSERT,,,
+Pole,229028666,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Cable Segment Delta,527272069,N/A,INSERT,,,
+Cable Segment Delta,527272101,N/A,INSERT,,,
+Pole,453018725,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Audit History,165073171,N/A,INSERT,,,
+Audit History,165073203,N/A,INSERT,,,
+Audit History,165073395,N/A,INSERT,,,
+Pole,453019773,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Audit History,165073895,N/A,INSERT,,,
+Audit History,165073006,N/A,INSERT,,,
+Audit History,165073703,N/A,INSERT,,,
+Cable Segment Delta,527272167,N/A,INSERT,,,
+Cable Segment Delta,527272508,N/A,INSERT,,,
+Cable Segment Delta,527272540,N/A,INSERT,,,
+Cable Segment Delta,527272668,N/A,INSERT,,,
+Audit History,165071876,N/A,INSERT,,,
+Audit History,165071940,N/A,INSERT,,,
+Audit History,165070450,N/A,INSERT,,,
+Primary Wire,527271516,215463165,INSERT,,,
+Cable Segment Delta,527272070,N/A,INSERT,,,
+Cable Segment Delta,527272102,N/A,INSERT,,,
+Cable Segment Delta,527272134,N/A,INSERT,,,
+Audit History,165071556,N/A,INSERT,,,
+Audit History,165074023,N/A,INSERT,,,
+Audit History,165074055,N/A,INSERT,,,
+Audit History,165073268,N/A,INSERT,,,
+Cable Segment Delta,527271937,N/A,INSERT,,,
+Cable Segment Delta,527271969,N/A,INSERT,,,
+Cable Segment Delta,527272033,N/A,INSERT,,,
+Cable Segment Delta,527272065,N/A,INSERT,,,
+Audit History,165071645,N/A,INSERT,,,
+Audit History,165071709,N/A,INSERT,,,
+Audit History,165073391,N/A,INSERT,,,
+OH Primary,425975922,N/A,UPDATE,calculated_length,134,unset
+OH Primary,425975922,N/A,UPDATE,installed_length,132.3,76
+OH Primary,425975922,N/A,GEOM UPDATE,route,chain (1),chain (2) - Length Changed  < 1cm
+Pole,229026645,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229027566,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Primary Wire,221509365,221509363,UPDATE,insulation,WP,BARE
+Pole,228998839,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Audit History,165071370,N/A,INSERT,,,
+OH Primary,441768419,N/A,UPDATE,calculated_length,69.79,unset
+OH Primary,441768419,N/A,UPDATE,installed_length,75,41
+OH Primary,441768419,N/A,GEOM UPDATE,route,chain (1),chain (2) - Length Changed  < 1cm
+UG Transformer,66682078,N/A,UPDATE,status,Existing,Deleted
+Cable Segment Delta,527271898,N/A,INSERT,,,
+Cable Segment Delta,527271930,N/A,INSERT,,,
+Cable Segment Delta,527272499,N/A,INSERT,,,
+Audit History,165074490,N/A,INSERT,,,
+Audit History,165074586,N/A,INSERT,,,
+Audit History,165075315,N/A,INSERT,,,
+Audit History,165073448,N/A,INSERT,,,
+Audit History,165073480,N/A,INSERT,,,
+Primary Wire,476783359,215380965,UPDATE,insulation,WP,BARE
+Audit History,165071229,N/A,INSERT,,,
+OH Primary,215467874,N/A,UPDATE,installed_length,112,115
+Audit History,165073794,N/A,INSERT,,,
+Audit History,165073826,N/A,INSERT,,,
+Audit History,165072079,N/A,INSERT,,,
+Audit History,165071190,N/A,INSERT,,,
+Audit History,165071919,N/A,INSERT,,,
+Audit History,165072111,N/A,INSERT,,,
+Audit History,165072076,N/A,INSERT,,,
+Pole,441767219,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Audit History,165072108,N/A,INSERT,,,
+OH Primary,215467739,N/A,UPDATE,installed_length,265,260
+Audit History,165071242,N/A,INSERT,,,
+Audit History,165071178,N/A,INSERT,,,
+Audit History,165071114,N/A,INSERT,,,
+Audit History,165074463,N/A,INSERT,,,
+Cable Segment Delta,527272876,N/A,INSERT,,,
+Cable Segment Delta,527272748,N/A,INSERT,,,
+Cable Segment Delta,527272844,N/A,INSERT,,,
+Pole,229023799,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229023863,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229023895,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229024624,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Audit History,165072039,N/A,INSERT,,,
+Audit History,165071150,N/A,INSERT,,,
+Audit History,165071182,N/A,INSERT,,,
+Audit History,165071246,N/A,INSERT,,,
+Primary Structure Node,94570438,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 13' 10.53"""
+Audit History,165073646,N/A,INSERT,,,
+Audit History,165072757,N/A,INSERT,,,
+Audit History,165075072,N/A,INSERT,,,
+Audit History,165071740,N/A,INSERT,,,
+Audit History,165071772,N/A,INSERT,,,
+Audit History,165073230,N/A,INSERT,,,
+Audit History,165073262,N/A,INSERT,,,
+OH Primary,221509479,N/A,UPDATE,installed_length,107,108
+Cable Segment Delta,527271943,N/A,INSERT,,,
+Cable Segment Delta,527271975,N/A,INSERT,,,
+Cable Segment Delta,527272039,N/A,INSERT,,,
+Primary Structure Node,527272736,N/A,INSERT,,,
+Cable Segment Delta,527271977,N/A,INSERT,,,
+Cable Segment Delta,527272041,N/A,INSERT,,,
+Cable Segment Delta,527272073,N/A,INSERT,,,
+Cable Segment Delta,527272105,N/A,INSERT,,,
+Primary Wire,221509364,221509363,UPDATE,insulation,WP,BARE
+OH Transformer Bank Unit,236019281,236019268,UPDATE,phase,A,C
+Audit History,165073399,N/A,INSERT,,,
+Audit History,165074921,N/A,INSERT,,,
+Cable Segment Delta,527272397,N/A,INSERT,,,
+Cable Segment Delta,527272429,N/A,INSERT,,,
+Cable Segment Delta,527271897,N/A,INSERT,,,
+Audit History,165075218,N/A,INSERT,,,
+Audit History,165075250,N/A,INSERT,,,
+Audit History,165074457,N/A,INSERT,,,
+Audit History,165074553,N/A,INSERT,,,
+Audit History,165071184,N/A,INSERT,,,
+Audit History,165072073,N/A,INSERT,,,
+Audit History,165072105,N/A,INSERT,,,
+Audit History,165071913,N/A,INSERT,,,
+Audit History,165074700,N/A,INSERT,,,
+Audit History,165074003,N/A,INSERT,,,
+Audit History,165073939,N/A,INSERT,,,
+Cable Segment Delta,527272068,N/A,INSERT,,,
+OH Primary,215467208,N/A,UPDATE,calculated_length,215.7,213.1
+OH Primary,215467208,N/A,UPDATE,installed_length,214,196
+OH Primary,215467208,N/A,UPDATE,phase_orientation,AC,CA
+OH Primary,215467208,N/A,GEOM UPDATE,route,chain (1),chain (2) - Length Changed  < 1cm
+OH Primary,215467841,N/A,UPDATE,installed_length,102,101
+Audit History,165073266,N/A,INSERT,,,
+Audit History,165073298,N/A,INSERT,,,
+Audit History,165073931,N/A,INSERT,,,
+Pole,229023332,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229023428,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229023460,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Audit History,165072490,N/A,INSERT,,,
+Cable Segment Delta,527272667,N/A,INSERT,,,
+Cable Segment Delta,527271961,N/A,INSERT,,,
+Cable Segment Delta,527272057,N/A,INSERT,,,
+Audit History,165071209,N/A,INSERT,,,
+Audit History,165070480,N/A,INSERT,,,
+Primary Wire,441767938,441767926,UPDATE,status,Existing,Deleted
+OH Primary,215460852,N/A,UPDATE,installed_length,58,56
+OH Primary,215460852,N/A,UPDATE,phase_orientation,ABC,CBA
+OH Primary,215462246,N/A,UPDATE,calculated_length,171.4,unset
+OH Primary,215462246,N/A,UPDATE,installed_length,124,56
+OH Primary,215462246,N/A,UPDATE,phase_orientation,ABC,CBA
+OH Primary,215462246,N/A,GEOM UPDATE,route,chain (1),chain (2) - Length Changed  < 1cm
+Edist Device Feeder,527274785,N/A,INSERT,,,
+Cable Segment Delta,527272662,N/A,INSERT,,,
+Cable Segment Delta,527272502,N/A,INSERT,,,
+Cable Segment Delta,527272534,N/A,INSERT,,,
+Pole,228899784,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Audit History,165072628,N/A,INSERT,,,
+Audit History,165073197,N/A,INSERT,,,
+OH Primary,215461065,N/A,UPDATE,installed_length,59,62
+OH Primary,215461065,N/A,UPDATE,phase_orientation,ABC,CBA
+Cable Segment Delta,527272478,N/A,INSERT,,,
+Cable Segment Delta,527272510,N/A,INSERT,,,
+Cable Segment Delta,527272638,N/A,INSERT,,,
+Audit History,165071880,N/A,INSERT,,,
+Audit History,165071215,N/A,INSERT,,,
+OH Primary,221509363,N/A,UPDATE,installed_length,79,118
+Audit History,165075422,N/A,INSERT,,,
+Pole,527271704,N/A,INSERT,,,
+Cable Segment Delta,527271896,N/A,INSERT,,,
+Cable Segment Delta,527271928,N/A,INSERT,,,
+Cable Segment Delta,527272497,N/A,INSERT,,,
+Audit History,165075441,N/A,INSERT,,,
+Audit History,165073695,N/A,INSERT,,,
+Audit History,165073727,N/A,INSERT,,,
+Audit History,165073759,N/A,INSERT,,,
+OH Primary,215466259,N/A,UPDATE,calculated_length,124.9,170.9
+OH Primary,215466259,N/A,UPDATE,installed_length,124.9,168
+OH Primary,215466259,N/A,GEOM UPDATE,route,chain (1),"chain (2) - Length Changed 46' 7.67"""
+Audit History,165071132,N/A,INSERT,,,
+Audit History,165072117,N/A,INSERT,,,
+Audit History,165071925,N/A,INSERT,,,
+Audit History,165071196,N/A,INSERT,,,
+Audit History,165073753,N/A,INSERT,,,
+Audit History,165073817,N/A,INSERT,,,
+Audit History,165073300,N/A,INSERT,,,
+Audit History,165073332,N/A,INSERT,,,
+Audit History,165071985,N/A,INSERT,,,
+OH Primary,389186656,N/A,UPDATE,installed_length,160.1,106
+Audit History,165071778,N/A,INSERT,,,
+Audit History,165071810,N/A,INSERT,,,
+Audit History,165092837,N/A,INSERT,,,
+OH Fuse,233833645,N/A,UPDATE,type,Unknown,Cutout
+Pole,229023299,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,228997392,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+OH Primary,215460794,N/A,UPDATE,installed_length,238,235
+OH Primary,215460794,N/A,UPDATE,phase_orientation,CBA,ABC
+OH Primary,215463141,N/A,UPDATE,calculated_length,66.61,69.27
+OH Primary,215463141,N/A,UPDATE,installed_length,66,60
+OH Primary,215463141,N/A,GEOM UPDATE,route,chain (1),chain (2) - Length Changed  < 1cm
+Audit History,165071112,N/A,INSERT,,,
+Audit History,165071144,N/A,INSERT,,,
+Audit History,165070447,N/A,INSERT,,,
+Audit History,165071937,N/A,INSERT,,,
+Pole,229023925,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+OH Primary,215461388,N/A,UPDATE,calculated_length,72.45,unset
+OH Primary,215461388,N/A,UPDATE,installed_length,73,52
+OH Primary,215461388,N/A,GEOM UPDATE,route,chain (1),chain (2) - Length Changed  < 1cm
+Audit History,165071213,N/A,INSERT,,,
+Audit History,165072070,N/A,INSERT,,,
+Audit History,165071277,N/A,INSERT,,,
+Audit History,165071974,N/A,INSERT,,,
+OH Primary,215383892,N/A,UPDATE,installed_length,127,121
+Audit History,165074021,N/A,INSERT,,,
+Audit History,165073228,N/A,INSERT,,,
+Audit History,165073260,N/A,INSERT,,,
+Audit History,165073324,N/A,INSERT,,,
+Pole,229027531,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 20' 7.27"""
+Primary Wire,215462807,215462804,UPDATE,insulation,WP,BARE
+OH Transformer Bank Unit,236019279,236019268,UPDATE,phase,C,A
+Cable Segment Delta,527271895,N/A,INSERT,,,
+Cable Segment Delta,527271927,N/A,INSERT,,,
+Distributed Generation,527272624,N/A,INSERT,,,
+Audit History,165073822,N/A,INSERT,,,
+Audit History,165075216,N/A,INSERT,,,
+Audit History,165075248,N/A,INSERT,,,
+Audit History,165074519,N/A,INSERT,,,
+Pole,229027997,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Cable Segment Delta,527272067,N/A,INSERT,,,
+Cable Segment Delta,527272099,N/A,INSERT,,,
+Cable Segment Delta,527272131,N/A,INSERT,,,
+Cable Segment Delta,527272173,N/A,INSERT,,,
+OH Primary,215465716,N/A,UPDATE,installed_length,161,160
+OH Primary,215465716,N/A,UPDATE,phase_orientation,ABC,BCA
+OH Primary,215466285,N/A,UPDATE,installed_length,101,104
+Primary Wire,476784410,215461111,UPDATE,insulation,WP,BARE
+Audit History,165071711,N/A,INSERT,,,
+Audit History,165071839,N/A,INSERT,,,
+Audit History,165071248,N/A,INSERT,,,
+Audit History,165071120,N/A,INSERT,,,
+Audit History,165071152,N/A,INSERT,,,
+Audit History,165070428,N/A,INSERT,,,
+Audit History,165070492,N/A,INSERT,,,
+Audit History,165071221,N/A,INSERT,,,
+Audit History,165071285,N/A,INSERT,,,
+Cable Segment Delta,527272663,N/A,INSERT,,,
+Cable Segment Delta,527271902,N/A,INSERT,,,
+Cable Segment Delta,527271934,N/A,INSERT,,,
+Audit History,165073705,N/A,INSERT,,,
+Audit History,165071303,N/A,INSERT,,,
+Audit History,165071872,N/A,INSERT,,,
+Audit History,165071904,N/A,INSERT,,,
+OH Primary,215276023,N/A,UPDATE,installed_length,101,105
+OH Switch Unit,449361183,449361173,UPDATE,phase,ABC,A
+OH Primary,215462340,N/A,UPDATE,installed_length,104,100
+OH Primary,215462340,N/A,UPDATE,phase_orientation,CBA,ABC
+Cable Segment Delta,527271932,N/A,INSERT,,,
+Edist Device Feeder,527272597,N/A,INSERT,,,
+Distributed Generation,527272533,N/A,INSERT,,,
+Cable Segment Delta,527274784,N/A,INSERT,,,
+OH Primary,441768724,N/A,UPDATE,installed_length,113,99
+Audit History,165071737,N/A,INSERT,,,
+Audit History,165072594,N/A,INSERT,,,
+Primary Wire,476784404,215461009,UPDATE,insulation,WP,BARE
+OH Primary,220779373,N/A,UPDATE,installed_length,31.48,56
+OH Primary,220779373,N/A,UPDATE,phase_orientation,ABC,CBA
+Pole,228998867,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,228999436,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Primary Wire,215462774,215462771,UPDATE,insulation,WP,BARE
+OH Primary,215461695,N/A,UPDATE,installed_length,102,99
+OH Primary,215461695,N/A,UPDATE,phase_orientation,ABC,CBA
+Cable Segment Delta,527272495,N/A,INSERT,,,
+Cable Segment Delta,527272527,N/A,INSERT,,,
+Cable Segment Delta,527272655,N/A,INSERT,,,
+Cable Segment Delta,527271894,N/A,INSERT,,,
+Audit History,165073885,N/A,INSERT,,,
+Audit History,165073917,N/A,INSERT,,,
+Audit History,165074486,N/A,INSERT,,,
+Cable Segment Delta,527272171,N/A,INSERT,,,
+Pole,229028629,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229028661,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229028725,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Audit History,165071364,N/A,INSERT,,,
+Pole,229002409,N/A,UPDATE,status,Retired,Deleted
+OH Primary,215462968,N/A,UPDATE,installed_length,119,116
+OH Primary,215463000,N/A,UPDATE,installed_length,121,118
+Cable Segment Delta,527272369,N/A,INSERT,,,
+Cable Segment Delta,527272401,N/A,INSERT,,,
+Cable Segment Delta,527272433,N/A,INSERT,,,
+Audit History,165071639,N/A,INSERT,,,
+Audit History,165075263,N/A,INSERT,,,
+Audit History,165075455,N/A,INSERT,,,
+Cable Segment Delta,527272120,N/A,INSERT,,,
+Audit History,165070445,N/A,INSERT,,,
+Audit History,165071110,N/A,INSERT,,,
+Audit History,165071142,N/A,INSERT,,,
+Audit History,165071174,N/A,INSERT,,,
+Audit History,165074015,N/A,INSERT,,,
+Audit History,165074079,N/A,INSERT,,,
+Audit History,165074808,N/A,INSERT,,,
+Pole,438399594,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Audit History,165073364,N/A,INSERT,,,
+Audit History,165073997,N/A,INSERT,,,
+Pole,229024748,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Audit History,165071598,N/A,INSERT,,,
+OH Primary,216933384,N/A,UPDATE,installed_length,136,137
+Audit History,165071909,N/A,INSERT,,,
+Audit History,165072101,N/A,INSERT,,,
+Audit History,165070483,N/A,INSERT,,,
+OH Primary,438557439,N/A,UPDATE,installed_length,191.8,181
+OH Primary,438557439,N/A,UPDATE,phase_orientation,ABC,BAC
+Audit History,165071071,N/A,INSERT,,,
+Audit History,165073955,N/A,INSERT,,,
+Audit History,165073987,N/A,INSERT,,,
+Audit History,165074019,N/A,INSERT,,,
+Audit History,165070485,N/A,INSERT,,,
+OH Primary,215462601,N/A,UPDATE,installed_length,100,101
+OH Primary,441768768,N/A,UPDATE,installed_length,143.6,149
+OH Transformer Bank Unit,441898720,441898699,UPDATE,phase,C,B
+Primary Wire,215462773,215462771,UPDATE,insulation,WP,BARE
+Cable Segment Delta,527271893,N/A,INSERT,,,
+Audit History,165075214,N/A,INSERT,,,
+Audit History,165075342,N/A,INSERT,,,
+Audit History,165075374,N/A,INSERT,,,
+Audit History,165075406,N/A,INSERT,,,
+Cable Segment Delta,527271970,N/A,INSERT,,,
+Cable Segment Delta,527272066,N/A,INSERT,,,
+Cable Segment Delta,527272098,N/A,INSERT,,,
+Cable Segment Delta,527272130,N/A,INSERT,,,
+OH Primary,215465682,N/A,UPDATE,installed_length,133,131
+Audit History,165074690,N/A,INSERT,,,
+Audit History,165074882,N/A,INSERT,,,
+Audit History,165074914,N/A,INSERT,,,
+Audit History,165073929,N/A,INSERT,,,
+Audit History,165075138,N/A,INSERT,,,
+Distributed Generation,419395058,N/A,UPDATE,type,PV,Unknown
+Audit History,165070487,N/A,INSERT,,,
+Audit History,165070508,N/A,INSERT,,,
+Audit History,165071333,N/A,INSERT,,,
+Audit History,165070412,N/A,INSERT,,,
+Audit History,165071237,N/A,INSERT,,,
+Cable Segment Delta,527272100,N/A,INSERT,,,
+Cable Segment Delta,527272132,N/A,INSERT,,,
+Cable Segment Delta,527272164,N/A,INSERT,,,
+Pole,229023794,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229024555,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024651,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Audit History,165073963,N/A,INSERT,,,
+Audit History,165073995,N/A,INSERT,,,
+Audit History,165073330,N/A,INSERT,,,
+Audit History,165074916,N/A,INSERT,,,
+Audit History,165071735,N/A,INSERT,,,
+Audit History,165073161,N/A,INSERT,,,
+Audit History,165071831,N/A,INSERT,,,
+Audit History,165071764,N/A,INSERT,,,
+Audit History,165071796,N/A,INSERT,,,
+Audit History,165073350,N/A,INSERT,,,
+Audit History,165073382,N/A,INSERT,,,
+Pole,229025942,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,228998769,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,228999594,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,228999626,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,228999626,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 6' 11.55"""
+Audit History,165073444,N/A,INSERT,,,
+Audit History,165074495,N/A,INSERT,,,
+Audit History,165075352,N/A,INSERT,,,
+Audit History,165071890,N/A,INSERT,,,
+Cable Segment Delta,527272493,N/A,INSERT,,,
+Cable Segment Delta,527271892,N/A,INSERT,,,
+Cable Segment Delta,527271924,N/A,INSERT,,,
+Audit History,165073851,N/A,INSERT,,,
+Audit History,165073883,N/A,INSERT,,,
+Audit History,165075245,N/A,INSERT,,,
+Audit History,165073915,N/A,INSERT,,,
+Audit History,165072081,N/A,INSERT,,,
+OH Primary,215465585,N/A,UPDATE,calculated_length,47.71,56.55
+OH Primary,215465585,N/A,GEOM UPDATE,route,chain (1),"chain (2) - Length Changed 11' 6.90"""
+Audit History,165072840,N/A,INSERT,,,
+Audit History,165072680,N/A,INSERT,,,
+Audit History,165072744,N/A,INSERT,,,
+Audit History,165073601,N/A,INSERT,,,
+Audit History,165071156,N/A,INSERT,,,
+Audit History,165071188,N/A,INSERT,,,
+Audit History Alternative,165070395,N/A,INSERT,,,
+Audit History,165072045,N/A,INSERT,,,
+Cable Segment Delta,527274817,N/A,INSERT,,,
+Cable Segment Delta,527274849,N/A,INSERT,,,
+Cable Segment Delta,527274881,N/A,INSERT,,,
+Audit History,165092896,N/A,INSERT,,,
+Audit History,165071108,N/A,INSERT,,,
+Audit History,165071140,N/A,INSERT,,,
+Audit History,165070475,N/A,INSERT,,,
+Primary Wire,441688915,441688903,UPDATE,status,Existing,Deleted
+OH Primary,215462145,N/A,UPDATE,installed_length,130,126
+Audit History,165071275,N/A,INSERT,,,
+Audit History,165071307,N/A,INSERT,,,
+Audit History,165071339,N/A,INSERT,,,
+Audit History,165071211,N/A,INSERT,,,
+Pole,228899779,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Pole,229027648,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Audit History,165074373,N/A,INSERT,,,
+Audit History,165071862,N/A,INSERT,,,
+Audit History,165074017,N/A,INSERT,,,
+Audit History,165073921,N/A,INSERT,,,
+Audit History,165073953,N/A,INSERT,,,
+OH Primary,215460831,N/A,UPDATE,installed_length,244,242
+OH Primary,215462954,N/A,UPDATE,installed_length,128,139
+OH Primary,221509541,N/A,UPDATE,installed_length,99,98
+Pole,229028636,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229028700,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,228997374,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,228999561,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+UG Transformer Bank Unit,66682039,66682029,UPDATE,status,Existing,Deleted
+Pole,231266636,N/A,UPDATE,status,Existing,Deleted
+Cable Segment Delta,527271891,N/A,INSERT,,,
+Cable Segment Delta,527271923,N/A,INSERT,,,
+Cable Segment Delta,527272492,N/A,INSERT,,,
+Primary Cable,527271699,527271668,INSERT,,,
+Audit History,165073786,N/A,INSERT,,,
+Audit History,165074643,N/A,INSERT,,,
+Audit History,165075212,N/A,INSERT,,,
+Audit History,165075436,N/A,INSERT,,,
+Cable Segment Delta,527274786,N/A,INSERT,,,
+Cable Segment Delta,527274818,N/A,INSERT,,,
+Cable Segment Delta,527271965,N/A,INSERT,,,
+Cable Segment Delta,527272061,N/A,INSERT,,,
+Cable Segment Delta,527272093,N/A,INSERT,,,
+Cable Segment Delta,527272125,N/A,INSERT,,,
+Audit History,165073272,N/A,INSERT,,,
+Audit History,165073304,N/A,INSERT,,,
+Primary Structure Node,527272716,N/A,INSERT,,,
+Cable Segment Delta,527272097,N/A,INSERT,,,
+Audit History,165070462,N/A,INSERT,,,
+Audit History,165073989,N/A,INSERT,,,
+Audit History,165073634,N/A,INSERT,,,
+Audit History,165071802,N/A,INSERT,,,
+Audit History,165071837,N/A,INSERT,,,
+Audit History,165072630,N/A,INSERT,,,
+Audit History,165073701,N/A,INSERT,,,
+Audit History,165073733,N/A,INSERT,,,
+Audit History,165073765,N/A,INSERT,,,
+Audit History,165073004,N/A,INSERT,,,
+UG Primary,453018766,N/A,UPDATE,calculated_length,54.89,54.89
+UG Primary,453018766,N/A,GEOM UPDATE,route,chain (1),chain (2) - Length Changed  < 1cm
+Cable Segment Delta,527271959,N/A,INSERT,,,
+Cable Segment Delta,527272055,N/A,INSERT,,,
+Audit History,165070410,N/A,INSERT,,,
+Audit History,165070442,N/A,INSERT,,,
+Audit History,165071331,N/A,INSERT,,,
+Audit History,165071235,N/A,INSERT,,,
+Pole,229023888,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229023952,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229023984,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Audit History,165071100,N/A,INSERT,,,
+Audit History,165071637,N/A,INSERT,,,
+Audit History,165071733,N/A,INSERT,,,
+Audit History,165073159,N/A,INSERT,,,
+Audit History,165072668,N/A,INSERT,,,
+Pole,229027526,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229026573,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Audit History,165072006,N/A,INSERT,,,
+Audit History,165071878,N/A,INSERT,,,
+Audit History,165075420,N/A,INSERT,,,
+Cable Segment Delta,527272491,N/A,INSERT,,,
+Cable Segment Delta,527271890,N/A,INSERT,,,
+Cable Segment Delta,527271922,N/A,INSERT,,,
+Audit History,165074514,N/A,INSERT,,,
+Audit History,165074610,N/A,INSERT,,,
+Audit History,165075243,N/A,INSERT,,,
+Audit History,165073881,N/A,INSERT,,,
+Primary Wire,441767900,441767888,UPDATE,status,Existing,Deleted
+Pole,441768629,N/A,UPDATE,framing_type,Unknown,Double Circuit Vertical Neutral High
+Pole,441768629,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 0' 3.00"""
+Audit History,165074151,N/A,INSERT,,,
+Audit History,165073927,N/A,INSERT,,,
+Audit History,165071138,N/A,INSERT,,,
+Audit History,165071106,N/A,INSERT,,,
+Audit History,165070505,N/A,INSERT,,,
+Audit History,165071202,N/A,INSERT,,,
+Cable Segment Delta,527272163,N/A,INSERT,,,
+OH Primary,438399622,N/A,UPDATE,calculated_length,74.26,74.71
+OH Primary,438399622,N/A,UPDATE,installed_length,89.02,99
+OH Fuse Unit,234125278,234125266,UPDATE,status,Existing,Deleted
+OH Fuse Unit,234125246,234125234,UPDATE,status,Existing,Deleted
+Audit History,165072632,N/A,INSERT,,,
+Distributed Generation,419395468,N/A,UPDATE,type,PV,Unknown
+Audit History,165071146,N/A,INSERT,,,
+Audit History,165072067,N/A,INSERT,,,
+OH Primary,215462157,N/A,UPDATE,installed_length,163,161
+OH Primary,215462221,N/A,UPDATE,calculated_length,179.7,unset
+OH Primary,215462221,N/A,UPDATE,installed_length,174.6,57
+OH Primary,215462221,N/A,GEOM UPDATE,route,chain (1),chain (2) - Length Changed  < 1cm
+OH Primary,215462982,N/A,UPDATE,installed_length,100,96
+OH Primary,215462982,N/A,UPDATE,phase_orientation,ABC,CBA
+Audit History,165092855,N/A,INSERT,,,
+Audit History,165071828,N/A,INSERT,,,
+Audit History,165071860,N/A,INSERT,,,
+Audit History,165071668,N/A,INSERT,,,
+Pole,229023278,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Audit History,165071922,N/A,INSERT,,,
+Audit History,165092885,N/A,INSERT,,,
+Pole,229023767,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229024528,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+OH Primary,221510053,N/A,UPDATE,installed_length,35,34
+UG Transformer,236076539,N/A,UPDATE,facility_tag_y,83,84
+UG Transformer,236076539,N/A,UPDATE,xcel_energy_device_id,3 - 0 - 15 - 0 - 83,3 - 0 - 15 - 0 - 84
+UG Transformer,236076539,N/A,UPDATE,xcel_energy_field_stencil,15 - 83,15 - 84
+Cable Segment Delta,527272586,N/A,INSERT,,,
+Cable Segment Delta,527272618,N/A,INSERT,,,
+Cable Segment Delta,527272650,N/A,INSERT,,,
+Audit History,165074481,N/A,INSERT,,,
+Audit History,165074577,N/A,INSERT,,,
+Audit History,165075210,N/A,INSERT,,,
+Audit History,165075274,N/A,INSERT,,,
+OH Primary,441768864,N/A,UPDATE,installed_length,145.7,139
+Cable Segment Delta,527271936,N/A,INSERT,,,
+Cable Segment Delta,527271968,N/A,INSERT,,,
+Cable Segment Delta,527272032,N/A,INSERT,,,
+Cable Segment Delta,527272064,N/A,INSERT,,,
+Pole,229002404,N/A,UPDATE,status,Retired,Deleted
+Audit History,165074688,N/A,INSERT,,,
+Audit History,165071676,N/A,INSERT,,,
+Audit History,165073294,N/A,INSERT,,,
+OH Transformer Bank,235982255,N/A,UPDATE,facility_tag_x,72,943
+OH Transformer Bank,235982255,N/A,UPDATE,facility_tag_y,63,507
+OH Transformer Bank,235982255,N/A,UPDATE,xcel_energy_device_id,3 - 0 - 72 - 0 - 63,3 - 0 - 943 - 0 - 507
+OH Transformer Bank,235982255,N/A,UPDATE,xcel_energy_field_stencil,72 - 63,943 - 507
+Audit History,165070426,N/A,INSERT,,,
+Audit History,165070394,N/A,INSERT,,,
+Audit History,165071219,N/A,INSERT,,,
+OH Primary,436262898,N/A,UPDATE,installed_length,77.72,84
+OH Primary,436262898,N/A,UPDATE,phase_orientation,ABC,BAC
+Audit History,165071233,N/A,INSERT,,,
+Audit History,165070408,N/A,INSERT,,,
+Audit History,165070472,N/A,INSERT,,,
+Primary Wire,476783299,215373838,UPDATE,status,Existing,Deleted
+OH Primary,216949427,N/A,UPDATE,installed_length,131,124
+Pole,229023758,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229023854,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229023918,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+OH Fuse Unit,234125245,234125234,UPDATE,status,Existing,Deleted
+Cable Segment Delta,527271929,N/A,INSERT,,,
+Cable Segment Delta,527272498,N/A,INSERT,,,
+Pole,229024537,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024633,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Audit History,165072057,N/A,INSERT,,,
+Audit History,165073515,N/A,INSERT,,,
+Audit History,165071098,N/A,INSERT,,,
+Audit History,165071635,N/A,INSERT,,,
+Pole,229026795,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Cable Segment Delta,527272094,N/A,INSERT,,,
+Cable Segment Delta,527272126,N/A,INSERT,,,
+Cable Segment Delta,527272158,N/A,INSERT,,,
+Cable Segment Delta,527275010,N/A,INSERT,,,
+Cable Segment Delta,527271920,N/A,INSERT,,,
+Distributed Generation,527272585,N/A,INSERT,,,
+Cable Segment Delta,527272489,N/A,INSERT,,,
+Cable Segment Delta,527272521,N/A,INSERT,,,
+Audit History,165073719,N/A,INSERT,,,
+Audit History,165073847,N/A,INSERT,,,
+Audit History,165073879,N/A,INSERT,,,
+Audit History,165073911,N/A,INSERT,,,
+Pole,229027990,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 16' 6.63"""
+Pole,229027990,N/A,GEOM UPDATE,anno,Unset GEOM,text (2)
+Audit History,165073362,N/A,INSERT,,,
+OH Primary,215465549,N/A,UPDATE,installed_length,149,150
+OH Primary,215466246,N/A,UPDATE,installed_length,128,126
+Audit History,165071047,N/A,INSERT,,,
+Audit History,165071317,N/A,INSERT,,,
+Audit History,165071264,N/A,INSERT,,,
+Audit History,165071200,N/A,INSERT,,,
+Audit History,165070439,N/A,INSERT,,,
+Audit History,165071104,N/A,INSERT,,,
+Audit History,165074077,N/A,INSERT,,,
+Audit History,165073949,N/A,INSERT,,,
+Audit History,165074742,N/A,INSERT,,,
+Audit History,165073981,N/A,INSERT,,,
+Pole,229024582,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+OH Fuse Unit,234125244,234125234,UPDATE,status,Existing,Deleted
+OH Primary,215461508,N/A,UPDATE,installed_length,168,166
+Audit History,165071273,N/A,INSERT,,,
+Audit History,165071305,N/A,INSERT,,,
+Audit History,165071337,N/A,INSERT,,,
+Audit History,165071874,N/A,INSERT,,,
+OH Primary,215383916,N/A,UPDATE,installed_length,98,96
+OH Primary,215383916,N/A,UPDATE,phase_orientation,ABC,CBA
+OH Primary,215383948,N/A,UPDATE,installed_length,106,105
+Audit History,165073284,N/A,INSERT,,,
+Audit History,165073316,N/A,INSERT,,,
+Cable Segment Delta,527272475,N/A,INSERT,,,
+Cable Segment Delta,527272507,N/A,INSERT,,,
+Pole,229026033,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Audit History,165071244,N/A,INSERT,,,
+OH Primary,215461373,N/A,UPDATE,calculated_length,85.21,85.7
+OH Primary,215461373,N/A,GEOM UPDATE,route,chain (1),"chain (2) - Length Changed 1' 8.59"""
+OH Primary,215462671,N/A,UPDATE,installed_length,87,83
+OH Primary,215462703,N/A,UPDATE,installed_length,104,101
+Audit History,165075415,N/A,INSERT,,,
+Audit History,165075447,N/A,INSERT,,,
+Distributed Generation,527272520,N/A,INSERT,,,
+Edist Device Feeder,527272584,N/A,INSERT,,,
+Cable Segment Delta,527272488,N/A,INSERT,,,
+Cable Segment Delta,527271919,N/A,INSERT,,,
+Audit History,165073117,N/A,INSERT,,,
+Audit History,165073149,N/A,INSERT,,,
+Audit History,165074639,N/A,INSERT,,,
+Audit History,165075208,N/A,INSERT,,,
+Cable Segment Delta,527274977,N/A,INSERT,,,
+Audit History,165073165,N/A,INSERT,,,
+Audit History,165071643,N/A,INSERT,,,
+Audit History,165073389,N/A,INSERT,,,
+Audit History,165071707,N/A,INSERT,,,
+Audit History,165072242,N/A,INSERT,,,
+Audit History,165072306,N/A,INSERT,,,
+OH Primary,215462377,N/A,UPDATE,installed_length,86,87
+OH Transformer Bank,235982532,N/A,UPDATE,output_voltage,Unknown,'120/240'
+Primary Wire,215466014,215466012,UPDATE,status,Existing,Deleted
+Audit History,165070502,N/A,INSERT,,,
+Audit History,165070406,N/A,INSERT,,,
+Cable Segment Delta,527272162,N/A,INSERT,,,
+OH Fuse,233833469,N/A,UPDATE,type,Unknown,Cutout
+Audit History,165073961,N/A,INSERT,,,
+Audit History,165073993,N/A,INSERT,,,
+Audit History,165071774,N/A,INSERT,,,
+Audit History,165071806,N/A,INSERT,,,
+OH Transformer Bank Unit,476510085,237639673,UPDATE,status,Existing,Deleted
+OH Primary,214993522,N/A,UPDATE,calculated_length,201.1,188.3
+OH Primary,214993522,N/A,UPDATE,installed_length,203,106
+OH Primary,214993522,N/A,GEOM UPDATE,route,chain (1),chain (2) - Length Changed  < 1cm
+Audit History,165071032,N/A,INSERT,,,
+OH Primary,248997007,N/A,UPDATE,installed_length,54.7,56
+Pole,229024350,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024478,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Primary Wire,215461148,215461147,UPDATE,insulation,WP,BARE
+Pole,228998827,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,228999556,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Cable Segment Delta,527272487,N/A,INSERT,,,
+Cable Segment Delta,527272519,N/A,INSERT,,,
+Electric XY,82418777,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 0' 11.11"""
+Audit History,165072956,N/A,INSERT,,,
+Audit History,165073877,N/A,INSERT,,,
+Audit History,165074510,N/A,INSERT,,,
+Audit History,165073909,N/A,INSERT,,,
+Audit History,165073717,N/A,INSERT,,,
+Audit History,165073749,N/A,INSERT,,,
+Audit History,165073781,N/A,INSERT,,,
+Audit History,165073813,N/A,INSERT,,,
+Audit History,165073845,N/A,INSERT,,,
+Audit History,165075303,N/A,INSERT,,,
+Audit History,165075335,N/A,INSERT,,,
+Audit History,165073783,N/A,INSERT,,,
+Audit History,165073815,N/A,INSERT,,,
+Audit History,165073687,N/A,INSERT,,,
+Audit History,165075367,N/A,INSERT,,,
+Audit History,165073409,N/A,INSERT,,,
+Audit History,165073505,N/A,INSERT,,,
+Audit History,165074606,N/A,INSERT,,,
+Audit History,165071951,N/A,INSERT,,,
+Cable Segment Delta,527272367,N/A,INSERT,,,
+Cable Segment Delta,527272399,N/A,INSERT,,,
+Cable Segment Delta,527272431,N/A,INSERT,,,
+Primary Wire,436263464,436263457,UPDATE,status,Existing,Deleted
+Cable Segment Delta,527272500,N/A,INSERT,,,
+Cable Segment Delta,527272660,N/A,INSERT,,,
+Audit History,165070469,N/A,INSERT,,,
+Primary Structure Node,527275133,N/A,INSERT,,,
+OH Primary,216949488,N/A,UPDATE,installed_length,44,41
+Pole,229027865,N/A,UPDATE,status,Retired,Deleted
+OH Fuse,233833372,N/A,UPDATE,type,Unknown,Cutout
+Pole,229024676,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Audit History,165072001,N/A,INSERT,,,
+Audit History,165072033,N/A,INSERT,,,
+Audit History,165071240,N/A,INSERT,,,
+Audit History,165071176,N/A,INSERT,,,
+Audit History,165073642,N/A,INSERT,,,
+Audit History,165071167,N/A,INSERT,,,
+Audit History,165071231,N/A,INSERT,,,
+Audit History,165071295,N/A,INSERT,,,
+Audit History,165071824,N/A,INSERT,,,
+Audit History,165071856,N/A,INSERT,,,
+Primary Wire,441768649,441768637,UPDATE,status,Existing,Deleted
+Audit History,165071760,N/A,INSERT,,,
+Pole,229026568,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229024285,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Primary Wire,215461908,215461907,UPDATE,insulation,Unknown,BARE
+Pole,228997304,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,228998762,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,228999459,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Cable Segment Delta,527272486,N/A,INSERT,,,
+Cable Segment Delta,527272518,N/A,INSERT,,,
+Audit History,165073083,N/A,INSERT,,,
+Audit History,165073115,N/A,INSERT,,,
+Audit History,165073147,N/A,INSERT,,,
+Audit History,165075398,N/A,INSERT,,,
+Audit History,165070452,N/A,INSERT,,,
+Distributed Generation,427191761,N/A,UPDATE,type,PV,Unknown
+Audit History,165071309,N/A,INSERT,,,
+Pole,229028019,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Cable Segment Delta,527272288,N/A,INSERT,,,
+Cable Segment Delta,527272384,N/A,INSERT,,,
+Cable Segment Delta,527272416,N/A,INSERT,,,
+Audit History,165074053,N/A,INSERT,,,
+Audit History,165074149,N/A,INSERT,,,
+Primary Wire,476784405,215461048,UPDATE,insulation,WP,BARE
+Cable Segment Delta,527272287,N/A,INSERT,,,
+Cable Segment Delta,527272383,N/A,INSERT,,,
+Cable Segment Delta,527272415,N/A,INSERT,,,
+Cable Segment Delta,527272223,N/A,INSERT,,,
+Audit History,165074975,N/A,INSERT,,,
+Audit History,165073454,N/A,INSERT,,,
+Audit History,165075104,N/A,INSERT,,,
+Audit History,165075168,N/A,INSERT,,,
+Audit History,165074247,N/A,INSERT,,,
+Audit History,165071516,N/A,INSERT,,,
+Audit History,165071484,N/A,INSERT,,,
+Audit History,165073767,N/A,INSERT,,,
+Cable Segment Delta,527272181,N/A,INSERT,,,
+Cable Segment Delta,527271957,N/A,INSERT,,,
+Cable Segment Delta,527272750,N/A,INSERT,,,
+Primary Wire,215381036,215381035,UPDATE,insulation,WP,BARE
+OH Primary,215381004,N/A,UPDATE,calculated_length,88.19,87.78
+OH Primary,215381004,N/A,UPDATE,installed_length,89,93
+OH Primary,215381004,N/A,GEOM UPDATE,route,chain (1),"chain (2) - Length Changed 1' 1.00"""
+OH Primary,215466012,N/A,UPDATE,type,3 Phase,2 Phase
+OH Primary,215466012,N/A,UPDATE,installed_length,75,73
+OH Primary,215466012,N/A,UPDATE,phase_designation,ABC,AC
+OH Primary,215466012,N/A,UPDATE,phase_orientation,ABC,AC
+Audit History,165070404,N/A,INSERT,,,
+Audit History,165070436,N/A,INSERT,,,
+Audit History,165070500,N/A,INSERT,,,
+OH Transformer Bank,483254352,N/A,GEOM UPDATE,bank_phasing_text,simple_point (1),"simple_point (2) - Moved 1' 8.00"""
+OH Transformer Bank,483254352,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 1' 8.00"""
+OH Transformer Bank,483254352,N/A,GEOM UPDATE,config_text,simple_point (1),"simple_point (2) - Moved 1' 8.00"""
+Audit History,165071696,N/A,INSERT,,,
+Audit History,165072393,N/A,INSERT,,,
+Audit History,165073218,N/A,INSERT,,,
+Pole,229024739,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Cable Segment Delta,527272496,N/A,INSERT,,,
+Cable Segment Delta,527272560,N/A,INSERT,,,
+Cable Segment Delta,527272592,N/A,INSERT,,,
+OH Primary,527271102,N/A,INSERT,,,
+Audit History,165071631,N/A,INSERT,,,
+Audit History,165073153,N/A,INSERT,,,
+Audit History,165071663,N/A,INSERT,,,
+Pole,228999427,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+OH Primary,215461147,N/A,UPDATE,installed_length,143,141
+OH Primary,438399386,N/A,UPDATE,status,Existing,Deleted
+OH Primary,438399386,N/A,UPDATE,calculated_length,58.94,unset
+OH Primary,526958988,N/A,INSERT,,,
+Pole,229026663,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229026695,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Audit History,165072036,N/A,INSERT,,,
+Pole,228997271,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Primary Wire,215461210,215461207,UPDATE,insulation,Unknown,BARE
+OH Transformer Bank,236019268,N/A,UPDATE,bank_configuration,'2 Phase Wye/Delta','3 Phase Open Wye/Open Delta'
+Primary Wire,215276061,215276059,UPDATE,insulation,WP,BARE
+Cable Segment Delta,527272485,N/A,INSERT,,,
+Cable Segment Delta,527272517,N/A,INSERT,,,
+Cable Segment Delta,527272645,N/A,INSERT,,,
+Audit History,165072922,N/A,INSERT,,,
+OH Transformer Bank Unit,235998910,235998899,UPDATE,phase,C,B
+Audit History,165073779,N/A,INSERT,,,
+Audit History,165073811,N/A,INSERT,,,
+Audit History,165075238,N/A,INSERT,,,
+Audit History,165075270,N/A,INSERT,,,
+Audit History,165073684,N/A,INSERT,,,
+Audit History,165074477,N/A,INSERT,,,
+OH Primary,216949504,N/A,UPDATE,installed_length,38,34
+Cable Segment Delta,527272382,N/A,INSERT,,,
+Cable Segment Delta,527272414,N/A,INSERT,,,
+Cable Segment Delta,527272089,N/A,INSERT,,,
+Cable Segment Delta,527272754,N/A,INSERT,,,
+Audit History,165075134,N/A,INSERT,,,
+Audit History,165075166,N/A,INSERT,,,
+Audit History,165073282,N/A,INSERT,,,
+Audit History,165075006,N/A,INSERT,,,
+Primary Wire,441688802,441688790,UPDATE,status,Existing,Deleted
+OH Primary,215460758,N/A,UPDATE,installed_length,154,148
+OH Primary,215460758,N/A,UPDATE,phase_orientation,ABC,CBA
+OH Primary,215463105,N/A,UPDATE,installed_length,123,117
+Pole,229023362,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+OH Primary,215463263,N/A,UPDATE,installed_length,126,125
+OH Primary,215463263,N/A,UPDATE,phase_orientation,ABC,CBA
+OH Primary,215381035,N/A,UPDATE,installed_length,152,121
+Audit History,165070467,N/A,INSERT,,,
+Cable Segment Delta,527272255,N/A,INSERT,,,
+Cable Segment Delta,527272129,N/A,INSERT,,,
+Cable Segment Delta,527272161,N/A,INSERT,,,
+OH Primary,214993470,N/A,UPDATE,installed_length,203,106
+Pole,229023881,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229023913,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229024546,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024642,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Primary Wire,215460743,215460740,UPDATE,insulation,WP,BARE
+OH Transformer Bank Unit,235999091,235999080,UPDATE,phase,C,B
+Audit History,165071968,N/A,INSERT,,,
+Audit History,165073167,N/A,INSERT,,,
+Audit History,165071061,N/A,INSERT,,,
+Pole,441767918,N/A,UPDATE,framing_type,Unknown,Double Circuit Vertical Neutral High
+Audit History,165071758,N/A,INSERT,,,
+Audit History,165071694,N/A,INSERT,,,
+Fault Indicator,425975875,N/A,UPDATE,status,Existing,Deleted
+Pole,229024315,N/A,UPDATE,status,Retired,Deleted
+Pole,228999585,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,228999617,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Primary Wire,215461209,215461207,UPDATE,insulation,Unknown,BARE
+Edist Device Feeder,527271851,N/A,INSERT,,,
+Edist Device Feeder,527271883,N/A,INSERT,,,
+Primary Wire,215276060,215276059,UPDATE,insulation,WP,BARE
+Cable Segment Delta,527272484,N/A,INSERT,,,
+Audit History,165073113,N/A,INSERT,,,
+Audit History,165073145,N/A,INSERT,,,
+Audit History,165074667,N/A,INSERT,,,
+Audit History,165075204,N/A,INSERT,,,
+Audit History,165071792,N/A,INSERT,,,
+Audit History,165092787,N/A,INSERT,,,
+Audit History,165092851,N/A,INSERT,,,
+Audit History,165074573,N/A,INSERT,,,
+Audit History,165075430,N/A,INSERT,,,
+Pole,229027889,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Cable Segment Delta,527271978,N/A,INSERT,,,
+Cable Segment Delta,527272042,N/A,INSERT,,,
+Cable Segment Delta,527272074,N/A,INSERT,,,
+Audit History,165073163,N/A,INSERT,,,
+Audit History,165073195,N/A,INSERT,,,
+Audit History,165073387,N/A,INSERT,,,
+Cable Segment Delta,527272413,N/A,INSERT,,,
+Cable Segment Delta,527272221,N/A,INSERT,,,
+Cable Segment Delta,527272253,N/A,INSERT,,,
+Audit History,165075101,N/A,INSERT,,,
+Audit History,165073763,N/A,INSERT,,,
+Audit History,165073859,N/A,INSERT,,,
+Audit History,165073891,N/A,INSERT,,,
+Audit History,165073737,N/A,INSERT,,,
+Audit History,165074562,N/A,INSERT,,,
+Audit History,165073769,N/A,INSERT,,,
+Audit History,165073801,N/A,INSERT,,,
+Audit History,165075347,N/A,INSERT,,,
+Audit History,165075411,N/A,INSERT,,,
+Audit History,165075443,N/A,INSERT,,,
+Audit History,165070434,N/A,INSERT,,,
+Audit History,165071727,N/A,INSERT,,,
+Primary Wire,476784458,215463247,UPDATE,phase,C,B
+Audit History,165073249,N/A,INSERT,,,
+OH Fuse Unit,233833465,233833456,UPDATE,normal_position,Closed,Open
+Primary Wire,441689034,441689022,UPDATE,status,Existing,Deleted
+Primary Wire,215460742,215460740,UPDATE,insulation,WP,BARE
+Cable Segment Delta,527271926,N/A,INSERT,,,
+Distributed Generation,527272559,N/A,INSERT,,,
+Edist Device Feeder,527272623,N/A,INSERT,,,
+OH Fuse,453018573,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 34' 6.85"""
+OH Fuse,453018573,N/A,GEOM UPDATE,actual_location,point (1),"point (2) - Moved 58' 11.27"""
+Audit History,165072119,N/A,INSERT,,,
+Audit History,165073513,N/A,INSERT,,,
+Audit History,165073545,N/A,INSERT,,,
+Pole,441767156,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Pole,441767156,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 0' 11.11"""
+Audit History,165071629,N/A,INSERT,,,
+Audit History,165073220,N/A,INSERT,,,
+OH Transformer Bank,235999080,N/A,UPDATE,phase_designation,C,B
+Audit History,165073314,N/A,INSERT,,,
+Audit History,165073346,N/A,INSERT,,,
+Pole,229024410,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Street Light,238638468,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 57' 7.54"""
+Pole,228997365,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Primary Wire,215461208,215461207,UPDATE,insulation,Unknown,BARE
+UG Transformer Bank Unit,66682062,66682052,UPDATE,status,Existing,Deleted
+Distributed Generation,527272611,N/A,INSERT,,,
+Cable Segment Delta,527272483,N/A,INSERT,,,
+Cable Segment Delta,527272515,N/A,INSERT,,,
+Cable Segment Delta,527272547,N/A,INSERT,,,
+Audit History,165073873,N/A,INSERT,,,
+Audit History,165075427,N/A,INSERT,,,
+Audit History,165075235,N/A,INSERT,,,
+Audit History,165075299,N/A,INSERT,,,
+Audit History,165074604,N/A,INSERT,,,
+Audit History,165075365,N/A,INSERT,,,
+Audit History,165073843,N/A,INSERT,,,
+Audit History,165073875,N/A,INSERT,,,
+Pole,461246611,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+OH Primary,215462171,N/A,UPDATE,installed_length,104,102
+OH Primary,215466272,N/A,UPDATE,installed_length,140,136
+Cable Segment Delta,527272380,N/A,INSERT,,,
+Cable Segment Delta,527272412,N/A,INSERT,,,
+Cable Segment Delta,527272220,N/A,INSERT,,,
+Cable Segment Delta,527272252,N/A,INSERT,,,
+Audit History,165075196,N/A,INSERT,,,
+Audit History,165074972,N/A,INSERT,,,
+Audit History,165075004,N/A,INSERT,,,
+Audit History,165075132,N/A,INSERT,,,
+OH Primary,215466041,N/A,UPDATE,calculated_length,137.4,137.8
+OH Primary,215466041,N/A,UPDATE,installed_length,136,135
+OH Primary,215466041,N/A,GEOM UPDATE,route,chain (1),chain (2) - Length Changed  < 1cm
+OH Primary,215466233,N/A,UPDATE,installed_length,110,106
+Audit History,165070401,N/A,INSERT,,,
+Audit History,165070497,N/A,INSERT,,,
+Audit History,165073947,N/A,INSERT,,,
+Cable Segment Delta,527272222,N/A,INSERT,,,
+Cable Segment Delta,527272254,N/A,INSERT,,,
+Cable Segment Delta,527272286,N/A,INSERT,,,
+Audit History,165073959,N/A,INSERT,,,
+Audit History,165075038,N/A,INSERT,,,
+Audit History,165075070,N/A,INSERT,,,
+Audit History,165073378,N/A,INSERT,,,
+Pole,229023943,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Primary Wire,215460741,215460740,UPDATE,insulation,WP,BARE
+OH Primary,214993485,N/A,UPDATE,installed_length,203,210
+Audit History,165071692,N/A,INSERT,,,
+Audit History,165071059,N/A,INSERT,,,
+Audit History,165071756,N/A,INSERT,,,
+Audit History,165071788,N/A,INSERT,,,
+Pole,229024345,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229025963,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Audit History,165071971,N/A,INSERT,,,
+Audit History,165072003,N/A,INSERT,,,
+OH Primary,215461207,N/A,UPDATE,installed_length,94,95
+UG Transformer,66682029,N/A,UPDATE,status,Existing,Deleted
+Distributed Generation,527272546,N/A,INSERT,,,
+Edist Device Feeder,527272610,N/A,INSERT,,,
+Electric XY,527272674,N/A,INSERT,,,
+Audit History,165072158,N/A,INSERT,,,
+Audit History,165073111,N/A,INSERT,,,
+Audit History,165073143,N/A,INSERT,,,
+Pole Attachment,375260390,441767608,UPDATE,status,Existing,Deleted
+Cable Segment Delta,527272123,N/A,INSERT,,,
+Pole,229026525,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Primary Wire,215465574,215465573,UPDATE,status,Existing,Deleted
+Audit History,165092881,N/A,INSERT,,,
+OH Primary,215463291,N/A,UPDATE,installed_length,117,115
+Audit History,165073923,N/A,INSERT,,,
+Audit History,165072401,N/A,INSERT,,,
+Audit History,165072561,N/A,INSERT,,,
+Audit History,165073290,N/A,INSERT,,,
+Cable Segment Delta,527272219,N/A,INSERT,,,
+Cable Segment Delta,527272251,N/A,INSERT,,,
+Cable Segment Delta,527272283,N/A,INSERT,,,
+Audit History,165075099,N/A,INSERT,,,
+Audit History,165071094,N/A,INSERT,,,
+Audit History,165071030,N/A,INSERT,,,
+Audit History,165092818,N/A,INSERT,,,
+OH Primary,215462183,N/A,UPDATE,installed_length,121,118
+Audit History,165071063,N/A,INSERT,,,
+OH Primary,441767888,N/A,UPDATE,installed_length,149.6,150
+Distributed Generation,418417033,N/A,UPDATE,status,Existing,Deleted
+Audit History,165070464,N/A,INSERT,,,
+Audit History,165073184,N/A,INSERT,,,
+Audit History,165073280,N/A,INSERT,,,
+Audit History,165073312,N/A,INSERT,,,
+Audit History,165073344,N/A,INSERT,,,
+Cable Segment Delta,527272096,N/A,INSERT,,,
+Cable Segment Delta,527272128,N/A,INSERT,,,
+Cable Segment Delta,527272160,N/A,INSERT,,,
+Audit History,165071866,N/A,INSERT,,,
+OH Fuse,441767770,N/A,GEOM UPDATE,actual_location,point (1),"point (2) - Moved 0' 2.49"""
+Audit History,165073326,N/A,INSERT,,,
+Audit History,165073358,N/A,INSERT,,,
+Edist Device Feeder,527272558,N/A,INSERT,,,
+Audit History,165071703,N/A,INSERT,,,
+Audit History,165071723,N/A,INSERT,,,
+Audit History,165071627,N/A,INSERT,,,
+Audit History,165071659,N/A,INSERT,,,
+Audit History,165075438,N/A,INSERT,,,
+OH Primary,215467196,N/A,UPDATE,installed_length,54,60
+OH Primary,215467925,N/A,UPDATE,installed_length,73,71
+Pole,441690227,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229023519,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229023551,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229026026,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Audit History,165073849,N/A,INSERT,,,
+Pole,228998757,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Audit History,165071524,N/A,INSERT,,,
+Edist Device Feeder,527272545,N/A,INSERT,,,
+Cable Segment Delta,527272516,N/A,INSERT,,,
+Audit History,165072285,N/A,INSERT,,,
+Audit History,165072381,N/A,INSERT,,,
+Audit History,165073046,N/A,INSERT,,,
+Audit History,165073839,N/A,INSERT,,,
+Pole Attachment,375260389,441767608,UPDATE,status,Existing,Deleted
+Audit History,165075268,N/A,INSERT,,,
+Audit History,165073682,N/A,INSERT,,,
+Audit History,165075396,N/A,INSERT,,,
+Audit History,165073907,N/A,INSERT,,,
+Audit History,165073715,N/A,INSERT,,,
+Audit History,165073747,N/A,INSERT,,,
+Audit History,165075301,N/A,INSERT,,,
+Audit History,165073232,N/A,INSERT,,,
+Audit History,165074121,N/A,INSERT,,,
+Pole,228999383,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+OH Transformer Bank,236019065,N/A,UPDATE,bank_configuration,'2 Phase Wye/Delta','3 Phase Open Wye/Open Delta'
+Cable Segment Delta,527272218,N/A,INSERT,,,
+Cable Segment Delta,527272250,N/A,INSERT,,,
+Cable Segment Delta,527272282,N/A,INSERT,,,
+Cable Segment Delta,527272314,N/A,INSERT,,,
+Audit History,165075002,N/A,INSERT,,,
+Audit History,165075194,N/A,INSERT,,,
+Pole Attachment,375260062,229025736,UPDATE,status,Existing,Deleted
+Audit History,165073133,N/A,INSERT,,,
+Audit History,165072973,N/A,INSERT,,,
+Pole,229023232,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229023392,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+OH Primary,455980577,N/A,UPDATE,installed_length,231.2,238
+OH Primary,215466167,N/A,UPDATE,installed_length,138,137
+Audit History,165075378,N/A,INSERT,,,
+Cable Segment Delta,527272285,N/A,INSERT,,,
+Cable Segment Delta,527272381,N/A,INSERT,,,
+Cable Segment Delta,527275031,N/A,INSERT,,,
+OH Primary,441688903,N/A,UPDATE,installed_length,141.4,144
+Pole,229023845,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Audit History,165071269,N/A,INSERT,,,
+Audit History,165071301,N/A,INSERT,,,
+Audit History,165073699,N/A,INSERT,,,
+Audit History,165071958,N/A,INSERT,,,
+Audit History,165071990,N/A,INSERT,,,
+Audit History,165072054,N/A,INSERT,,,
+Audit History,165071293,N/A,INSERT,,,
+Audit History,165071057,N/A,INSERT,,,
+Audit History,165071850,N/A,INSERT,,,
+Audit History,165071690,N/A,INSERT,,,
+Audit History,165071754,N/A,INSERT,,,
+OH Primary,453019790,N/A,UPDATE,installed_length,130.3,136
+Pole,438399349,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229610281,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Primary Wire,215461333,215461330,UPDATE,insulation,WP,BARE
+Cable Segment Delta,527272480,N/A,INSERT,,,
+Cable Segment Delta,527272512,N/A,INSERT,,,
+Cable Segment Delta,527272640,N/A,INSERT,,,
+Audit History,165072220,N/A,INSERT,,,
+Audit History,165072156,N/A,INSERT,,,
+Audit History,165073678,N/A,INSERT,,,
+Audit History,165073077,N/A,INSERT,,,
+Primary Structure Node,527275034,N/A,INSERT,,,
+OH Transformer Bank Unit,235999045,235999032,UPDATE,phase,A,B
+OH Fuse,425976465,N/A,GEOM UPDATE,actual_location,point (1),"point (2) - Moved 0' 11.11"""
+OH Transformer Bank Unit,476512767,237873452,UPDATE,phase,A,C
+Cable Segment Delta,527272137,N/A,INSERT,,,
+Cable Segment Delta,527272169,N/A,INSERT,,,
+OH Fuse,453018784,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 11' 1.32"""
+OH Primary,221509390,N/A,UPDATE,calculated_length,40.4,40.4
+OH Primary,221509390,N/A,UPDATE,installed_length,27,39
+OH Primary,221509390,N/A,GEOM UPDATE,route,chain (1),chain (2) - Length Changed  < 1cm
+Audit History,165074146,N/A,INSERT,,,
+Audit History,165071038,N/A,INSERT,,,
+Audit History,165071102,N/A,INSERT,,,
+Cable Segment Delta,527272217,N/A,INSERT,,,
+Cable Segment Delta,527272249,N/A,INSERT,,,
+Cable Segment Delta,527272313,N/A,INSERT,,,
+Cable Segment Delta,527272377,N/A,INSERT,,,
+Audit History,165075033,N/A,INSERT,,,
+Audit History,165075097,N/A,INSERT,,,
+Audit History,165075129,N/A,INSERT,,,
+OH Primary,436263457,N/A,UPDATE,installed_length,169.3,198
+OH Primary,526959052,N/A,INSERT,,,
+Cable Segment Delta,527272083,N/A,INSERT,,,
+Cable Segment Delta,527272115,N/A,INSERT,,,
+Cable Segment Delta,527272147,N/A,INSERT,,,
+Cable Segment Delta,527272179,N/A,INSERT,,,
+Audit History,165071725,N/A,INSERT,,,
+OH Transformer Bank Unit,235999043,235999032,UPDATE,phase,B,A
+OH Transformer Bank,235981950,N/A,UPDATE,facility_tag_x,60,62
+OH Transformer Bank,235981950,N/A,UPDATE,xcel_energy_device_id,3 - 0 - 60 - 0 - 71,3 - 0 - 62 - 0 - 71
+OH Transformer Bank,235981950,N/A,UPDATE,xcel_energy_field_stencil,60 - 71,62 - 71
+OH Fuse,234125868,N/A,UPDATE,switch_no,638504n,638504
+OH Fuse,234125868,N/A,UPDATE,xcel_energy_device_id,638504n,638504
+OH Fuse,234125868,N/A,UPDATE,xcel_energy_field_stencil,638504n,638504
+OH Primary,215460674,N/A,UPDATE,calculated_length,unset,65.76
+OH Primary,215460674,N/A,UPDATE,installed_length,67.78,134
+OH Primary,215460674,N/A,UPDATE,phase_orientation,ABC,CBA
+Cable Segment Delta,527275196,N/A,INSERT,,,
+OH Primary,216944437,N/A,UPDATE,installed_length,131,133
+OH Primary,215380991,N/A,UPDATE,installed_length,46,47
+Primary Wire,476784420,215461895,UPDATE,insulation,Unknown,BARE
+Audit History,165071844,N/A,INSERT,,,
+Audit History,165071812,N/A,INSERT,,,
+OH Primary,215462033,N/A,UPDATE,calculated_length,133.9,135.8
+OH Primary,215462033,N/A,UPDATE,installed_length,135,125
+OH Primary,215462033,N/A,UPDATE,phase_orientation,ABC,CBA
+OH Primary,215462097,N/A,UPDATE,installed_length,102,103
+Pole,229024278,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Audit History,165071906,N/A,INSERT,,,
+Audit History,165072098,N/A,INSERT,,,
+Audit History,165070416,N/A,INSERT,,,
+Pole,228997329,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Primary Wire,215461332,215461330,UPDATE,insulation,WP,BARE
+Cable Segment Delta,527272579,N/A,INSERT,,,
+Cable Segment Delta,527272643,N/A,INSERT,,,
+Audit History,165072251,N/A,INSERT,,,
+Audit History,165073901,N/A,INSERT,,,
+Audit History,165072187,N/A,INSERT,,,
+Audit History,165073709,N/A,INSERT,,,
+Audit History,165075331,N/A,INSERT,,,
+Audit History,165073905,N/A,INSERT,,,
+Audit History,165073809,N/A,INSERT,,,
+Primary Wire,441768319,441768307,UPDATE,status,Existing,Deleted
+Audit History,165075333,N/A,INSERT,,,
+Pole,229028012,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Primary Wire,221509651,221509649,UPDATE,status,Existing,Deleted
+Cable Segment Delta,527272216,N/A,INSERT,,,
+Cable Segment Delta,527272248,N/A,INSERT,,,
+Cable Segment Delta,527272280,N/A,INSERT,,,
+Cable Segment Delta,527272312,N/A,INSERT,,,
+Audit History,165075064,N/A,INSERT,,,
+Audit History,165074303,N/A,INSERT,,,
+Audit History,165074335,N/A,INSERT,,,
+OH Primary,215462310,N/A,UPDATE,installed_length,117,116
+OH Primary,215466133,N/A,UPDATE,installed_length,130,128
+Primary Structure Node,527275125,N/A,INSERT,,,
+Cable Segment Delta,527272284,N/A,INSERT,,,
+Cable Segment Delta,527272316,N/A,INSERT,,,
+Audit History,165075164,N/A,INSERT,,,
+Pole,229023811,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Primary Wire,445289695,445289677,UPDATE,status,Existing,Deleted
+OH Fuse,234125234,N/A,UPDATE,status,Existing,Deleted
+OH Fuse,234125266,N/A,UPDATE,status,Existing,Deleted
+Audit History,165071835,N/A,INSERT,,,
+Audit History,165092862,N/A,INSERT,,,
+Audit History,165071172,N/A,INSERT,,,
+Audit History,165071204,N/A,INSERT,,,
+OH Primary,215468057,N/A,UPDATE,installed_length,62,58
+OH Primary,448332836,N/A,UPDATE,installed_length,110.2,95
+Pole,441768449,N/A,UPDATE,framing_type,Unknown,Double Circuit Vertical Neutral High
+Audit History,165071688,N/A,INSERT,,,
+Audit History,165071752,N/A,INSERT,,,
+Audit History,165073251,N/A,INSERT,,,
+OH Primary,441767094,N/A,UPDATE,calculated_length,58.41,223.7
+OH Primary,441767094,N/A,UPDATE,installed_length,59.57,197
+OH Primary,441767094,N/A,GEOM UPDATE,route,chain (1),"chain (2) - Length Changed 144' 3.09"""
+Pole,229024437,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024469,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229026752,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,228997264,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,228998818,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Primary Wire,215461331,215461330,UPDATE,insulation,WP,BARE
+Audit History,165075253,N/A,INSERT,,,
+Audit History,165075285,N/A,INSERT,,,
+Audit History,165075317,N/A,INSERT,,,
+Audit History,165074977,N/A,INSERT,,,
+Cable Segment Delta,527271909,N/A,INSERT,,,
+Cable Segment Delta,527272612,N/A,INSERT,,,
+Cable Segment Delta,527272644,N/A,INSERT,,,
+Audit History,165072154,N/A,INSERT,,,
+Audit History,165073107,N/A,INSERT,,,
+Audit History,165073139,N/A,INSERT,,,
+Audit History,165073985,N/A,INSERT,,,
+Audit History,165071069,N/A,INSERT,,,
+Audit History,165071766,N/A,INSERT,,,
+Primary Wire,527271582,215462264,INSERT,,,
+Cable Segment Delta,527272215,N/A,INSERT,,,
+Cable Segment Delta,527272247,N/A,INSERT,,,
+Cable Segment Delta,527272279,N/A,INSERT,,,
+Audit History,165075095,N/A,INSERT,,,
+Audit History,165074238,N/A,INSERT,,,
+Audit History,165074398,N/A,INSERT,,,
+Audit History,165075127,N/A,INSERT,,,
+Cable Segment Delta,527272625,N/A,INSERT,,,
+OH Primary,215466068,N/A,UPDATE,installed_length,90,83
+OH Primary,215466196,N/A,UPDATE,installed_length,131,129
+Audit History,165073855,N/A,INSERT,,,
+Audit History,165073887,N/A,INSERT,,,
+Audit History,165073919,N/A,INSERT,,,
+Audit History,165075313,N/A,INSERT,,,
+Audit History,165071820,N/A,INSERT,,,
+Pole,228999418,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+OH Primary,215275985,N/A,UPDATE,installed_length,122,121
+OH Primary,527271034,N/A,INSERT,,,
+OH Primary,527271066,N/A,INSERT,,,
+Audit History,165071164,N/A,INSERT,,,
+Audit History,165071260,N/A,INSERT,,,
+Audit History,165073415,N/A,INSERT,,,
+Audit History,165071086,N/A,INSERT,,,
+Audit History,165071719,N/A,INSERT,,,
+OH Primary,526959016,N/A,INSERT,,,
+Pole,229024308,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,228997295,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Primary Wire,215462692,215462689,UPDATE,insulation,WP,BARE
+Primary Wire,215462660,215462657,UPDATE,insulation,WP,BARE
+Cable Segment Delta,527272092,N/A,INSERT,,,
+Audit History,165071287,N/A,INSERT,,,
+Audit History,165071319,N/A,INSERT,,,
+Pole,229002379,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 46' 1.86"""
+Pole,229002379,N/A,GEOM UPDATE,anno,Unset GEOM,text (2)
+Primary Wire,448332764,448332752,UPDATE,status,Existing,Deleted
+Cable Segment Delta,527272482,N/A,INSERT,,,
+Cable Segment Delta,527272514,N/A,INSERT,,,
+Audit History,165072185,N/A,INSERT,,,
+Audit History,165073899,N/A,INSERT,,,
+Audit History,165073739,N/A,INSERT,,,
+Audit History,165073680,N/A,INSERT,,,
+Audit History,165075202,N/A,INSERT,,,
+Audit History,165075362,N/A,INSERT,,,
+Audit History,165072190,N/A,INSERT,,,
+Cable Segment Delta,527272154,N/A,INSERT,,,
+Pole,229610111,N/A,UPDATE,framing_type,Unknown,Horizontal Center Phase High
+Pole,229026392,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229027882,N/A,UPDATE,status,Retired,Deleted
+Pole,229027978,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Primary Wire,527271613,215460794,INSERT,,,
+Cable Segment Delta,527272214,N/A,INSERT,,,
+Cable Segment Delta,527272246,N/A,INSERT,,,
+Cable Segment Delta,527272278,N/A,INSERT,,,
+Audit History,165075062,N/A,INSERT,,,
+Audit History,165074966,N/A,INSERT,,,
+Audit History,165074333,N/A,INSERT,,,
+OH Transformer Bank Unit,476474300,235982441,UPDATE,phase,B,C
+OH Primary,215466099,N/A,UPDATE,installed_length,182,180
+Edist Device Feeder,527275187,N/A,INSERT,,,
+Primary Structure Node,527275059,N/A,INSERT,,,
+Cable Segment Delta,527272379,N/A,INSERT,,,
+Cable Segment Delta,527272411,N/A,INSERT,,,
+OH Fuse,233833426,N/A,UPDATE,switch_no,'62/71',6470
+OH Fuse,233833426,N/A,UPDATE,type,Unknown,Cutout
+OH Fuse,233833426,N/A,UPDATE,xcel_energy_device_id,'62/71',6470
+OH Fuse,233833426,N/A,UPDATE,xcel_energy_field_stencil,'62/71',6470
+Primary Wire,445289693,445289677,UPDATE,status,Existing,Deleted
+Audit History,165071299,N/A,INSERT,,,
+OH Primary,215383904,N/A,UPDATE,installed_length,114,118
+Audit History,165071782,N/A,INSERT,,,
+Audit History,165071814,N/A,INSERT,,,
+Electric XY,82403929,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 6' 11.55"""
+Pole,229023578,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,228998848,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Primary Wire,215462691,215462689,UPDATE,insulation,WP,BARE
+Cable Segment Delta,527271907,N/A,INSERT,,,
+OH Transformer Bank,527271843,N/A,INSERT,,,
+OH Transformer Bank,527271875,N/A,INSERT,,,
+OH Primary,215383705,N/A,UPDATE,installed_length,119,121
+Audit History,165073105,N/A,INSERT,,,
+Audit History,165073137,N/A,INSERT,,,
+Audit History,165071583,N/A,INSERT,,,
+Audit History,165071615,N/A,INSERT,,,
+Audit History,165071790,N/A,INSERT,,,
+Audit History,165071822,N/A,INSERT,,,
+Audit History,165071854,N/A,INSERT,,,
+Pole,229025726,N/A,UPDATE,status,Retired,Deleted
+Primary Wire,215462620,215462617,UPDATE,insulation,WP,BARE
+Audit History,165073191,N/A,INSERT,,,
+Audit History,165074144,N/A,INSERT,,,
+Cable Segment Delta,527272405,N/A,INSERT,,,
+Cable Segment Delta,527272437,N/A,INSERT,,,
+Cable Segment Delta,527272213,N/A,INSERT,,,
+Cable Segment Delta,527272245,N/A,INSERT,,,
+Audit History,165075125,N/A,INSERT,,,
+Audit History,165092816,N/A,INSERT,,,
+Audit History,165071028,N/A,INSERT,,,
+Cable Segment Delta,527272771,N/A,INSERT,,,
+OH Primary,441768307,N/A,UPDATE,installed_length,190.2,195
+OH Primary,441767341,N/A,UPDATE,installed_length,87.18,66
+OH Primary,441768166,N/A,UPDATE,installed_length,162.5,162
+Pole,229023776,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229023872,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229023904,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+OH Primary,436263222,N/A,UPDATE,calculated_length,unset,92.92
+OH Primary,436263222,N/A,UPDATE,installed_length,419.1,214
+Audit History,165072403,N/A,INSERT,,,
+Audit History,165073356,N/A,INSERT,,,
+Audit History,165073925,N/A,INSERT,,,
+Audit History,165073957,N/A,INSERT,,,
+Pole,441767685,N/A,UPDATE,framing_type,Unknown,Double Circuit Vertical Neutral High
+Audit History,165071052,N/A,INSERT,,,
+Audit History,165071084,N/A,INSERT,,,
+Audit History,165071621,N/A,INSERT,,,
+OH Transformer Bank Unit,237873466,237873452,UPDATE,phase,C,B
+OH Primary,215461967,N/A,UPDATE,calculated_length,83.45,unset
+OH Primary,215461967,N/A,UPDATE,installed_length,109.7,30
+OH Primary,215461967,N/A,GEOM UPDATE,route,chain (1),chain (2) - Length Changed  < 1cm
+Pole,229023641,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Audit History,165073151,N/A,INSERT,,,
+Primary Wire,215462690,215462689,UPDATE,insulation,WP,BARE
+Primary Wire,215462658,215462657,UPDATE,insulation,WP,BARE
+Pole,527271714,N/A,INSERT,,,
+Cable Segment Delta,527271906,N/A,INSERT,,,
+Cable Segment Delta,527272481,N/A,INSERT,,,
+Audit History,165071486,N/A,INSERT,,,
+Audit History,165071422,N/A,INSERT,,,
+Audit History,165072151,N/A,INSERT,,,
+Audit History,165072183,N/A,INSERT,,,
+Audit History,165074472,N/A,INSERT,,,
+Audit History,165073711,N/A,INSERT,,,
+Audit History,165073807,N/A,INSERT,,,
+Audit History,165073743,N/A,INSERT,,,
+Audit History,165072223,N/A,INSERT,,,
+Audit History,165072984,N/A,INSERT,,,
+Audit History,165073841,N/A,INSERT,,,
+Audit History,165073713,N/A,INSERT,,,
+Pole,229026326,N/A,UPDATE,framing_type,Unknown,Horizontal Center Phase High
+Pole,229026454,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+OH Primary,526958966,N/A,INSERT,,,
+Primary Wire,215462619,215462617,UPDATE,insulation,WP,BARE
+OH Transformer Bank,236019155,N/A,UPDATE,bank_configuration,'2 Phase Wye/Delta','3 Phase Open Wye/Open Delta'
+OH Primary,215462523,N/A,UPDATE,installed_length,93,90
+OH Primary,441768064,N/A,UPDATE,installed_length,120.8,115
+Cable Segment Delta,527272212,N/A,INSERT,,,
+Cable Segment Delta,527272244,N/A,INSERT,,,
+Cable Segment Delta,527272276,N/A,INSERT,,,
+Cable Segment Delta,527272308,N/A,INSERT,,,
+Audit History,165074996,N/A,INSERT,,,
+Audit History,165075092,N/A,INSERT,,,
+Pole,436262787,N/A,UPDATE,framing_type,Unknown,Double Circuit Triangular Neutral Low
+Pole,436262787,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 0' 3.17"""
+OH Primary,215465573,N/A,UPDATE,status,Existing,Deleted
+OH Primary,215465573,N/A,UPDATE,calculated_length,44.43,unset
+OH Primary,215465669,N/A,UPDATE,installed_length,178,179
+Primary Wire,215380993,215380991,UPDATE,insulation,WP,BARE
+Audit History,165075376,N/A,INSERT,,,
+Audit History,165075408,N/A,INSERT,,,
+Audit History,165073790,N/A,INSERT,,,
+Cable Segment Delta,527272378,N/A,INSERT,,,
+Cable Segment Delta,527272410,N/A,INSERT,,,
+Electric XY,527275121,N/A,INSERT,,,
+OH Fuse,233833456,N/A,UPDATE,normal_position,CCC,COC
+OH Fuse,233833456,N/A,UPDATE,type,Unknown,Cutout
+Audit History,165074153,N/A,INSERT,,,
+Audit History,165072535,N/A,INSERT,,,
+Audit History,165073264,N/A,INSERT,,,
+Audit History,165073296,N/A,INSERT,,,
+Primary Wire,445289691,445289677,UPDATE,status,Existing,Deleted
+Pole,445289595,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Audit History,165071266,N/A,INSERT,,,
+Audit History,165073352,N/A,INSERT,,,
+Primary Wire,215380954,215380952,UPDATE,insulation,WP,BARE
+Audit History,165071684,N/A,INSERT,,,
+Audit History,165071748,N/A,INSERT,,,
+Audit History,165071780,N/A,INSERT,,,
+OH Transformer Bank,441688698,N/A,UPDATE,phase_designation,C,B
+Pole,229023608,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+OH Primary,215461135,N/A,UPDATE,installed_length,96,94
+OH Primary,215462657,N/A,UPDATE,installed_length,99,100
+OH Primary,215462657,N/A,UPDATE,phase_orientation,CBA,ABC
+OH Primary,215467238,N/A,UPDATE,calculated_length,127.8,127
+OH Primary,215467238,N/A,UPDATE,installed_length,129,130
+Cable Segment Delta,527271905,N/A,INSERT,,,
+OH Primary,448332697,N/A,UPDATE,installed_length,162.2,61
+OH Primary,527271080,N/A,INSERT,,,
+Audit History,165074433,N/A,INSERT,,,
+Audit History,165074625,N/A,INSERT,,,
+Audit History,165074657,N/A,INSERT,,,
+Audit History,165071581,N/A,INSERT,,,
+Pole,229025628,N/A,UPDATE,status,Retired,Deleted
+Primary Wire,215462618,215462617,UPDATE,insulation,WP,BARE
+Audit History,165071700,N/A,INSERT,,,
+Audit History,165073222,N/A,INSERT,,,
+Audit History,165073254,N/A,INSERT,,,
+Cable Segment Delta,527272211,N/A,INSERT,,,
+Cable Segment Delta,527272243,N/A,INSERT,,,
+Cable Segment Delta,527272275,N/A,INSERT,,,
+Cable Segment Delta,527272307,N/A,INSERT,,,
+Audit History,165075123,N/A,INSERT,,,
+Audit History,165075155,N/A,INSERT,,,
+Audit History,165075187,N/A,INSERT,,,
+Audit History,165075027,N/A,INSERT,,,
+OH Primary,388861523,N/A,UPDATE,calculated_length,180.3,178.1
+OH Primary,388861523,N/A,UPDATE,installed_length,239,186
+OH Primary,388861523,N/A,UPDATE,phase_orientation,ABC,CBA
+Primary Wire,215380992,215380991,UPDATE,insulation,WP,BARE
+OH Primary,215469645,N/A,UPDATE,installed_length,138,137
+Audit History,165071786,N/A,INSERT,,,
+Audit History,165071818,N/A,INSERT,,,
+Cable Segment Delta,527271857,N/A,INSERT,,,
+Cable Segment Delta,527271889,N/A,INSERT,,,
+Cable Segment Delta,527271921,N/A,INSERT,,,
+Cable Segment Delta,527272490,N/A,INSERT,,,
+Primary Wire,215380953,215380952,UPDATE,insulation,WP,BARE
+Primary Wire,215380889,215380888,UPDATE,insulation,WP,BARE
+OH Primary,215467291,N/A,UPDATE,installed_length,191,192
+Pole,441767811,N/A,UPDATE,framing_type,Unknown,Double Circuit Vertical Neutral High
+Audit History,165071050,N/A,INSERT,,,
+Audit History,165071082,N/A,INSERT,,,
+Audit History,165071619,N/A,INSERT,,,
+OH Transformer Bank Unit,237873464,237873452,UPDATE,phase,B,A
+Audit History,165092806,N/A,INSERT,,,
+Audit History,165092785,N/A,INSERT,,,
+Audit History,165092849,N/A,INSERT,,,
+Audit History,165073376,N/A,INSERT,,,
+Pole,229024368,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024496,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Audit History,165070414,N/A,INSERT,,,
+Audit History,165070478,N/A,INSERT,,,
+OH Primary,215461895,N/A,UPDATE,installed_length,80,78
+OH Primary,215462848,N/A,UPDATE,installed_length,120,121
+UG Transformer,66682052,N/A,UPDATE,status,Existing,Deleted
+Audit History,165074407,N/A,INSERT,,,
+OH Primary,441767964,N/A,UPDATE,installed_length,153.6,150
+Cable Segment Delta,527271904,N/A,INSERT,,,
+OH Primary,215383773,N/A,UPDATE,installed_length,30,27
+Audit History,165071452,N/A,INSERT,,,
+Audit History,165071388,N/A,INSERT,,,
+Audit History,165071420,N/A,INSERT,,,
+Audit History,165071548,N/A,INSERT,,,
+Audit History,165073109,N/A,INSERT,,,
+Audit History,165074631,N/A,INSERT,,,
+Audit History,165073141,N/A,INSERT,,,
+Audit History,165075328,N/A,INSERT,,,
+Pole,229610011,N/A,UPDATE,framing_type,Unknown,Horizontal Center Phase High
+Audit History,165072405,N/A,INSERT,,,
+Audit History,165071804,N/A,INSERT,,,
+Audit History,165071868,N/A,INSERT,,,
+OH Primary,215462617,N/A,UPDATE,installed_length,181,178
+Primary Wire,527271609,526958966,INSERT,,,
+Primary Wire,527271513,215462804,INSERT,,,
+Primary Wire,527271545,215380859,INSERT,,,
+Primary Wire,527271577,215462051,INSERT,,,
+Audit History,165074329,N/A,INSERT,,,
+Audit History,165074994,N/A,INSERT,,,
+Audit History,165092847,N/A,INSERT,,,
+OH Primary,221509716,N/A,UPDATE,installed_length,111,117
+Audit History,165074806,N/A,INSERT,,,
+Audit History,165074902,N/A,INSERT,,,
+Cable Segment Delta,527272409,N/A,INSERT,,,
+Cable Segment Delta,527272281,N/A,INSERT,,,
+Cable Segment Delta,527275183,N/A,INSERT,,,
+Audit History,165075161,N/A,INSERT,,,
+Primary Wire,445289689,445289677,UPDATE,status,Existing,Deleted
+Audit History,165092796,N/A,INSERT,,,
+Audit History,165092860,N/A,INSERT,,,
+Audit History,165071833,N/A,INSERT,,,
+Audit History,165071641,N/A,INSERT,,,
+OH Primary,215380888,N/A,UPDATE,installed_length,142,143
+OH Primary,215380952,N/A,UPDATE,installed_length,143,142
+Audit History,165071842,N/A,INSERT,,,
+Audit History,165071746,N/A,INSERT,,,
+Audit History,165071682,N/A,INSERT,,,
+Pole,438399373,N/A,UPDATE,status,Existing,Deleted
+Pole,229023542,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229023510,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Primary Wire,215276048,215276047,UPDATE,insulation,Unknown,BARE
+Cable Segment Delta,527272642,N/A,INSERT,,,
+OH Primary,215383743,N/A,UPDATE,installed_length,114,104
+Audit History,165073670,N/A,INSERT,,,
+Audit History,165071611,N/A,INSERT,,,
+Audit History,165092835,N/A,INSERT,,,
+Audit History,165092803,N/A,INSERT,,,
+Audit History,165071092,N/A,INSERT,,,
+Audit History,165071661,N/A,INSERT,,,
+Cable Segment Delta,527275190,N/A,INSERT,,,
+Audit History,165072254,N/A,INSERT,,,
+Audit History,165072919,N/A,INSERT,,,
+Audit History,165075394,N/A,INSERT,,,
+Pole,229027084,N/A,UPDATE,status,Retired,Deleted
+Pole,229610170,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Primary Wire,215462806,215462804,UPDATE,insulation,WP,BARE
+Pole,229025658,N/A,UPDATE,status,Retired,Deleted
+Pole,231033303,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Audit History,165071283,N/A,INSERT,,,
+Audit History,165071315,N/A,INSERT,,,
+Audit History,165071884,N/A,INSERT,,,
+Audit History,165073157,N/A,INSERT,,,
+Audit History,165073189,N/A,INSERT,,,
+Audit History,165071731,N/A,INSERT,,,
+Audit History,165092790,N/A,INSERT,,,
+Primary Wire,527271512,215462982,INSERT,,,
+Primary Wire,527271544,215462322,INSERT,,,
+Primary Wire,527271576,526958980,INSERT,,,
+Primary Wire,527271608,527271102,INSERT,,,
+Audit History,165075025,N/A,INSERT,,,
+Audit History,165075153,N/A,INSERT,,,
+Audit History,165073631,N/A,INSERT,,,
+Audit History,165075185,N/A,INSERT,,,
+OH Primary,444156446,N/A,UPDATE,installed_length,149.8,148
+Audit History,165073865,N/A,INSERT,,,
+Audit History,165073897,N/A,INSERT,,,
+Audit History,165073693,N/A,INSERT,,,
+Audit History,165073725,N/A,INSERT,,,
+Audit History,165073757,N/A,INSERT,,,
+Audit History,165071088,N/A,INSERT,,,
+Audit History,165071625,N/A,INSERT,,,
+Audit History,165071657,N/A,INSERT,,,
+Audit History,165071721,N/A,INSERT,,,
+OH Fuse,233833357,N/A,UPDATE,type,Unknown,Cutout
+Cable Segment Delta,527272553,N/A,INSERT,,,
+OH Transformer Bank,527271856,N/A,INSERT,,,
+OH Primary,216944497,N/A,UPDATE,installed_length,140,132
+OH Primary,215467353,N/A,UPDATE,installed_length,68,57
+Audit History,165071080,N/A,INSERT,,,
+Pole,441767873,N/A,UPDATE,framing_type,Unknown,Double Circuit Vertical Neutral High
+Audit History,165071617,N/A,INSERT,,,
+Primary Wire,438399404,438399386,UPDATE,status,Existing,Deleted
+OH Primary,215462085,N/A,UPDATE,installed_length,125,117
+OH Primary,215276047,N/A,UPDATE,installed_length,26,21
+OH Primary,215276059,N/A,UPDATE,installed_length,108,107
+Audit History,165072179,N/A,INSERT,,,
+Audit History,165072339,N/A,INSERT,,,
+Audit History,165073861,N/A,INSERT,,,
+Audit History,165073893,N/A,INSERT,,,
+Audit History,165073741,N/A,INSERT,,,
+Audit History,165073773,N/A,INSERT,,,
+Audit History,165073805,N/A,INSERT,,,
+Audit History,165073869,N/A,INSERT,,,
+Audit History,165073745,N/A,INSERT,,,
+Audit History,165073777,N/A,INSERT,,,
+OH Fuse Unit,395956447,395956428,UPDATE,normal_position,Closed,Open
+OH Transformer Bank Unit,476473400,235965385,UPDATE,phase,A,B
+Primary Wire,527271607,215461695,INSERT,,,
+Primary Wire,527271511,527271088,INSERT,,,
+Primary Wire,527271543,215462157,INSERT,,,
+Primary Wire,527271575,526958980,INSERT,,,
+Audit History,165074327,N/A,INSERT,,,
+Audit History,165074359,N/A,INSERT,,,
+Audit History,165074992,N/A,INSERT,,,
+Audit History,165075056,N/A,INSERT,,,
+Pole,229027709,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+OH Fuse,233829771,N/A,UPDATE,type,Unknown,Cutout
+OH Fuse,233829771,N/A,UPDATE,facility_tag_x,unset,9
+OH Fuse,233829771,N/A,UPDATE,facility_tag_y,unset,176
+OH Fuse,233829771,N/A,UPDATE,map_unit_x,unset,2134
+OH Fuse,233829771,N/A,UPDATE,map_unit_y,unset,114
+OH Fuse,233829771,N/A,GEOM UPDATE,actual_location,point (1),"point (2) - Moved 6' 11.55"""
+Cable Segment Delta,527272376,N/A,INSERT,,,
+Primary Structure Node,527275053,N/A,INSERT,,,
+Cable Segment Delta,527272408,N/A,INSERT,,,
+Audit History,165075000,N/A,INSERT,,,
+Cable Segment Delta,527275192,N/A,INSERT,,,
+Audit History,165071136,N/A,INSERT,,,
+Audit History,165071776,N/A,INSERT,,,
+Audit History,165071808,N/A,INSERT,,,
+Audit History,165071680,N/A,INSERT,,,
+OH Primary,441688790,N/A,UPDATE,installed_length,206.2,192
+Pole,229024269,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024333,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,228997320,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+OH Primary,215461163,N/A,UPDATE,installed_length,102,96
+OH Primary,215460740,N/A,UPDATE,installed_length,146,145
+OH Primary,215383731,N/A,UPDATE,installed_length,158,152
+Audit History,165071449,N/A,INSERT,,,
+Audit History,165072210,N/A,INSERT,,,
+Audit History,165071577,N/A,INSERT,,,
+OH Primary,441768002,N/A,UPDATE,installed_length,145.7,150
+Pole,229026481,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229026513,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229610136,N/A,UPDATE,framing_type,Unknown,Horizontal Center Phase High
+Pole,229027971,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Primary Wire,215462646,215462643,UPDATE,insulation,WP,BARE
+Primary Wire,215462422,215462419,UPDATE,insulation,WP,BARE
+OH Primary,215463247,N/A,UPDATE,installed_length,170,120
+OH Primary,215463247,N/A,UPDATE,phase_designation,C,B
+OH Primary,215463247,N/A,UPDATE,phase_orientation,C,B
+Audit History,165071858,N/A,INSERT,,,
+Audit History,165071698,N/A,INSERT,,,
+Audit History,165092821,N/A,INSERT,,,
+Primary Wire,527271510,527271088,INSERT,,,
+Primary Wire,527271542,215460884,INSERT,,,
+Primary Wire,527271574,458399952,INSERT,,,
+Primary Wire,527271606,526959062,INSERT,,,
+Audit History,165073597,N/A,INSERT,,,
+Audit History,165071026,N/A,INSERT,,,
+Audit History,165071090,N/A,INSERT,,,
+Audit History,165074959,N/A,INSERT,,,
+Audit History,165071327,N/A,INSERT,,,
+Audit History,165074243,N/A,INSERT,,,
+Audit History,165074307,N/A,INSERT,,,
+Audit History,165071784,N/A,INSERT,,,
+Audit History,165071816,N/A,INSERT,,,
+Audit History,165073199,N/A,INSERT,,,
+Audit History,165073322,N/A,INSERT,,,
+OH Transformer Bank Unit,235999022,235999011,UPDATE,status,Existing,Deleted
+Audit History,165071672,N/A,INSERT,,,
+Primary Wire,215380981,215380978,UPDATE,insulation,WP,BARE
+Audit History,165075240,N/A,INSERT,,,
+Audit History,165075272,N/A,INSERT,,,
+Audit History,165075400,N/A,INSERT,,,
+OH Transformer Bank,235947216,N/A,UPDATE,bank_configuration,'3 Phase Wye-G/Wye','3 Phase Wye/Wye'
+Primary Wire,438399402,438399386,UPDATE,status,Existing,Deleted
+Area Light,238237601,N/A,UPDATE,status,Existing,Deleted
+Pole,229024396,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229024428,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024460,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Audit History,165075305,N/A,INSERT,,,
+OH Primary,215462051,N/A,UPDATE,calculated_length,198.2,127.4
+OH Primary,215462051,N/A,UPDATE,installed_length,330,122
+OH Primary,215462051,N/A,UPDATE,phase_orientation,ABC,CBA
+OH Primary,215462051,N/A,GEOM UPDATE,route,chain (1),chain (2) - Length Changed  < 1cm
+Pole,441768111,N/A,UPDATE,framing_type,Unknown,Double Circuit Vertical Neutral High
+Cable Segment Delta,527272513,N/A,INSERT,,,
+Cable Segment Delta,527272641,N/A,INSERT,,,
+OH Primary,215383033,N/A,UPDATE,installed_length,108,105
+Audit History,165072337,N/A,INSERT,,,
+Pole,441767608,N/A,UPDATE,framing_type,Unknown,Double Circuit Vertical Neutral High
+Pole,441767608,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 0' 4.01"""
+Pole,441768337,N/A,UPDATE,framing_type,Unknown,Double Circuit Vertical Neutral High
+Audit History,165072218,N/A,INSERT,,,
+Audit History,165072282,N/A,INSERT,,,
+Audit History,165072979,N/A,INSERT,,,
+Audit History,165073075,N/A,INSERT,,,
+Audit History,165074568,N/A,INSERT,,,
+Audit History,165074600,N/A,INSERT,,,
+Audit History,165075265,N/A,INSERT,,,
+Audit History,165075297,N/A,INSERT,,,
+Primary Wire,215462805,215462804,UPDATE,insulation,WP,BARE
+Primary Wire,215461884,215461883,UPDATE,insulation,Unknown,BARE
+Primary Wire,215462645,215462643,UPDATE,insulation,WP,BARE
+OH Fuse Unit,395956445,395956428,UPDATE,normal_position,Closed,Open
+Primary Wire,527271541,215467925,INSERT,,,
+Primary Wire,527271573,215463179,INSERT,,,
+Primary Wire,527271605,215380965,INSERT,,,
+Cable Segment Delta,527272206,N/A,INSERT,,,
+Audit History,165073436,N/A,INSERT,,,
+Audit History,165073468,N/A,INSERT,,,
+Audit History,165073660,N/A,INSERT,,,
+Audit History,165075054,N/A,INSERT,,,
+Cable Segment Delta,527271925,N/A,INSERT,,,
+Cable Segment Delta,527272494,N/A,INSERT,,,
+Pole,229023975,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229024512,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Audit History,165073788,N/A,INSERT,,,
+Audit History,165074549,N/A,INSERT,,,
+Cable Segment Delta,527272311,N/A,INSERT,,,
+Pole,527275115,N/A,INSERT,,,
+Cable Segment Delta,527272375,N/A,INSERT,,,
+Cable Segment Delta,527272407,N/A,INSERT,,,
+UG Transformer,235981971,N/A,UPDATE,facility_tag_x,53,548
+UG Transformer,235981971,N/A,UPDATE,facility_tag_y,70,421
+UG Transformer,235981971,N/A,UPDATE,xcel_energy_device_id,3 - 0 - 53 - 0 - 70,3 - 0 - 548 - 0 - 421
+UG Transformer,235981971,N/A,UPDATE,xcel_energy_field_stencil,53 - 70,548 - 421
+Audit History,165075191,N/A,INSERT,,,
+Pole,436263247,N/A,UPDATE,framing_type,Unknown,Double Circuit Vertical Neutral High
+OH Transformer Bank,461433524,N/A,UPDATE,phase_designation,AC,BC
+OH Transformer Bank,461433524,N/A,UPDATE,output_voltage,'120/208','120/240'
+OH Transformer Bank,461433524,N/A,GEOM UPDATE,bank_phasing_text,simple_point (1),"simple_point (2) - Moved 5' 8.83"""
+OH Transformer Bank,461433524,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 5' 8.83"""
+OH Transformer Bank,461433524,N/A,GEOM UPDATE,config_text,simple_point (1),"simple_point (2) - Moved 5' 8.83"""
+OH Primary,215469601,N/A,UPDATE,installed_length,183,180
+OH Primary,215469633,N/A,UPDATE,installed_length,66,62
+Audit History,165092801,N/A,INSERT,,,
+OH Transformer Bank,235999011,N/A,UPDATE,status,Existing,Deleted
+OH Primary,441767693,N/A,UPDATE,installed_length,300.5,149
+Pole,229023666,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,228997286,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+OH Primary,215373838,N/A,UPDATE,status,Existing,Deleted
+OH Primary,215373838,N/A,UPDATE,calculated_length,107,unset
+OH Primary,215461193,N/A,UPDATE,installed_length,82,80
+OH Primary,215461193,N/A,UPDATE,phase_orientation,ABC,CBA
+OH Primary,527271042,N/A,INSERT,,,
+Audit History,165073666,N/A,INSERT,,,
+Audit History,165071447,N/A,INSERT,,,
+Audit History,165071575,N/A,INSERT,,,
+Audit History,165073065,N/A,INSERT,,,
+Audit History,165071852,N/A,INSERT,,,
+OH Primary,248998183,N/A,UPDATE,installed_length,53.45,120
+Pole,229026319,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229026383,N/A,UPDATE,framing_type,Unknown,Horizontal Center Phase High
+Pole,229026543,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Pole,229610038,N/A,UPDATE,framing_type,Unknown,Horizontal Center Phase High
+Primary Wire,215462644,215462643,UPDATE,insulation,WP,BARE
+OH Primary,215461883,N/A,UPDATE,calculated_length,unset,84.66
+OH Primary,215461883,N/A,UPDATE,installed_length,98,86
+OH Primary,215463277,N/A,UPDATE,installed_length,48,47
+OH Primary,215463277,N/A,UPDATE,phase_orientation,ABC,CBA
+Audit History,165071096,N/A,INSERT,,,
+Audit History,165071665,N/A,INSERT,,,
+Audit History,165071729,N/A,INSERT,,,
+Audit History,165072586,N/A,INSERT,,,
+Primary Wire,527271540,527271042,INSERT,,,
+Primary Wire,527271572,527271056,INSERT,,,
+Primary Wire,527271604,215463141,INSERT,,,
+UG Primary,527271668,N/A,INSERT,,,
+Audit History,165074989,N/A,INSERT,,,
+Audit History,165075021,N/A,INSERT,,,
+Audit History,165073627,N/A,INSERT,,,
+Audit History,165073499,N/A,INSERT,,,
+Pole,229027610,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Cable Segment Delta,527272767,N/A,INSERT,,,
+Audit History,165071655,N/A,INSERT,,,
+Audit History,165092842,N/A,INSERT,,,
+Audit History,165075487,N/A,INSERT,,,
+Audit History,165075519,N/A,INSERT,,,
+OH Fuse,233833385,N/A,UPDATE,switch_no,'91/85',509507
+OH Fuse,233833385,N/A,UPDATE,type,Unknown,Cutout
+OH Fuse,233833385,N/A,UPDATE,xcel_energy_device_id,'91/85',509507
+OH Fuse,233833385,N/A,UPDATE,xcel_energy_field_stencil,'91/85',509507
+OH Transformer Bank,235965385,N/A,UPDATE,facility_tag_x,71,74
+OH Transformer Bank,235965385,N/A,UPDATE,facility_tag_y,93,90
+OH Transformer Bank,235965385,N/A,UPDATE,phase_designation,A,B
+OH Transformer Bank,235965385,N/A,UPDATE,xcel_energy_device_id,3 - 0 - 71 - 0 - 93,3 - 0 - 74 - 0 - 90
+OH Transformer Bank,235965385,N/A,UPDATE,xcel_energy_field_stencil,71 - 93,74 - 90
+Audit History,165071044,N/A,INSERT,,,
+Audit History,165071076,N/A,INSERT,,,
+OH Transformer Bank Unit,408974402,235982511,UPDATE,phase,B,A
+Cable Segment Delta,527275008,N/A,INSERT,,,
+Primary Wire,438399400,438399386,UPDATE,status,Existing,Deleted
+OH Primary,215461234,N/A,UPDATE,installed_length,148,137
+OH Primary,215461234,N/A,UPDATE,phase_orientation,ABC,CBA
+OH Primary,215461330,N/A,UPDATE,installed_length,67,74
+Pole,229023569,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229023601,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Primary Wire,215461224,215461221,UPDATE,insulation,WP,BARE
+UG Transformer Bank Unit,66682088,66682078,UPDATE,status,Existing,Deleted
+OH Primary,215462017,N/A,UPDATE,calculated_length,64,64.32
+OH Primary,215462017,N/A,UPDATE,installed_length,47.98,32
+Cable Segment Delta,527271844,N/A,INSERT,,,
+Cable Segment Delta,527271876,N/A,INSERT,,,
+Cable Segment Delta,527271908,N/A,INSERT,,,
+OH Primary,215383600,N/A,UPDATE,installed_length,101,100
+OH Primary,215383600,N/A,UPDATE,phase_orientation,ABC,CBA
+Audit History,165071606,N/A,INSERT,,,
+Audit History,165071478,N/A,INSERT,,,
+Audit History,165071382,N/A,INSERT,,,
+Audit History,165073761,N/A,INSERT,,,
+Audit History,165073771,N/A,INSERT,,,
+Audit History,165073803,N/A,INSERT,,,
+Audit History,165074532,N/A,INSERT,,,
+Audit History,165073867,N/A,INSERT,,,
+Pole,229027872,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,228999369,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,231033298,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+OH Fuse Unit,395956443,395956428,UPDATE,normal_position,Closed,Open
+Primary Wire,527271539,526958980,INSERT,,,
+Primary Wire,527271571,215462033,INSERT,,,
+Primary Wire,527271603,215462643,INSERT,,,
+Cable Segment Delta,527272204,N/A,INSERT,,,
+Audit History,165073658,N/A,INSERT,,,
+Audit History,165074291,N/A,INSERT,,,
+Audit History,165074355,N/A,INSERT,,,
+Audit History,165075116,N/A,INSERT,,,
+Audit History,165073857,N/A,INSERT,,,
+Audit History,165073889,N/A,INSERT,,,
+Primary Wire,441768431,441768419,UPDATE,status,Existing,Deleted
+Pole,229027833,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Pole,229027833,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 17' 11.83"""
+Pole,229027833,N/A,GEOM UPDATE,anno,Unset GEOM,text (2)
+Cable Segment Delta,527272310,N/A,INSERT,,,
+Primary Structure Node,527275145,N/A,INSERT,,,
+Cable Segment Delta,527272406,N/A,INSERT,,,
+Cable Segment Delta,527272438,N/A,INSERT,,,
+Audit History,165075158,N/A,INSERT,,,
+Audit History,165074998,N/A,INSERT,,,
+Primary Wire,476784498,215465525,UPDATE,status,Existing,Deleted
+Audit History,165071414,N/A,INSERT,,,
+Audit History,165071510,N/A,INSERT,,,
+Cable Segment Delta,527272236,N/A,INSERT,,,
+Cable Segment Delta,527272268,N/A,INSERT,,,
+Cable Segment Delta,527272300,N/A,INSERT,,,
+Cable Segment Delta,527272396,N/A,INSERT,,,
+OH Primary,220104022,N/A,UPDATE,installed_length,110,95
+Audit History,165075180,N/A,INSERT,,,
+Audit History,165073466,N/A,INSERT,,,
+Audit History,165074259,N/A,INSERT,,,
+Audit History,165074956,N/A,INSERT,,,
+Audit History,165073095,N/A,INSERT,,,
+Audit History,165073127,N/A,INSERT,,,
+Audit History,165073792,N/A,INSERT,,,
+Audit History,165073824,N/A,INSERT,,,
+Audit History,165071542,N/A,INSERT,,,
+Audit History,165072207,N/A,INSERT,,,
+Audit History,165072239,N/A,INSERT,,,
+Primary Wire,438399801,438399793,UPDATE,insulation,WP,BARE
+Audit History,165075360,N/A,INSERT,,,
+Audit History,165075392,N/A,INSERT,,,
+Audit History,165074663,N/A,INSERT,,,
+Pole,229025588,N/A,UPDATE,status,Retired,Deleted
+Pole,229027110,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 20' 10.46"""
+Pole,229027110,N/A,GEOM UPDATE,anno,Unset GEOM,text (2)
+Primary Wire,215462772,215462771,UPDATE,insulation,WP,BARE
+Primary Wire,527271538,526958980,INSERT,,,
+Primary Wire,527271570,220779373,INSERT,,,
+Primary Wire,527271602,215461967,INSERT,,,
+Cable Segment Delta,527272203,N/A,INSERT,,,
+Audit History,165073529,N/A,INSERT,,,
+Audit History,165073561,N/A,INSERT,,,
+Audit History,165073593,N/A,INSERT,,,
+Audit History,165073433,N/A,INSERT,,,
+Audit History,165073577,N/A,INSERT,,,
+Audit History,165073417,N/A,INSERT,,,
+Pole,443609355,N/A,UPDATE,status,Existing,Deleted
+OH Primary,215503700,N/A,UPDATE,installed_length,25,212
+Audit History,165072145,N/A,INSERT,,,
+Cable Segment Delta,527272766,N/A,INSERT,,,
+Cable Segment Delta,527272862,N/A,INSERT,,,
+Cable Segment Delta,527272428,N/A,INSERT,,,
+Audit History,165073101,N/A,INSERT,,,
+Audit History,165073798,N/A,INSERT,,,
+Audit History,165073697,N/A,INSERT,,,
+Audit History,165073691,N/A,INSERT,,,
+Audit History,165073723,N/A,INSERT,,,
+Audit History,165073755,N/A,INSERT,,,
+Audit History,165075309,N/A,INSERT,,,
+Audit History,165071846,N/A,INSERT,,,
+Audit History,165071686,N/A,INSERT,,,
+Audit History,165075485,N/A,INSERT,,,
+Audit History,165075549,N/A,INSERT,,,
+Audit History,165075581,N/A,INSERT,,,
+Audit History,165073689,N/A,INSERT,,,
+Audit History,165073721,N/A,INSERT,,,
+OH Primary,215462419,N/A,UPDATE,calculated_length,117,116.9
+OH Primary,215462419,N/A,UPDATE,installed_length,118,112
+OH Primary,215462419,N/A,GEOM UPDATE,route,chain (1),"chain (2) - Length Changed 2' 2.99"""
+OH Primary,215462643,N/A,UPDATE,installed_length,79,72
+Electric XY,467667633,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 94' 9.00"""
+Audit History,165071074,N/A,INSERT,,,
+Audit History,165071042,N/A,INSERT,,,
+Audit History,165073729,N/A,INSERT,,,
+Primary Wire,438399398,438399386,UPDATE,status,Existing,Deleted
+Primary Wire,215462659,215462657,UPDATE,insulation,WP,BARE
+Pole,229024264,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+OH Primary,215460525,N/A,UPDATE,installed_length,131.7,123
+UG Primary,215382965,N/A,UPDATE,status,Existing,Deleted
+UG Primary,215382965,N/A,UPDATE,calculated_length,638.9,671.1
+UG Primary,215382965,N/A,GEOM UPDATE,route,chain (1),chain (2) - Length Changed  < 1cm
+OH Fuse,233833882,N/A,UPDATE,type,Unknown,Cutout
+Audit History,165071540,N/A,INSERT,,,
+Audit History,165071604,N/A,INSERT,,,
+Audit History,165071508,N/A,INSERT,,,
+Audit History,165071412,N/A,INSERT,,,
+Audit History,165072216,N/A,INSERT,,,
+Audit History,165072248,N/A,INSERT,,,
+Audit History,165072977,N/A,INSERT,,,
+Audit History,165073041,N/A,INSERT,,,
+Primary Wire,438399800,438399793,UPDATE,insulation,WP,BARE
+Pole,229610163,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Audit History,165071674,N/A,INSERT,,,
+Audit History,165071770,N/A,INSERT,,,
+Primary Wire,215461023,215461022,UPDATE,insulation,WP,BARE
+OH Primary,221509637,N/A,UPDATE,installed_length,89,119
+Cable Segment Delta,527275017,N/A,INSERT,,,
+Cable Segment Delta,527275177,N/A,INSERT,,,
+Primary Wire,527271537,215460948,INSERT,,,
+Primary Wire,527271569,215383586,INSERT,,,
+Primary Wire,527271601,215462377,INSERT,,,
+Cable Segment Delta,527272202,N/A,INSERT,,,
+Audit History,165073464,N/A,INSERT,,,
+Audit History,165073496,N/A,INSERT,,,
+Audit History,165074353,N/A,INSERT,,,
+Audit History,165072895,N/A,INSERT,,,
+Audit History,165071445,N/A,INSERT,,,
+Audit History,165071573,N/A,INSERT,,,
+Audit History,165073664,N/A,INSERT,,,
+Audit History,165073979,N/A,INSERT,,,
+Audit History,165074139,N/A,INSERT,,,
+Primary Wire,221509438,221509434,UPDATE,status,Existing,Deleted
+Cable Segment Delta,527272277,N/A,INSERT,,,
+Cable Segment Delta,527272764,N/A,INSERT,,,
+Cable Segment Delta,527272860,N/A,INSERT,,,
+Cable Segment Delta,527272309,N/A,INSERT,,,
+Audit History,165075516,N/A,INSERT,,,
+Audit History,165072533,N/A,INSERT,,,
+Audit History,165092831,N/A,INSERT,,,
+Audit History,165092799,N/A,INSERT,,,
+OH Primary,215461721,N/A,UPDATE,installed_length,154,152
+OH Primary,215463179,N/A,UPDATE,installed_length,96,94
+OH Primary,215463179,N/A,UPDATE,phase_orientation,ABC,CBA
+Audit History,165075084,N/A,INSERT,,,
+OH Primary,526959030,N/A,INSERT,,,
+OH Primary,526959062,N/A,INSERT,,,
+OH Primary,215380978,N/A,UPDATE,installed_length,82,76
+Cable Segment Delta,527272235,N/A,INSERT,,,
+Cable Segment Delta,527272267,N/A,INSERT,,,
+Cable Segment Delta,527272299,N/A,INSERT,,,
+Cable Segment Delta,527272395,N/A,INSERT,,,
+Pole,229024359,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024487,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Audit History,165074987,N/A,INSERT,,,
+Audit History,165075019,N/A,INSERT,,,
+Audit History,165075147,N/A,INSERT,,,
+Audit History,165073625,N/A,INSERT,,,
+Audit History,165073061,N/A,INSERT,,,
+Audit History,165073093,N/A,INSERT,,,
+Audit History,165072204,N/A,INSERT,,,
+Audit History,165072236,N/A,INSERT,,,
+Primary Wire,438399799,438399793,UPDATE,insulation,WP,BARE
+OH Primary,215465975,N/A,UPDATE,installed_length,196,194
+OH Primary,215467337,N/A,UPDATE,installed_length,48,45
+Pole,229026347,N/A,UPDATE,status,Retired,Deleted
+Pole,229026443,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229610002,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+OH Transformer Bank,236019048,N/A,UPDATE,bank_configuration,'2 Phase Wye/Delta','3 Phase Open Wye/Open Delta'
+OH Primary,215461022,N/A,UPDATE,installed_length,147,142
+OH Primary,215461751,N/A,UPDATE,installed_length,154,151
+OH Primary,215464662,N/A,UPDATE,calculated_length,199.9,199
+OH Primary,215464662,N/A,UPDATE,installed_length,202,50
+Primary Wire,527271536,215461093,INSERT,,,
+Primary Wire,527271568,215463029,INSERT,,,
+Primary Wire,527271600,527271056,INSERT,,,
+Cable Segment Delta,527272201,N/A,INSERT,,,
+Audit History,165073559,N/A,INSERT,,,
+Audit History,165073431,N/A,INSERT,,,
+Audit History,165072578,N/A,INSERT,,,
+Pole,441768894,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Pole,414517534,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Cable Segment Delta,527272765,N/A,INSERT,,,
+Cable Segment Delta,527272861,N/A,INSERT,,,
+Primary Structure Node,527275048,N/A,INSERT,,,
+Pole,229027702,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+OH Transformer Bank,236057940,N/A,UPDATE,bank_configuration,'2 Phase Wye/Delta','3 Phase Open Wye/Open Delta'
+OH Primary,438557629,N/A,UPDATE,status,Existing,Deleted
+Cable Segment Delta,527272763,N/A,INSERT,,,
+Cable Segment Delta,527272827,N/A,INSERT,,,
+Audit History,165075547,N/A,INSERT,,,
+Audit History,165071670,N/A,INSERT,,,
+Audit History,165071798,N/A,INSERT,,,
+Audit History,165073224,N/A,INSERT,,,
+Audit History,165073256,N/A,INSERT,,,
+Audit History,165072142,N/A,INSERT,,,
+Audit History,165072270,N/A,INSERT,,,
+Audit History,165072334,N/A,INSERT,,,
+OH Primary,215468042,N/A,UPDATE,installed_length,58,59
+Audit History,165071040,N/A,INSERT,,,
+Edist Device Feeder,527274783,N/A,INSERT,,,
+Cable Segment Delta,527274879,N/A,INSERT,,,
+OH Primary,215462121,N/A,UPDATE,installed_length,106,103
+OH Primary,215462818,N/A,UPDATE,installed_length,121,118
+OH Primary,215462882,N/A,UPDATE,installed_length,130,122
+Pole,229023501,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,228997313,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Primary Wire,215461124,215461123,UPDATE,insulation,WP,BARE
+OH Primary,216944455,N/A,UPDATE,installed_length,133,126
+Audit History,165072139,N/A,INSERT,,,
+Audit History,165071506,N/A,INSERT,,,
+Audit History,165071538,N/A,INSERT,,,
+Audit History,165072267,N/A,INSERT,,,
+Audit History,165072279,N/A,INSERT,,,
+Audit History,165071518,N/A,INSERT,,,
+Audit History,165071550,N/A,INSERT,,,
+Audit History,165071454,N/A,INSERT,,,
+Audit History,165071916,N/A,INSERT,,,
+Audit History,165071948,N/A,INSERT,,,
+Pole,229025649,N/A,UPDATE,status,Retired,Deleted
+Audit History,165075425,N/A,INSERT,,,
+Audit History,165075233,N/A,INSERT,,,
+Audit History,165073775,N/A,INSERT,,,
+Primary Wire,215461654,215461651,UPDATE,insulation,WP,BARE
+Primary Wire,215461654,215461651,UPDATE,phase,C,B
+Primary Wire,527271567,215467891,INSERT,,,
+Primary Wire,527271599,215462358,INSERT,,,
+Primary Wire,527271535,215380888,INSERT,,,
+Cable Segment Delta,527272200,N/A,INSERT,,,
+Audit History,165073462,N/A,INSERT,,,
+Audit History,165073494,N/A,INSERT,,,
+Audit History,165073654,N/A,INSERT,,,
+Audit History,165074255,N/A,INSERT,,,
+Audit History,165071476,N/A,INSERT,,,
+Audit History,165072173,N/A,INSERT,,,
+Audit History,165071380,N/A,INSERT,,,
+Cable Segment Delta,527272427,N/A,INSERT,,,
+OH Fuse,233826687,N/A,UPDATE,type,Unknown,Cutout
+Cable Segment Delta,527272372,N/A,INSERT,,,
+Cable Segment Delta,527272404,N/A,INSERT,,,
+Cable Segment Delta,527272436,N/A,INSERT,,,
+Primary Wire,527271547,215461793,INSERT,,,
+Audit History,165075578,N/A,INSERT,,,
+Audit History,165075482,N/A,INSERT,,,
+Primary Wire,215380878,215380875,UPDATE,insulation,Unknown,BARE
+Primary Wire,215467280,215467279,UPDATE,status,Existing,Deleted
+Audit History,165073731,N/A,INSERT,,,
+OH Primary,215468073,N/A,UPDATE,installed_length,67,63
+Pole,229026155,N/A,UPDATE,framing_type,Unknown,Double Circuit Vertical Neutral High
+Cable Segment Delta,527272440,N/A,INSERT,,,
+Primary Wire,527271519,526959016,INSERT,,,
+Cable Segment Delta,527272234,N/A,INSERT,,,
+Cable Segment Delta,527272266,N/A,INSERT,,,
+Cable Segment Delta,527272298,N/A,INSERT,,,
+Cable Segment Delta,527272394,N/A,INSERT,,,
+Audit History,165075082,N/A,INSERT,,,
+Audit History,165075114,N/A,INSERT,,,
+Audit History,165073656,N/A,INSERT,,,
+OH Primary,215383755,N/A,UPDATE,installed_length,158,150
+OH Primary,215383787,N/A,UPDATE,installed_length,106,109
+OH Primary,527271056,N/A,INSERT,,,
+Audit History,165073123,N/A,INSERT,,,
+Audit History,165072170,N/A,INSERT,,,
+Audit History,165071441,N/A,INSERT,,,
+Audit History,165071335,N/A,INSERT,,,
+Audit History,165071207,N/A,INSERT,,,
+Audit History,165071271,N/A,INSERT,,,
+Primary Structure Node,527272720,N/A,INSERT,,,
+Pole,229025616,N/A,UPDATE,status,Retired,Deleted
+Primary Wire,221509730,221509728,UPDATE,status,Existing,Deleted
+OH Transformer Bank Unit,236019078,236019065,UPDATE,phase,C,A
+OH Primary,215461781,N/A,UPDATE,installed_length,105,103
+OH Primary,215466055,N/A,UPDATE,calculated_length,102.2,unset
+OH Primary,215466055,N/A,UPDATE,installed_length,103,164
+OH Primary,215466055,N/A,UPDATE,phase_orientation,AC,CA
+OH Primary,215466215,N/A,UPDATE,installed_length,128,126
+OH Primary,215466215,N/A,UPDATE,phase_orientation,CBA,ABC
+Primary Wire,527271534,527271066,INSERT,,,
+Primary Wire,527271566,59915774,INSERT,,,
+Primary Wire,527271598,526958966,INSERT,,,
+Cable Segment Delta,527272199,N/A,INSERT,,,
+Audit History,165073525,N/A,INSERT,,,
+Audit History,165073557,N/A,INSERT,,,
+Audit History,165073589,N/A,INSERT,,,
+Audit History,165073621,N/A,INSERT,,,
+Audit History,165071325,N/A,INSERT,,,
+Audit History,165071894,N/A,INSERT,,,
+Audit History,165073608,N/A,INSERT,,,
+Cable Segment Delta,527275175,N/A,INSERT,,,
+OH Primary,214993541,N/A,UPDATE,installed_length,203,205
+OH Primary,215464594,N/A,UPDATE,installed_length,171,172
+Cable Segment Delta,527272761,N/A,INSERT,,,
+Cable Segment Delta,527272825,N/A,INSERT,,,
+Audit History,165092839,N/A,INSERT,,,
+Audit History,165075545,N/A,INSERT,,,
+Audit History,165075609,N/A,INSERT,,,
+OH Fuse,233833411,N/A,UPDATE,switch_no,'74/71',7471
+OH Fuse,233833411,N/A,UPDATE,type,Unknown,Cutout
+OH Fuse,233833411,N/A,UPDATE,xcel_energy_device_id,'74/71',7471
+OH Fuse,233833411,N/A,UPDATE,xcel_energy_field_stencil,'74/71',7471
+OH Transformer Bank,235965480,N/A,UPDATE,facility_tag_x,73,385
+OH Transformer Bank,235965480,N/A,UPDATE,facility_tag_y,90,615
+OH Transformer Bank,235965480,N/A,UPDATE,xcel_energy_device_id,3 - 0 - 73 - 0 - 90,3 - 0 - 385 - 0 - 615
+OH Transformer Bank,235965480,N/A,UPDATE,xcel_energy_field_stencil,73 - 90,385 - 615
+OH Fuse,234125217,N/A,UPDATE,switch_no,386501s,386501
+OH Fuse,234125217,N/A,UPDATE,xcel_energy_device_id,386501s,386501
+OH Fuse,234125217,N/A,UPDATE,xcel_energy_field_stencil,386501s,386501
+OH Fuse,234125217,N/A,UPDATE,facility_tag_x,unset,400
+OH Fuse,234125217,N/A,UPDATE,facility_tag_y,unset,502
+OH Fuse,234125217,N/A,UPDATE,map_unit_x,unset,2131
+OH Fuse,234125217,N/A,UPDATE,map_unit_y,unset,115
+OH Fuse,234125217,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 34' 6.77"""
+OH Primary,215467279,N/A,UPDATE,status,Existing,Deleted
+OH Primary,215467279,N/A,UPDATE,calculated_length,51.82,unset
+OH Primary,215467279,N/A,UPDATE,installed_length,51,198
+OH Primary,215467279,N/A,GEOM UPDATE,route,chain (1),"chain (2) - Length Changed 158' 3.70"""
+OH Transformer Bank,237639673,N/A,UPDATE,status,Existing,Deleted
+Edist Device Feeder,527274781,N/A,INSERT,,,
+Cable Segment Delta,527274813,N/A,INSERT,,,
+Cable Segment Delta,527274877,N/A,INSERT,,,
+Cable Segment Delta,527275005,N/A,INSERT,,,
+OH Transformer Bank Unit,441688717,441688698,UPDATE,phase,C,B
+OH Primary,215462689,N/A,UPDATE,installed_length,182,180
+Pole,229023659,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229024324,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+OH Primary,438399333,N/A,UPDATE,calculated_length,59.88,70.16
+OH Primary,438399333,N/A,UPDATE,installed_length,69.22,67
+OH Primary,438399333,N/A,UPDATE,phase_orientation,ABC,CBA
+Audit History,165072962,N/A,INSERT,,,
+Audit History,165072994,N/A,INSERT,,,
+Audit History,165072137,N/A,INSERT,,,
+Audit History,165072201,N/A,INSERT,,,
+Audit History,165071613,N/A,INSERT,,,
+Audit History,165073103,N/A,INSERT,,,
+Audit History,165073135,N/A,INSERT,,,
+Audit History,165073672,N/A,INSERT,,,
+Pole,229024061,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229024157,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229025743,N/A,UPDATE,status,Retired,Deleted
+Audit History,165071705,N/A,INSERT,,,
+Pole,438557697,N/A,UPDATE,framing_type,Unknown,Double Circuit Vertical Neutral Low
+Primary Wire,527271565,527271088,INSERT,,,
+Primary Wire,527271597,453019790,INSERT,,,
+Primary Wire,527271629,526959002,INSERT,,,
+Cable Segment Delta,527272198,N/A,INSERT,,,
+Primary Wire,476784419,215461871,UPDATE,insulation,Unknown,BARE
+Audit History,165073652,N/A,INSERT,,,
+Audit History,165073460,N/A,INSERT,,,
+Audit History,165073492,N/A,INSERT,,,
+Audit History,165072332,N/A,INSERT,,,
+Audit History,165073125,N/A,INSERT,,,
+Pole,441768204,N/A,UPDATE,framing_type,Unknown,Double Circuit Vertical Neutral High
+Electric XY,82417781,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 57' 7.54"""
+Pole,229027795,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 35' 3.94"""
+Pole,229027795,N/A,GEOM UPDATE,anno,Unset GEOM,text (2)
+OH Transformer Bank Unit,236058001,236057986,UPDATE,phase,B,A
+Cable Segment Delta,527272371,N/A,INSERT,,,
+Cable Segment Delta,527272403,N/A,INSERT,,,
+Cable Segment Delta,527272435,N/A,INSERT,,,
+Cable Segment Delta,527272760,N/A,INSERT,,,
+Audit History,165074911,N/A,INSERT,,,
+Audit History,165075480,N/A,INSERT,,,
+Audit History,165075512,N/A,INSERT,,,
+Audit History,165075576,N/A,INSERT,,,
+Audit History,165074202,N/A,INSERT,,,
+Audit History,165074234,N/A,INSERT,,,
+Audit History,165074394,N/A,INSERT,,,
+OH Primary,448332752,N/A,UPDATE,installed_length,62.54,66
+OH Primary,445289677,N/A,UPDATE,status,Existing,Deleted
+OH Primary,445289677,N/A,UPDATE,calculated_length,165.4,unset
+Audit History,165072494,N/A,INSERT,,,
+Audit History,165073318,N/A,INSERT,,,
+Audit History,165073030,N/A,INSERT,,,
+OH Fuse,233890505,N/A,UPDATE,type,Unknown,Cutout
+OH Primary,215462109,N/A,UPDATE,installed_length,139,138
+OH Primary,526958980,N/A,INSERT,,,
+Cable Segment Delta,527274780,N/A,INSERT,,,
+Cable Segment Delta,527274812,N/A,INSERT,,,
+Cable Segment Delta,527275004,N/A,INSERT,,,
+Cable Segment Delta,527272233,N/A,INSERT,,,
+Cable Segment Delta,527272265,N/A,INSERT,,,
+Cable Segment Delta,527272297,N/A,INSERT,,,
+Cable Segment Delta,527272329,N/A,INSERT,,,
+Pole,229024451,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024387,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229024419,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Audit History,165074416,N/A,INSERT,,,
+Audit History,165074953,N/A,INSERT,,,
+Audit History,165074985,N/A,INSERT,,,
+Primary Wire,215276036,215276035,UPDATE,insulation,Unknown,BARE
+Audit History,165071471,N/A,INSERT,,,
+OH Transformer Bank Unit,235998853,235998842,UPDATE,status,Existing,Deleted
+Audit History,165071567,N/A,INSERT,,,
+Audit History,165072264,N/A,INSERT,,,
+Audit History,165092781,N/A,INSERT,,,
+Primary Wire,441689214,441689202,UPDATE,status,Existing,Deleted
+Audit History,165073836,N/A,INSERT,,,
+Audit History,165073676,N/A,INSERT,,,
+Audit History,165074437,N/A,INSERT,,,
+Pole,229024789,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024821,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024124,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024252,N/A,UPDATE,framing_type,Unknown,Spacer Neutral High
+Primary Wire,215461050,215461048,UPDATE,insulation,WP,BARE
+OH Transformer Bank Unit,236019076,236019065,UPDATE,phase,A,C
+OH Primary,215461651,N/A,UPDATE,installed_length,120,121
+OH Primary,215461651,N/A,UPDATE,phase_designation,C,B
+OH Primary,215461651,N/A,UPDATE,phase_orientation,C,B
+Audit History,165073853,N/A,INSERT,,,
+Audit History,165074582,N/A,INSERT,,,
+Audit History,165075311,N/A,INSERT,,,
+OH Primary,215466182,N/A,UPDATE,calculated_length,112.1,unset
+OH Primary,215466182,N/A,UPDATE,installed_length,113,26
+OH Primary,215466182,N/A,GEOM UPDATE,route,chain (1),chain (2) - Length Changed  < 1cm
+Primary Wire,527271596,527271042,INSERT,,,
+Primary Wire,527271628,526959002,INSERT,,,
+Primary Wire,527271564,215461234,INSERT,,,
+Primary Wire,527271532,215460916,INSERT,,,
+Primary Wire,441768922,441768910,UPDATE,status,Existing,Deleted
+Audit History,165073587,N/A,INSERT,,,
+Audit History,165073427,N/A,INSERT,,,
+Audit History,165073523,N/A,INSERT,,,
+Cable Segment Delta,527272859,N/A,INSERT,,,
+Cable Segment Delta,527275014,N/A,INSERT,,,
+OH Transformer Bank,235965423,N/A,UPDATE,facility_tag_x,77,78
+OH Transformer Bank,235965423,N/A,UPDATE,xcel_energy_device_id,3 - 0 - 77 - 0 - 91,3 - 0 - 78 - 0 - 91
+OH Transformer Bank,235965423,N/A,UPDATE,xcel_energy_field_stencil,77 - 91,78 - 91
+Cable Segment Delta,527272426,N/A,INSERT,,,
+Audit History,165075307,N/A,INSERT,,,
+Audit History,165075339,N/A,INSERT,,,
+Audit History,165075371,N/A,INSERT,,,
+Audit History,165073913,N/A,INSERT,,,
+Cable Segment Delta,527272190,N/A,INSERT,,,
+Cable Segment Delta,527272759,N/A,INSERT,,,
+Cable Segment Delta,527272791,N/A,INSERT,,,
+Audit History,165074814,N/A,INSERT,,,
+Audit History,165074942,N/A,INSERT,,,
+OH Fuse,233833441,N/A,UPDATE,type,Unknown,Cutout
+OH Primary,215380875,N/A,UPDATE,calculated_length,52.54,52.68
+OH Primary,215380875,N/A,UPDATE,installed_length,53,52
+Edist Device Feeder,527274779,N/A,INSERT,,,
+Cable Segment Delta,527272439,N/A,INSERT,,,
+Primary Wire,527271614,215460831,INSERT,,,
+Primary Wire,527271518,215461388,INSERT,,,
+OH Primary,215461344,N/A,UPDATE,status,Existing,Deleted
+OH Primary,215461344,N/A,UPDATE,calculated_length,56.32,unset
+OH Primary,215276035,N/A,UPDATE,installed_length,97,96
+Audit History,165072135,N/A,INSERT,,,
+Audit History,165072167,N/A,INSERT,,,
+Audit History,165071374,N/A,INSERT,,,
+Audit History,165071406,N/A,INSERT,,,
+Audit History,165072181,N/A,INSERT,,,
+Audit History,165072213,N/A,INSERT,,,
+Audit History,165072245,N/A,INSERT,,,
+Pole,229024027,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024219,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229026342,N/A,UPDATE,status,Retired,Deleted
+Pole,229026374,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+OH Transformer Bank Unit,476474309,235982460,UPDATE,phase,C,A
+Primary Wire,527271595,527271042,INSERT,,,
+Primary Wire,527271627,215462703,INSERT,,,
+Primary Wire,527271531,215461613,INSERT,,,
+Primary Wire,527271563,215462617,INSERT,,,
+Audit History,165074187,N/A,INSERT,,,
+Audit History,165074347,N/A,INSERT,,,
+Audit History,165074379,N/A,INSERT,,,
+Audit History,165075076,N/A,INSERT,,,
+Audit History,165071378,N/A,INSERT,,,
+Audit History,165071410,N/A,INSERT,,,
+Pole,229026143,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Fault Indicator,425975783,N/A,GEOM UPDATE,actual_location,point (1),"point (2) - Moved 0' 11.11"""
+OH Primary,215463165,N/A,UPDATE,installed_length,56,52
+OH Primary,215463165,N/A,UPDATE,phase_orientation,ABC,CBA
+OH Transformer Bank Unit,236057999,236057986,UPDATE,phase,A,C
+Cable Segment Delta,527272210,N/A,INSERT,,,
+Cable Segment Delta,527272242,N/A,INSERT,,,
+Cable Segment Delta,527272274,N/A,INSERT,,,
+Cable Segment Delta,527272306,N/A,INSERT,,,
+Audit History,165074909,N/A,INSERT,,,
+Audit History,165075510,N/A,INSERT,,,
+Audit History,165075542,N/A,INSERT,,,
+Audit History,165075574,N/A,INSERT,,,
+Audit History,165075058,N/A,INSERT,,,
+Cable Segment Delta,527275028,N/A,INSERT,,,
+Cable Segment Delta,527275188,N/A,INSERT,,,
+OH Transformer Bank,235965408,N/A,UPDATE,facility_tag_x,75,77
+OH Transformer Bank,235965408,N/A,UPDATE,facility_tag_y,92,91
+OH Transformer Bank,235965408,N/A,UPDATE,xcel_energy_device_id,3 - 0 - 75 - 0 - 92,3 - 0 - 77 - 0 - 91
+OH Transformer Bank,235965408,N/A,UPDATE,xcel_energy_field_stencil,75 - 92,77 - 91
+OH Fuse,233890471,N/A,UPDATE,type,Unknown,Cutout
+Cable Segment Delta,527274778,N/A,INSERT,,,
+Cable Segment Delta,527274810,N/A,INSERT,,,
+Cable Segment Delta,527275002,N/A,INSERT,,,
+Cable Segment Delta,527272232,N/A,INSERT,,,
+Cable Segment Delta,527272264,N/A,INSERT,,,
+Cable Segment Delta,527272296,N/A,INSERT,,,
+Cable Segment Delta,527272392,N/A,INSERT,,,
+Pole,229023528,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229023560,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229024257,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229023592,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,468136045,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Audit History,165074383,N/A,INSERT,,,
+Audit History,165075048,N/A,INSERT,,,
+Audit History,165075345,N/A,INSERT,,,
+OH Primary,215383719,N/A,UPDATE,installed_length,119,122
+Audit History,165072230,N/A,INSERT,,,
+Audit History,165072262,N/A,INSERT,,,
+Audit History,165071469,N/A,INSERT,,,
+OH Primary,438399793,N/A,UPDATE,calculated_length,144.1,188.4
+OH Primary,438399793,N/A,UPDATE,installed_length,138,173
+OH Primary,438399793,N/A,GEOM UPDATE,route,chain (1),"chain (2) - Length Changed 45' 1.56"""
+Pole,228999392,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,228999360,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Primary Wire,527271530,215460758,INSERT,,,
+Primary Wire,527271562,215460674,INSERT,,,
+Primary Wire,527271594,215383600,INSERT,,,
+Primary Wire,527271626,215462207,INSERT,,,
+Audit History,165071999,N/A,INSERT,,,
+Audit History,165072095,N/A,INSERT,,,
+Pole,441768792,N/A,UPDATE,framing_type,Unknown,Double Circuit Vertical Neutral High
+Audit History,165073425,N/A,INSERT,,,
+Audit History,165073511,N/A,INSERT,,,
+Audit History,165073575,N/A,INSERT,,,
+Audit History,165072021,N/A,INSERT,,,
+Primary Wire,476783358,215380859,UPDATE,insulation,WP,BARE
+Primary Wire,248997213,248997200,UPDATE,status,Existing,Deleted
+Electric XY,527275141,N/A,INSERT,,,
+Cable Segment Delta,527272762,N/A,INSERT,,,
+Cable Segment Delta,527272826,N/A,INSERT,,,
+OH Primary,215462940,N/A,UPDATE,installed_length,122,120
+Cable Segment Delta,527272124,N/A,INSERT,,,
+Cable Segment Delta,527272156,N/A,INSERT,,,
+Cable Segment Delta,527272188,N/A,INSERT,,,
+Cable Segment Delta,527272757,N/A,INSERT,,,
+Audit History,165075477,N/A,INSERT,,,
+Audit History,165074780,N/A,INSERT,,,
+Audit History,165073286,N/A,INSERT,,,
+Audit History,165071035,N/A,INSERT,,,
+Audit History,165071067,N/A,INSERT,,,
+OH Transformer Bank Unit,461433545,461433524,UPDATE,phase,C,B
+Edist Device Feeder,527274777,N/A,INSERT,,,
+Cable Segment Delta,527274809,N/A,INSERT,,,
+Cable Segment Delta,527275001,N/A,INSERT,,,
+Pole,436262973,N/A,UPDATE,framing_type,Unknown,Double Circuit Vertical Neutral High
+Cable Segment Delta,527274782,N/A,INSERT,,,
+Cable Segment Delta,527274814,N/A,INSERT,,,
+OH Primary,215383021,N/A,UPDATE,installed_length,150.4,141
+OH Primary,527271088,N/A,INSERT,,,
+Audit History,165071436,N/A,INSERT,,,
+Audit History,165071532,N/A,INSERT,,,
+OH Transformer Bank Unit,235998914,235998899,UPDATE,phase,B,A
+Audit History,165072148,N/A,INSERT,,,
+Audit History,165072276,N/A,INSERT,,,
+Audit History,165072308,N/A,INSERT,,,
+Audit History,165073830,N/A,INSERT,,,
+Audit History,165073707,N/A,INSERT,,,
+Audit History,165074564,N/A,INSERT,,,
+Audit History,165071768,N/A,INSERT,,,
+Audit History,165092827,N/A,INSERT,,,
+Audit History,165071800,N/A,INSERT,,,
+Audit History,165073871,N/A,INSERT,,,
+Audit History,165073903,N/A,INSERT,,,
+OH Transformer Bank Unit,476473418,235965545,UPDATE,phase,B,C
+Primary Wire,527271561,527271034,INSERT,,,
+Primary Wire,527271593,215383873,INSERT,,,
+Primary Wire,527271625,215467874,INSERT,,,
+Primary Wire,527271529,215461079,INSERT,,,
+Audit History,165071902,N/A,INSERT,,,
+Audit History,165071934,N/A,INSERT,,,
+Audit History,165071966,N/A,INSERT,,,
+Audit History,165072030,N/A,INSERT,,,
+Primary Wire,248997212,248997200,UPDATE,status,Existing,Deleted
+Audit History,165073091,N/A,INSERT,,,
+Audit History,165071473,N/A,INSERT,,,
+Audit History,165071569,N/A,INSERT,,,
+Pole,229027695,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229027823,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Cable Segment Delta,527272393,N/A,INSERT,,,
+Cable Segment Delta,527272425,N/A,INSERT,,,
+Pole,229026520,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+OH Transformer Bank Unit,236057997,236057986,UPDATE,phase,C,B
+Audit History,165075434,N/A,INSERT,,,
+Audit History,165073087,N/A,INSERT,,,
+Audit History,165073119,N/A,INSERT,,,
+Cable Segment Delta,527272788,N/A,INSERT,,,
+Cable Segment Delta,527272209,N/A,INSERT,,,
+Cable Segment Delta,527272241,N/A,INSERT,,,
+Cable Segment Delta,527272273,N/A,INSERT,,,
+Audit History,165074811,N/A,INSERT,,,
+Audit History,165074907,N/A,INSERT,,,
+Audit History,165074939,N/A,INSERT,,,
+Audit History,165075508,N/A,INSERT,,,
+Audit History,165073503,N/A,INSERT,,,
+Audit History,165073535,N/A,INSERT,,,
+Audit History,165073567,N/A,INSERT,,,
+Audit History,165074961,N/A,INSERT,,,
+OH Fuse,234035542,N/A,UPDATE,switch_no,297536,298536W
+OH Fuse,234035542,N/A,UPDATE,xcel_energy_device_id,297536,298536W
+OH Fuse,234035542,N/A,UPDATE,xcel_energy_field_stencil,297536,298536W
+OH Primary,215462446,N/A,UPDATE,installed_length,175,173
+Cable Segment Delta,527272342,N/A,INSERT,,,
+Cable Segment Delta,527272374,N/A,INSERT,,,
+Primary Wire,527271517,215462246,INSERT,,,
+Primary Wire,527271549,215462221,INSERT,,,
+Cable Segment Delta,527272231,N/A,INSERT,,,
+Cable Segment Delta,527272263,N/A,INSERT,,,
+Cable Segment Delta,527272295,N/A,INSERT,,,
+Cable Segment Delta,527272391,N/A,INSERT,,,
+Audit History,165073429,N/A,INSERT,,,
+Audit History,165075015,N/A,INSERT,,,
+Audit History,165075175,N/A,INSERT,,,
+Audit History,165074190,N/A,INSERT,,,
+Audit History,165071499,N/A,INSERT,,,
+Audit History,165071595,N/A,INSERT,,,
+Audit History,165072324,N/A,INSERT,,,
+Audit History,165071467,N/A,INSERT,,,
+Pole,229023263,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024088,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229610154,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+OH Primary,215461679,N/A,UPDATE,installed_length,121,112
+OH Primary,215464626,N/A,UPDATE,installed_length,161,280
+OH Primary,215466116,N/A,UPDATE,installed_length,196,150
+OH Primary,215466148,N/A,UPDATE,calculated_length,138.3,138.2
+OH Primary,215466148,N/A,UPDATE,installed_length,137,133
+Primary Wire,527271624,215467841,INSERT,,,
+Primary Wire,527271528,527271080,INSERT,,,
+Primary Wire,527271560,527271034,INSERT,,,
+Primary Wire,527271592,215383916,INSERT,,,
+Audit History,165072662,N/A,INSERT,,,
+Audit History,165072061,N/A,INSERT,,,
+Audit History,165072125,N/A,INSERT,,,
+Audit History,165073583,N/A,INSERT,,,
+Cable Segment Delta,527275012,N/A,INSERT,,,
+Pole,229026236,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Pole,229026837,N/A,UPDATE,status,Retired,Deleted
+Cable Segment Delta,527272186,N/A,INSERT,,,
+Audit History,165071649,N/A,INSERT,,,
+Audit History,165071713,N/A,INSERT,,,
+Cable Segment Delta,527271962,N/A,INSERT,,,
+Audit History,165075475,N/A,INSERT,,,
+OH Transformer Bank Unit,441898718,441898699,UPDATE,phase,B,A
+OH Transformer Bank Unit,461433543,461433524,UPDATE,phase,A,C
+OH Primary,215465879,N/A,UPDATE,installed_length,23,25
+OH Switch Unit,527274999,425975982,INSERT,,,
+Edist Device Feeder,527274775,N/A,INSERT,,,
+Audit History,165071744,N/A,INSERT,,,
+Cable Segment Delta,527274807,N/A,INSERT,,,
+Audit History,165071297,N/A,INSERT,,,
+Audit History,165071329,N/A,INSERT,,,
+Audit History,165071169,N/A,INSERT,,,
+Audit History,165073328,N/A,INSERT,,,
+Audit History,165073360,N/A,INSERT,,,
+Audit History,165071402,N/A,INSERT,,,
+Audit History,165071434,N/A,INSERT,,,
+Audit History,165071530,N/A,INSERT,,,
+Audit History,165071562,N/A,INSERT,,,
+Audit History,165071546,N/A,INSERT,,,
+Audit History,165071482,N/A,INSERT,,,
+Audit History,165071386,N/A,INSERT,,,
+Pole,229024848,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229025609,N/A,UPDATE,status,Retired,Deleted
+OH Primary,395956239,N/A,UPDATE,installed_length,154,132
+Primary Wire,527271527,526959052,INSERT,,,
+Primary Wire,527271559,215463075,INSERT,,,
+Primary Wire,527271591,215462789,INSERT,,,
+Primary Wire,527271623,221510053,INSERT,,,
+Audit History,165071900,N/A,INSERT,,,
+Audit History,165071964,N/A,INSERT,,,
+Audit History,165071996,N/A,INSERT,,,
+Audit History,165072092,N/A,INSERT,,,
+OH Primary,388861472,N/A,UPDATE,installed_length,43.9,90
+Audit History,165071504,N/A,INSERT,,,
+Audit History,165071536,N/A,INSERT,,,
+Audit History,165071600,N/A,INSERT,,,
+Pole,229026075,N/A,UPDATE,status,Retired,Deleted
+OH Primary,215463129,N/A,UPDATE,installed_length,121,120
+OH Primary,395956383,N/A,UPDATE,installed_length,104.5,67
+OH Primary,438557771,N/A,UPDATE,calculated_length,265.6,311.8
+OH Primary,438557771,N/A,UPDATE,installed_length,263.5,299
+OH Primary,438557771,N/A,UPDATE,phase_orientation,ABC,BAC
+OH Primary,438557771,N/A,GEOM UPDATE,route,chain (1),"chain (2) - Length Changed 60' 11.63"""
+Pole,131737013,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Cable Segment Delta,527272208,N/A,INSERT,,,
+Cable Segment Delta,527272240,N/A,INSERT,,,
+Cable Segment Delta,527272272,N/A,INSERT,,,
+Cable Segment Delta,527272304,N/A,INSERT,,,
+Audit History,165074777,N/A,INSERT,,,
+Audit History,165074937,N/A,INSERT,,,
+Audit History,165075538,N/A,INSERT,,,
+Audit History,165075570,N/A,INSERT,,,
+Audit History,165073438,N/A,INSERT,,,
+Audit History,165073470,N/A,INSERT,,,
+Audit History,165074295,N/A,INSERT,,,
+Audit History,165073662,N/A,INSERT,,,
+Pole,436263169,N/A,UPDATE,framing_type,Unknown,Double Circuit Vertical Neutral High
+Audit History,165072900,N/A,INSERT,,,
+Audit History,165073028,N/A,INSERT,,,
+Audit History,165071602,N/A,INSERT,,,
+OH Switch Unit,527274806,449361173,INSERT,,,
+Cable Segment Delta,527274774,N/A,INSERT,,,
+Cable Segment Delta,527274998,N/A,INSERT,,,
+Cable Segment Delta,527272230,N/A,INSERT,,,
+Cable Segment Delta,527272262,N/A,INSERT,,,
+Pole,231322783,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Cable Segment Delta,527272294,N/A,INSERT,,,
+Pole,229023492,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Audit History,165074349,N/A,INSERT,,,
+Audit History,165074982,N/A,INSERT,,,
+Audit History,165075078,N/A,INSERT,,,
+Audit History,165075110,N/A,INSERT,,,
+Audit History,165072130,N/A,INSERT,,,
+Audit History,165072194,N/A,INSERT,,,
+Audit History,165071465,N/A,INSERT,,,
+Audit History,165071497,N/A,INSERT,,,
+Primary Wire,527271551,215461508,INSERT,,,
+Primary Wire,527271583,395956239,INSERT,,,
+Primary Wire,527271615,215463277,INSERT,,,
+Audit History,165073834,N/A,INSERT,,,
+Audit History,165073674,N/A,INSERT,,,
+Audit History,165074467,N/A,INSERT,,,
+Audit History,165074499,N/A,INSERT,,,
+Pole,229024150,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024182,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229026305,N/A,UPDATE,status,Retired,Deleted
+Pole,229610184,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+OH Primary,215460884,N/A,UPDATE,installed_length,245,239
+OH Primary,215460884,N/A,UPDATE,phase_orientation,CBA,ABC
+OH Primary,215460916,N/A,UPDATE,installed_length,104,100
+OH Primary,215460916,N/A,UPDATE,phase_orientation,ABC,CBA
+OH Primary,215460948,N/A,UPDATE,installed_length,73,52
+OH Primary,215460948,N/A,UPDATE,phase_orientation,ABC,CBA
+OH Primary,215461709,N/A,UPDATE,installed_length,99,105
+OH Primary,215466083,N/A,UPDATE,calculated_length,78.3,78.69
+OH Primary,215466083,N/A,UPDATE,installed_length,79,76
+OH Primary,215466083,N/A,UPDATE,phase_orientation,ABC,BCA
+OH Primary,215466083,N/A,GEOM UPDATE,route,chain (1),chain (2) - Length Changed  < 1cm
+OH Primary,221509434,N/A,UPDATE,installed_length,64,61
+Primary Wire,527271526,215461373,INSERT,,,
+Primary Wire,527271558,526959062,INSERT,,,
+Primary Wire,527271590,215462446,INSERT,,,
+Primary Wire,527271622,526958988,INSERT,,,
+Audit History,165092894,N/A,INSERT,,,
+Audit History,165073581,N/A,INSERT,,,
+Audit History,165073421,N/A,INSERT,,,
+Audit History,165073517,N/A,INSERT,,,
+Cable Segment Delta,527272127,N/A,INSERT,,,
+Cable Segment Delta,527272824,N/A,INSERT,,,
+Cable Segment Delta,527272159,N/A,INSERT,,,
+Cable Segment Delta,527272424,N/A,INSERT,,,
+OH Primary,215462207,N/A,UPDATE,installed_length,125,120
+OH Primary,215462207,N/A,UPDATE,phase_orientation,ABC,CBA
+Audit History,165073751,N/A,INSERT,,,
+Audit History,165072958,N/A,INSERT,,,
+Audit History,165073054,N/A,INSERT,,,
+Cable Segment Delta,527272152,N/A,INSERT,,,
+Cable Segment Delta,527272184,N/A,INSERT,,,
+Cable Segment Delta,527272753,N/A,INSERT,,,
+Audit History,165075080,N/A,INSERT,,,
+Audit History,165074904,N/A,INSERT,,,
+Audit History,165075473,N/A,INSERT,,,
+Audit History,165075505,N/A,INSERT,,,
+Audit History,165073951,N/A,INSERT,,,
+OH Transformer Bank Unit,441898716,441898699,UPDATE,phase,A,C
+OH Primary,215380965,N/A,UPDATE,installed_length,35,33
+OH Primary,215465941,N/A,UPDATE,installed_length,71.53,67
+Edist Device Feeder,527274773,N/A,INSERT,,,
+Cable Segment Delta,527272373,N/A,INSERT,,,
+Primary Wire,527271548,215462419,INSERT,,,
+Primary Wire,527271580,215461833,INSERT,,,
+OH Transformer Bank Unit,235982454,235982441,UPDATE,phase,A,B
+OH Fuse,233833869,N/A,UPDATE,type,Unknown,Cutout
+Pole,229023683,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Audit History,165074339,N/A,INSERT,,,
+Pole,441768056,N/A,UPDATE,framing_type,Unknown,Double Circuit Vertical Neutral High
+Audit History,165074403,N/A,INSERT,,,
+Audit History,165073450,N/A,INSERT,,,
+OH Transformer Bank Unit,235982589,235982576,UPDATE,phase,A,B
+OH Primary,215383586,N/A,UPDATE,installed_length,137,129
+Audit History,165071560,N/A,INSERT,,,
+Audit History,165071400,N/A,INSERT,,,
+Audit History,165071368,N/A,INSERT,,,
+Audit History,165073796,N/A,INSERT,,,
+Audit History,165073828,N/A,INSERT,,,
+Audit History,165073668,N/A,INSERT,,,
+Audit History,165073131,N/A,INSERT,,,
+Pole,229023292,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Audit History,165075017,N/A,INSERT,,,
+Audit History,165075145,N/A,INSERT,,,
+Cable Segment Delta,527275077,N/A,INSERT,,,
+OH Primary,395956365,N/A,UPDATE,installed_length,93.77,128
+Primary Wire,527271621,215463153,INSERT,,,
+Primary Wire,527271525,215461065,INSERT,,,
+Primary Wire,527271557,215462834,INSERT,,,
+Primary Wire,527271589,215383934,INSERT,,,
+Pole,441767994,N/A,UPDATE,framing_type,Unknown,Double Circuit Vertical Neutral High
+Pole,441767994,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 0' 2.49"""
+Audit History,165071898,N/A,INSERT,,,
+Audit History,165072122,N/A,INSERT,,,
+Audit History,165073484,N/A,INSERT,,,
+Audit History,165073089,N/A,INSERT,,,
+Audit History,165073121,N/A,INSERT,,,
+Pole,229027723,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Primary Wire,221509394,221509390,UPDATE,insulation,WP,BARE
+Pole,438557490,N/A,UPDATE,framing_type,Unknown,Double Circuit Triangular Neutral Low
+Cable Segment Delta,527272207,N/A,INSERT,,,
+Cable Segment Delta,527272239,N/A,INSERT,,,
+Cable Segment Delta,527272271,N/A,INSERT,,,
+Cable Segment Delta,527272087,N/A,INSERT,,,
+Audit History,165075536,N/A,INSERT,,,
+Audit History,165075600,N/A,INSERT,,,
+Audit History,165074142,N/A,INSERT,,,
+Audit History,165074935,N/A,INSERT,,,
+Audit History,165075023,N/A,INSERT,,,
+Audit History,165075087,N/A,INSERT,,,
+Audit History,165074198,N/A,INSERT,,,
+Audit History,165073629,N/A,INSERT,,,
+OH Primary,457659961,N/A,UPDATE,installed_length,66.47,65
+OH Primary,215462804,N/A,UPDATE,installed_length,47,46
+OH Primary,215462804,N/A,UPDATE,phase_orientation,CBA,ABC
+OH Primary,215462900,N/A,UPDATE,installed_length,120,113
+Cable Segment Delta,527274772,N/A,INSERT,,,
+Cable Segment Delta,527274804,N/A,INSERT,,,
+Cable Segment Delta,527274996,N/A,INSERT,,,
+Cable Segment Delta,527272197,N/A,INSERT,,,
+Cable Segment Delta,527272229,N/A,INSERT,,,
+Cable Segment Delta,527272261,N/A,INSERT,,,
+Cable Segment Delta,527272293,N/A,INSERT,,,
+Audit History,165074949,N/A,INSERT,,,
+Audit History,165073555,N/A,INSERT,,,
+Audit History,165074412,N/A,INSERT,,,
+Audit History,165075013,N/A,INSERT,,,
+OH Primary,215467263,N/A,UPDATE,calculated_length,123.1,171.2
+OH Primary,215467263,N/A,UPDATE,installed_length,127,54
+OH Primary,215467263,N/A,GEOM UPDATE,route,chain (1),"chain (2) - Length Changed 36' 3.16"""
+Pole,441767463,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Audit History,165071495,N/A,INSERT,,,
+Audit History,165072128,N/A,INSERT,,,
+Audit History,165072192,N/A,INSERT,,,
+Audit History,165071055,N/A,INSERT,,,
+Audit History,165071023,N/A,INSERT,,,
+Audit History,165072385,N/A,INSERT,,,
+Audit History,165071848,N/A,INSERT,,,
+Cable Segment Delta,527272878,N/A,INSERT,,,
+Pole,228899774,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+OH Primary,450069191,N/A,UPDATE,calculated_length,349.8,unset
+OH Primary,450069191,N/A,UPDATE,installed_length,176.9,173
+OH Primary,450069191,N/A,GEOM UPDATE,route,chain (1),chain (2) - Length Changed  < 1cm
+Pole,229023419,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229023451,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229024052,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229610214,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Primary Wire,215461010,215461009,UPDATE,insulation,WP,BARE
+Primary Wire,215462468,215462465,UPDATE,insulation,WP,BARE
+OH Primary,215460978,N/A,UPDATE,installed_length,130,128
+OH Primary,215460978,N/A,UPDATE,phase_orientation,ABC,CBA
+Audit History,165073819,N/A,INSERT,,,
+OH Fuse,395956428,N/A,UPDATE,normal_position,CCC,OOO
+Primary Wire,527271620,526958966,INSERT,,,
+Primary Wire,527271524,526959052,INSERT,,,
+Primary Wire,527271556,215467263,INSERT,,,
+Primary Wire,527271588,215461721,INSERT,,,
+Audit History,165073419,N/A,INSERT,,,
+Audit History,165072089,N/A,INSERT,,,
+Audit History,165073547,N/A,INSERT,,,
+Cable Segment Delta,527272823,N/A,INSERT,,,
+Cable Segment Delta,527271966,N/A,INSERT,,,
+Cable Segment Delta,527272030,N/A,INSERT,,,
+Cable Segment Delta,527272062,N/A,INSERT,,,
+Pole,229026296,N/A,UPDATE,status,Retired,Deleted
+Electric XY,82418661,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 0' 4.01"""
+Pole,229027818,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Primary Wire,221509393,221509390,UPDATE,insulation,WP,BARE
+Cable Segment Delta,527272150,N/A,INSERT,,,
+Cable Segment Delta,527272182,N/A,INSERT,,,
+Cable Segment Delta,527272751,N/A,INSERT,,,
+Cable Segment Delta,527271958,N/A,INSERT,,,
+Audit History,165075503,N/A,INSERT,,,
+Audit History,165075567,N/A,INSERT,,,
+Audit History,165074013,N/A,INSERT,,,
+Audit History,165074173,N/A,INSERT,,,
+Audit History,165075337,N/A,INSERT,,,
+Audit History,165092853,N/A,INSERT,,,
+Audit History,165071065,N/A,INSERT,,,
+Audit History,165073348,N/A,INSERT,,,
+Audit History,165073380,N/A,INSERT,,,
+Cable Segment Delta,527274771,N/A,INSERT,,,
+Cable Segment Delta,527274803,N/A,INSERT,,,
+Cable Segment Delta,527274867,N/A,INSERT,,,
+OH Transformer Bank Unit,235982452,235982441,UPDATE,phase,C,A
+OH Primary,215461221,N/A,UPDATE,installed_length,51,46
+Pole,229023585,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229023617,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Cable Segment Delta,527274811,N/A,INSERT,,,
+Cable Segment Delta,527274875,N/A,INSERT,,,
+Cable Segment Delta,527275003,N/A,INSERT,,,
+Audit History,165071366,N/A,INSERT,,,
+Audit History,165071398,N/A,INSERT,,,
+Audit History,165071430,N/A,INSERT,,,
+Audit History,165071462,N/A,INSERT,,,
+Audit History,165071384,N/A,INSERT,,,
+Audit History,165071416,N/A,INSERT,,,
+Audit History,165071480,N/A,INSERT,,,
+Audit History,165071512,N/A,INSERT,,,
+Distributed Generation,419395147,N/A,UPDATE,type,PV,Unknown
+Audit History,165071390,N/A,INSERT,,,
+Audit History,165073008,N/A,INSERT,,,
+Pole,229023258,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024812,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024115,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Audit History,165074661,N/A,INSERT,,,
+Primary Wire,215462467,215462465,UPDATE,insulation,WP,BARE
+Pole,131091945,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+OH Primary,215461009,N/A,UPDATE,installed_length,152,148
+OH Transformer Bank,235998842,N/A,UPDATE,status,Existing,Deleted
+Primary Wire,527271587,527271080,INSERT,,,
+Primary Wire,527271619,215463291,INSERT,,,
+Primary Wire,527271523,526959052,INSERT,,,
+Audit History,165071896,N/A,INSERT,,,
+Audit History,165072721,N/A,INSERT,,,
+Audit History,165072199,N/A,INSERT,,,
+OH Transformer Bank Unit,237177240,237177225,UPDATE,phase,A,C
+Audit History,165071438,N/A,INSERT,,,
+Cable Segment Delta,527272423,N/A,INSERT,,,
+Audit History,165071443,N/A,INSERT,,,
+Audit History,165071579,N/A,INSERT,,,
+OH Primary,215463029,N/A,UPDATE,phase_orientation,ABC,CBA
+Audit History,165073085,N/A,INSERT,,,
+Audit History,165075432,N/A,INSERT,,,
+OH Transformer Bank,59915797,N/A,UPDATE,facility_tag_x,864,53
+OH Transformer Bank,59915797,N/A,UPDATE,facility_tag_y,234,64
+OH Transformer Bank,59915797,N/A,UPDATE,xcel_energy_device_id,3 - 2132 - 864 - 114 - 234,3 - 2132 - 53 - 114 - 64
+OH Transformer Bank,59915797,N/A,UPDATE,xcel_energy_field_stencil,864 - 234,53 - 64
+Cable Segment Delta,527272238,N/A,INSERT,,,
+Cable Segment Delta,527272270,N/A,INSERT,,,
+Cable Segment Delta,527272302,N/A,INSERT,,,
+Cable Segment Delta,527272398,N/A,INSERT,,,
+OH Primary,221509743,N/A,UPDATE,installed_length,76,77
+Pole,229026406,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Audit History,165075118,N/A,INSERT,,,
+Pole,229610029,N/A,UPDATE,framing_type,Unknown,Horizontal Center Phase High
+Audit History,165075182,N/A,INSERT,,,
+OH Switch Unit,527274802,449361173,INSERT,,,
+Primary Wire,527271579,526959062,INSERT,,,
+Cable Segment Delta,527272420,N/A,INSERT,,,
+Cable Segment Delta,527272196,N/A,INSERT,,,
+Cable Segment Delta,527272228,N/A,INSERT,,,
+Audit History,165073458,N/A,INSERT,,,
+Audit History,165073490,N/A,INSERT,,,
+Audit History,165073618,N/A,INSERT,,,
+Audit History,165073650,N/A,INSERT,,,
+Audit History,165071432,N/A,INSERT,,,
+Audit History,165071528,N/A,INSERT,,,
+Audit History,165071493,N/A,INSERT,,,
+Audit History,165071589,N/A,INSERT,,,
+Primary Wire,527271550,215461193,INSERT,,,
+Cable Segment Delta,527275179,N/A,INSERT,,,
+Pole,229024018,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024242,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Primary Wire,215462466,215462465,UPDATE,insulation,WP,BARE
+OH Primary,215461833,N/A,UPDATE,installed_length,106,108
+OH Primary,215461833,N/A,UPDATE,phase_orientation,ABC,CBA
+Primary Wire,527271522,527271066,INSERT,,,
+Primary Wire,527271554,438399333,INSERT,,,
+Primary Wire,527271586,215462465,INSERT,,,
+Primary Wire,527271618,527271088,INSERT,,,
+Audit History,165072848,N/A,INSERT,,,
+Audit History,165071358,N/A,INSERT,,,
+Cable Segment Delta,527272189,N/A,INSERT,,,
+Cable Segment Delta,527272157,N/A,INSERT,,,
+Cable Segment Delta,527272758,N/A,INSERT,,,
+Cable Segment Delta,527272790,N/A,INSERT,,,
+Pole,229026134,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Pole,229026863,N/A,UPDATE,status,Retired,Deleted
+Pole,229027688,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Audit History,165075606,N/A,INSERT,,,
+Cable Segment Delta,527272148,N/A,INSERT,,,
+Cable Segment Delta,527272180,N/A,INSERT,,,
+Cable Segment Delta,527272749,N/A,INSERT,,,
+Cable Segment Delta,527272877,N/A,INSERT,,,
+Audit History,165074804,N/A,INSERT,,,
+Audit History,165074900,N/A,INSERT,,,
+Audit History,165074932,N/A,INSERT,,,
+Audit History,165075469,N/A,INSERT,,,
+Cable Segment Delta,527275025,N/A,INSERT,,,
+Cable Segment Delta,527275057,N/A,INSERT,,,
+Cable Segment Delta,527275185,N/A,INSERT,,,
+Audit History,165072670,N/A,INSERT,,,
+Audit History,165072734,N/A,INSERT,,,
+Audit History,165072830,N/A,INSERT,,,
+Audit History,165073591,N/A,INSERT,,,
+Audit History,165071078,N/A,INSERT,,,
+Cable Segment Delta,527274769,N/A,INSERT,,,
+Cable Segment Delta,527274801,N/A,INSERT,,,
+Cable Segment Delta,527274865,N/A,INSERT,,,
+OH Primary,436263854,N/A,UPDATE,installed_length,326,180
+OH Primary,436263854,N/A,GEOM UPDATE,route,chain (1),chain (2) - Length Changed  < 1cm
+OH Transformer Bank Unit,235982587,235982576,UPDATE,phase,B,A
+Audit History,165071396,N/A,INSERT,,,
+Audit History,165071428,N/A,INSERT,,,
+Audit History,165071460,N/A,INSERT,,,
+Audit History,165073097,N/A,INSERT,,,
+Audit History,165073129,N/A,INSERT,,,
+Audit History,165072176,N/A,INSERT,,,
+Pole,229025731,N/A,UPDATE,status,Retired,Deleted
+Audit History,165075112,N/A,INSERT,,,
+Audit History,165073288,N/A,INSERT,,,
+OH Primary,215462465,N/A,UPDATE,installed_length,123,129
+OH Primary,215467324,N/A,UPDATE,installed_length,125,94
+Primary Wire,527271521,527271066,INSERT,,,
+Primary Wire,527271553,215461468,INSERT,,,
+Primary Wire,527271585,215462671,INSERT,,,
+Primary Wire,527271617,215461871,INSERT,,,
+Pole,229610102,N/A,UPDATE,framing_type,Unknown,Horizontal Center Phase High
+Audit History,165073640,N/A,INSERT,,,
+Pole,229026261,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+OH Primary,215462234,N/A,UPDATE,installed_length,107,105
+Cable Segment Delta,527272205,N/A,INSERT,,,
+Cable Segment Delta,527272237,N/A,INSERT,,,
+Cable Segment Delta,527272269,N/A,INSERT,,,
+Cable Segment Delta,527272301,N/A,INSERT,,,
+Audit History,165074010,N/A,INSERT,,,
+Audit History,165074170,N/A,INSERT,,,
+Audit History,165073531,N/A,INSERT,,,
+Audit History,165073563,N/A,INSERT,,,
+Audit History,165075149,N/A,INSERT,,,
+Audit History,165073595,N/A,INSERT,,,
+Audit History,165073155,N/A,INSERT,,,
+Audit History,165073187,N/A,INSERT,,,
+Audit History,165071633,N/A,INSERT,,,
+Audit History,165071376,N/A,INSERT,,,
+Audit History,165072233,N/A,INSERT,,,
+Audit History,165072297,N/A,INSERT,,,
+Audit History,165072329,N/A,INSERT,,,
+OH Primary,215462739,N/A,UPDATE,calculated_length,65.43,65.27
+OH Primary,215462739,N/A,UPDATE,installed_length,66,65
+OH Primary,215462739,N/A,GEOM UPDATE,route,chain (1),"chain (2) - Length Changed 9' 1.71"""
+OH Primary,215462771,N/A,UPDATE,installed_length,128,126
+OH Primary,215462771,N/A,UPDATE,phase_orientation,CBA,ABC
+Cable Segment Delta,527274768,N/A,INSERT,,,
+Cable Segment Delta,527274800,N/A,INSERT,,,
+Cable Segment Delta,527274992,N/A,INSERT,,,
+Cable Segment Delta,527272195,N/A,INSERT,,,
+Cable Segment Delta,527272227,N/A,INSERT,,,
+Cable Segment Delta,527272259,N/A,INSERT,,,
+Cable Segment Delta,527272291,N/A,INSERT,,,
+Audit History,165073521,N/A,INSERT,,,
+Audit History,165073553,N/A,INSERT,,,
+Audit History,165073585,N/A,INSERT,,,
+Audit History,165075043,N/A,INSERT,,,
+Audit History,165071491,N/A,INSERT,,,
+Audit History,165071587,N/A,INSERT,,,
+UG Transformer,67029417,N/A,UPDATE,bank_size,50,50
+Audit History,165071623,N/A,INSERT,,,
+Cable Segment Delta,527275082,N/A,INSERT,,,
+OH Primary,248997309,N/A,UPDATE,installed_length,128.6,120
+Audit History,165073832,N/A,INSERT,,,
+OH Primary,441689202,N/A,UPDATE,installed_length,157.4,161
+Pole,229025602,N/A,UPDATE,status,Retired,Deleted
+OH Primary,215462133,N/A,UPDATE,calculated_length,91.83,unset
+OH Primary,215462133,N/A,UPDATE,installed_length,91,90
+OH Primary,215462133,N/A,GEOM UPDATE,route,chain (1),chain (2) - Length Changed  < 1cm
+Primary Wire,527271520,526959016,INSERT,,,
+Primary Wire,527271552,215460902,INSERT,,,
+Primary Wire,527271584,215462689,INSERT,,,
+Primary Wire,527271616,215380875,INSERT,,,
+Audit History,165074176,N/A,INSERT,,,
+Audit History,165072718,N/A,INSERT,,,
+Cable Segment Delta,527272789,N/A,INSERT,,,
+Cable Segment Delta,527271964,N/A,INSERT,,,
+Cable Segment Delta,527272060,N/A,INSERT,,,
+Cable Segment Delta,527272390,N/A,INSERT,,,
+Cable Segment Delta,527272422,N/A,INSERT,,,
+Audit History,165073034,N/A,INSERT,,,
+Audit History,165072273,N/A,INSERT,,,
+Pole,229027622,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Cable Segment Delta,527272146,N/A,INSERT,,,
+Cable Segment Delta,527272178,N/A,INSERT,,,
+Audit History,165075142,N/A,INSERT,,,
+Cable Segment Delta,527272747,N/A,INSERT,,,
+Audit History,165073945,N/A,INSERT,,,
+Audit History,165073977,N/A,INSERT,,,
+Audit History,165074073,N/A,INSERT,,,
+Audit History,165075499,N/A,INSERT,,,
+Primary Wire,221509453,221509449,UPDATE,status,Existing,Deleted
+Distributed Generation,349242901,N/A,UPDATE,type,PV,Unknown
+Cable Segment Delta,527272843,N/A,INSERT,,,
+Cable Segment Delta,527271954,N/A,INSERT,,,
+Cable Segment Delta,527271986,N/A,INSERT,,,
+Cable Segment Delta,527272050,N/A,INSERT,,,
+Audit History,165075563,N/A,INSERT,,,
+Audit History,165074137,N/A,INSERT,,,
+Audit History,165074706,N/A,INSERT,,,
+Audit History,165074802,N/A,INSERT,,,
+Primary Wire,527271578,448332697,INSERT,,,
+Cable Segment Delta,527274767,N/A,INSERT,,,
+Primary Wire,527271610,527271102,INSERT,,,
+Primary Wire,527271514,215381004,INSERT,,,
+Cable Segment Delta,527272082,N/A,INSERT,,,
+Cable Segment Delta,527272114,N/A,INSERT,,,
+Audit History,165074930,N/A,INSERT,,,
+UG Transformer,235965767,N/A,UPDATE,output_voltage,Unknown,'120/240'
+OH Primary,215467891,N/A,UPDATE,installed_length,121,122
+Audit History,165071394,N/A,INSERT,,,
+Audit History,165071554,N/A,INSERT,,,
+Audit History,165071426,N/A,INSERT,,,
+Pole,229024079,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229024175,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229023478,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Primary Wire,215461037,215461035,UPDATE,insulation,WP,BARE
+Primary Structure Node,527272728,N/A,INSERT,,,
+Primary Structure Node,527275107,N/A,INSERT,,,
+Pole,395956231,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Cable Segment Delta,527271967,N/A,INSERT,,,
+Audit History,165071892,N/A,INSERT,,,
+OH Transformer Bank Unit,237177236,237177225,UPDATE,phase,B,A
+Audit History,165092814,N/A,INSERT,,,
+Audit History,165071372,N/A,INSERT,,,
+OH Primary,215462264,N/A,UPDATE,installed_length,161,181
+Cable Segment Delta,527272778,N/A,INSERT,,,
+Cable Segment Delta,527272842,N/A,INSERT,,,
+Cable Segment Delta,527272081,N/A,INSERT,,,
+Cable Segment Delta,527272113,N/A,INSERT,,,
+Audit History,165073215,N/A,INSERT,,,
+Audit History,165073407,N/A,INSERT,,,
+Audit History,165074040,N/A,INSERT,,,
+Audit History,165074168,N/A,INSERT,,,
+Primary Wire,215461347,215461344,UPDATE,status,Existing,Deleted
+OH Primary,215461123,N/A,UPDATE,installed_length,150,152
+Cable Segment Delta,527274799,N/A,INSERT,,,
+Cable Segment Delta,527274863,N/A,INSERT,,,
+Cable Segment Delta,527274991,N/A,INSERT,,,
+Audit History,165071458,N/A,INSERT,,,
+Audit History,165071522,N/A,INSERT,,,
+Audit History,165071362,N/A,INSERT,,,
+OH Primary,215461079,N/A,UPDATE,installed_length,109,105
+OH Primary,215461079,N/A,UPDATE,phase_orientation,ABC,CBA
+OH Primary,215462589,N/A,UPDATE,installed_length,68,111
+OH Primary,215465537,N/A,UPDATE,installed_length,132,133
+OH Primary,221509649,N/A,UPDATE,installed_length,123,119
+OH Switch Unit,527274990,425975982,INSERT,,,
+Cable Segment Delta,527274766,N/A,INSERT,,,
+Cable Segment Delta,527274798,N/A,INSERT,,,
+Primary Wire,455980589,455980577,UPDATE,status,Existing,Deleted
+Cable Segment Delta,527272418,N/A,INSERT,,,
+Cable Segment Delta,527272194,N/A,INSERT,,,
+Cable Segment Delta,527272226,N/A,INSERT,,,
+Audit History,165074377,N/A,INSERT,,,
+Audit History,165073456,N/A,INSERT,,,
+Audit History,165073488,N/A,INSERT,,,
+Audit History,165073616,N/A,INSERT,,,
+OH Primary,215467225,N/A,UPDATE,installed_length,89,87
+Audit History,165071585,N/A,INSERT,,,
+Audit History,165071489,N/A,INSERT,,,
+Primary Wire,527271581,526959062,INSERT,,,
+Pole,229023253,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Pole,229023285,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Primary Wire,215461036,215461035,UPDATE,insulation,WP,BARE
+Audit History,165071227,N/A,INSERT,,,
+Audit History,165071291,N/A,INSERT,,,
+Audit History,165073446,N/A,INSERT,,,
+Audit History,165071987,N/A,INSERT,,,
+Audit History,165071651,N/A,INSERT,,,
+Audit History,165071715,N/A,INSERT,,,
+Primary Wire,441768780,441768768,UPDATE,status,Existing,Deleted
+Cable Segment Delta,527272155,N/A,INSERT,,,
+Cable Segment Delta,527272187,N/A,INSERT,,,
+Cable Segment Delta,527272756,N/A,INSERT,,,
+Pole,229026098,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229026098,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 57' 7.54"""
+Pole,229027716,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+OH Primary,215462928,N/A,UPDATE,installed_length,141,137
+Recloser Bank,131737036,N/A,UPDATE,rated_voltage,Unknown,15KV
+Primary Structure Node,94570454,N/A,UPDATE,electric_xy_id,82416529,82416489
+Cable Segment Delta,527272080,N/A,INSERT,,,
+Cable Segment Delta,527272112,N/A,INSERT,,,
+Cable Segment Delta,527272144,N/A,INSERT,,,
+Audit History,165073278,N/A,INSERT,,,
+Audit History,165073310,N/A,INSERT,,,
+Audit History,165073342,N/A,INSERT,,,
+Audit History,165074928,N/A,INSERT,,,
+OH Primary,441767926,N/A,UPDATE,installed_length,103,104
+OH Primary,458399952,N/A,UPDATE,installed_length,23.52,51
+OH Primary,458399952,N/A,UPDATE,phase_orientation,ABC,CBA
+Cable Segment Delta,527272145,N/A,INSERT,,,
+Cable Segment Delta,527272177,N/A,INSERT,,,
+Cable Segment Delta,527271953,N/A,INSERT,,,
+Cable Segment Delta,527271985,N/A,INSERT,,,
+Audit History,165074897,N/A,INSERT,,,
+Audit History,165075466,N/A,INSERT,,,
+OH Primary,215465752,N/A,UPDATE,installed_length,112.4,117
+Cable Segment Delta,527274765,N/A,INSERT,,,
+Cable Segment Delta,527274797,N/A,INSERT,,,
+Cable Segment Delta,527274861,N/A,INSERT,,,
+Cable Segment Delta,527274776,N/A,INSERT,,,
+Cable Segment Delta,527274808,N/A,INSERT,,,
+Cable Segment Delta,527274872,N/A,INSERT,,,
+Cable Segment Delta,527274904,N/A,INSERT,,,
+OH Fuse,233833808,N/A,UPDATE,type,Unknown,Cutout
+OH Primary,215275999,N/A,UPDATE,installed_length,115,116
+OH Primary,215383009,N/A,UPDATE,installed_length,130,120
+Audit History,165071392,N/A,INSERT,,,
+Audit History,165071360,N/A,INSERT,,,
+Audit History,165071456,N/A,INSERT,,,
+Audit History,165071520,N/A,INSERT,,,
+Audit History,165073863,N/A,INSERT,,,
+Audit History,165074528,N/A,INSERT,,,
+Audit History,165074592,N/A,INSERT,,,
+Audit History,165073735,N/A,INSERT,,,
+Pole,229023316,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Audit History,165074951,N/A,INSERT,,,
+Audit History,165073478,N/A,INSERT,,,
+Audit History,165073542,N/A,INSERT,,,
+Audit History,165072018,N/A,INSERT,,,
+Primary Wire,441768178,441768166,UPDATE,status,Existing,Deleted
+Audit History,165072132,N/A,INSERT,,,
+Audit History,165072164,N/A,INSERT,,,
+Audit History,165072228,N/A,INSERT,,,
+Audit History,165072260,N/A,INSERT,,,
+Cable Segment Delta,527272389,N/A,INSERT,,,
+Cable Segment Delta,527272421,N/A,INSERT,,,
+OH Primary,215461629,N/A,UPDATE,installed_length,153,142
+OH Primary,215461629,N/A,UPDATE,phase_orientation,ABC,CBA
+OH Primary,215462294,N/A,UPDATE,installed_length,101,98
+Cable Segment Delta,527272111,N/A,INSERT,,,
+Audit History,165075045,N/A,INSERT,,,
+Audit History,165075173,N/A,INSERT,,,
+Cable Segment Delta,527271951,N/A,INSERT,,,
+Audit History,165073181,N/A,INSERT,,,
+Audit History,165073213,N/A,INSERT,,,
+Audit History,165073405,N/A,INSERT,,,
+Audit History,165074799,N/A,INSERT,,,
+Audit History,165071864,N/A,INSERT,,,
+Audit History,165073226,N/A,INSERT,,,
+Audit History,165073258,N/A,INSERT,,,
+Audit History,165073354,N/A,INSERT,,,
+Pole,229027580,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+OH Primary,215461871,N/A,UPDATE,installed_length,203,133
+OH Primary,215461871,N/A,GEOM UPDATE,route,chain (1),chain (2) - Length Changed  < 1cm
+OH Primary,215462834,N/A,UPDATE,installed_length,100,101
+OH Primary,215462866,N/A,UPDATE,installed_length,119,114
+Cable Segment Delta,527272370,N/A,INSERT,,,
+Cable Segment Delta,527272402,N/A,INSERT,,,
+Cable Segment Delta,527272434,N/A,INSERT,,,
+Cable Segment Delta,527274764,N/A,INSERT,,,
+Cable Segment Delta,527272193,N/A,INSERT,,,
+Cable Segment Delta,527272225,N/A,INSERT,,,
+Cable Segment Delta,527272257,N/A,INSERT,,,
+Cable Segment Delta,527272289,N/A,INSERT,,,
+Audit History,165073423,N/A,INSERT,,,
+Audit History,165073519,N/A,INSERT,,,
+Audit History,165073551,N/A,INSERT,,,
+Audit History,165074184,N/A,INSERT,,,
+OH Primary,215461765,N/A,UPDATE,installed_length,121,118
+Audit History,165071750,N/A,INSERT,,,
+Audit History,165071323,N/A,INSERT,,,
+Pole,441767956,N/A,UPDATE,framing_type,Unknown,Double Circuit Vertical Neutral High
+Audit History,165073606,N/A,INSERT,,,
+Audit History,165071571,N/A,INSERT,,,
+Audit History,165072997,N/A,INSERT,,,
+OH Primary,215461859,N/A,UPDATE,installed_length,151,124
+Primary Wire,441768876,441768864,UPDATE,status,Existing,Deleted
+Audit History,165073573,N/A,INSERT,,,
+Audit History,165072716,N/A,INSERT,,,
+Audit History,165071130,N/A,INSERT,,,
+Audit History,165073507,N/A,INSERT,,,
+Audit History,165071128,N/A,INSERT,,,
+Audit History,165071160,N/A,INSERT,,,
+Audit History,165073539,N/A,INSERT,,,
+Cable Segment Delta,527272058,N/A,INSERT,,,
+Cable Segment Delta,527272090,N/A,INSERT,,,
+Cable Segment Delta,527272122,N/A,INSERT,,,
+Cable Segment Delta,527272755,N/A,INSERT,,,
+Pole,229026825,N/A,UPDATE,status,Retired,Deleted
+Primary Wire,221509481,221509479,UPDATE,status,Existing,Deleted
+Pole,228997401,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+OH Primary,215461468,N/A,UPDATE,installed_length,104,112
+Cable Segment Delta,527272110,N/A,INSERT,,,
+Cable Segment Delta,527272142,N/A,INSERT,,,
+Cable Segment Delta,527272174,N/A,INSERT,,,
+Cable Segment Delta,527271950,N/A,INSERT,,,
+Audit History,165073276,N/A,INSERT,,,
+Audit History,165073308,N/A,INSERT,,,
+Audit History,165073340,N/A,INSERT,,,
+Audit History,165073372,N/A,INSERT,,,
+Distributed Generation,349242897,N/A,UPDATE,type,PV,Unknown
+Cable Segment Delta,527272176,N/A,INSERT,,,
+Cable Segment Delta,527272777,N/A,INSERT,,,
+Cable Segment Delta,527272841,N/A,INSERT,,,
+Cable Segment Delta,527271952,N/A,INSERT,,,
+Audit History,165073374,N/A,INSERT,,,
+Audit History,165075497,N/A,INSERT,,,
+Audit History,165075593,N/A,INSERT,,,
+Audit History,165074103,N/A,INSERT,,,
+Cable Segment Delta,527274763,N/A,INSERT,,,
+Audit History,165092811,N/A,INSERT,,,
+Audit History,165072086,N/A,INSERT,,,
+Audit History,165073638,N/A,INSERT,,,
+Cable Segment Delta,527272049,N/A,INSERT,,,
+Audit History,165072685,N/A,INSERT,,,
+Audit History,165072813,N/A,INSERT,,,
+Pole,229023346,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229023410,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024043,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229023442,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Cable Segment Delta,527274893,N/A,INSERT,,,
+Audit History,165071888,N/A,INSERT,,,
+Audit History,165072048,N/A,INSERT,,,
+Audit History,165072291,N/A,INSERT,,,
+OH Transformer Bank Unit,235998912,235998899,UPDATE,phase,A,C
+Pole,229026984,N/A,UPDATE,status,Retired,Deleted
+Pole,229027681,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,229024573,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229024605,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Cable Segment Delta,527272774,N/A,INSERT,,,
+Cable Segment Delta,527272806,N/A,INSERT,,,
+Cable Segment Delta,527271949,N/A,INSERT,,,
+Cable Segment Delta,527271981,N/A,INSERT,,,
+Audit History,165073179,N/A,INSERT,,,
+Audit History,165073211,N/A,INSERT,,,
+Audit History,165073403,N/A,INSERT,,,
+Audit History,165074797,N/A,INSERT,,,
+Audit History,165071424,N/A,INSERT,,,
+Audit History,165071552,N/A,INSERT,,,
+OH Primary,215462631,N/A,UPDATE,installed_length,75,79
+OH Primary,441767616,N/A,UPDATE,installed_length,140,144
+Audit History,165071502,N/A,INSERT,,,
+Pole,228999580,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+OH Primary,215463057,N/A,UPDATE,installed_length,121,124
+OH Primary,215463089,N/A,UPDATE,installed_length,128,127
+OH Primary,215463153,N/A,UPDATE,installed_length,103,100
+Edist Device Feeder,527274858,N/A,INSERT,,,
+Edist Device Feeder,527274890,N/A,INSERT,,,
+Cable Segment Delta,527272639,N/A,INSERT,,,
+Cable Segment Delta,527274762,N/A,INSERT,,,
+Cable Segment Delta,527272192,N/A,INSERT,,,
+Cable Segment Delta,527272224,N/A,INSERT,,,
+Cable Segment Delta,527272256,N/A,INSERT,,,
+Audit History,165073486,N/A,INSERT,,,
+Audit History,165073614,N/A,INSERT,,,
+Audit History,165074944,N/A,INSERT,,,
+Audit History,165075008,N/A,INSERT,,,
+Audit History,165073623,N/A,INSERT,,,
+Audit History,165073527,N/A,INSERT,,,
+Pole,230818950,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Audit History,165071408,N/A,INSERT,,,
+Primary Wire,527271612,215462109,INSERT,,,
+Cable Segment Delta,527271955,N/A,INSERT,,,
+Cable Segment Delta,527271987,N/A,INSERT,,,
+Cable Segment Delta,527272051,N/A,INSERT,,,
+Pole,229024106,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Audit History,165072051,N/A,INSERT,,,
+Audit History,165073413,N/A,INSERT,,,
+Audit History,165071955,N/A,INSERT,,,
+Audit History,165071225,N/A,INSERT,,,
+OH Primary,215276011,N/A,UPDATE,installed_length,119,120
+Audit History,165071983,N/A,INSERT,,,
+Audit History,165072015,N/A,INSERT,,,
+Audit History,165071158,N/A,INSERT,,,
+Audit History,165071254,N/A,INSERT,,,
+Cable Segment Delta,527272121,N/A,INSERT,,,
+Cable Segment Delta,527272153,N/A,INSERT,,,
+Cable Segment Delta,527272185,N/A,INSERT,,,
+Pole,441689662,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Cable Segment Delta,527272260,N/A,INSERT,,,
+Cable Segment Delta,527272292,N/A,INSERT,,,
+Cable Segment Delta,527272388,N/A,INSERT,,,
+Pole,229027015,N/A,UPDATE,status,Retired,Deleted
+OH Primary,215462195,N/A,UPDATE,installed_length,134,135
+OH Fuse Unit,66682128,66682122,UPDATE,status,Existing,Deleted
+Cable Segment Delta,527272108,N/A,INSERT,,,
+Cable Segment Delta,527272140,N/A,INSERT,,,
+Cable Segment Delta,527272172,N/A,INSERT,,,
+Cable Segment Delta,527272773,N/A,INSERT,,,
+Audit History,165074131,N/A,INSERT,,,
+Audit History,165073338,N/A,INSERT,,,
+Audit History,165073370,N/A,INSERT,,,
+Audit History,165073274,N/A,INSERT,,,
+OH Switch Unit,425975997,425975982,UPDATE,phase,ABC,A
+OH Primary,215464610,N/A,UPDATE,installed_length,137,134
+Cable Segment Delta,527271983,N/A,INSERT,,,
+Cable Segment Delta,527272047,N/A,INSERT,,,
+Cable Segment Delta,527272079,N/A,INSERT,,,
+Cable Segment Delta,527272776,N/A,INSERT,,,
+OH Primary,215465769,N/A,UPDATE,installed_length,135,131
+Audit History,165074895,N/A,INSERT,,,
+Audit History,165075464,N/A,INSERT,,,
+Cable Segment Delta,527274761,N/A,INSERT,,,
+Electric XY,527272670,N/A,INSERT,,,
+Cable Segment Delta,527272305,N/A,INSERT,,,
+Audit History,165075294,N/A,INSERT,,,
+Audit History,165075326,N/A,INSERT,,,
+Audit History,165075358,N/A,INSERT,,,
+Audit History,165075390,N/A,INSERT,,,
+Pole,346956084,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Audit History,165073599,N/A,INSERT,,,
+OH Primary,59915774,N/A,UPDATE,installed_length,70.95,80
+Audit History,165074007,N/A,INSERT,,,
+Audit History,165074071,N/A,INSERT,,,
+Audit History,165073943,N/A,INSERT,,,
+Audit History,165073975,N/A,INSERT,,,
+OH Fuse,220754489,N/A,UPDATE,switch_no,527682,362266
+OH Fuse,220754489,N/A,UPDATE,xcel_energy_device_id,527682,362266
+OH Fuse,220754489,N/A,UPDATE,xcel_energy_field_stencil,527682,362266
+OH Primary,216949518,N/A,UPDATE,installed_length,34,30
+OH Transformer Bank Unit,441689291,441689268,UPDATE,phase,C,B
+OH Primary,441767576,N/A,UPDATE,installed_length,131.4,123
+Pole,229023248,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229024009,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229024201,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Pole,229024866,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Cable Segment Delta,527272822,N/A,INSERT,,,
+OH Transformer Bank Unit,527272029,527271843,INSERT,,,
+Primary Structure Node,527275169,N/A,INSERT,,,
+Primary Wire,441768014,441768002,UPDATE,status,Existing,Deleted
+Audit History,165071886,N/A,INSERT,,,
+Audit History,165071593,N/A,INSERT,,,
+Audit History,165072226,N/A,INSERT,,,
+Pole,229026125,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Pole,229026854,N/A,UPDATE,status,Retired,Deleted
+OH Primary,215462322,N/A,UPDATE,installed_length,148,149
+OH Primary,215462322,N/A,UPDATE,phase_orientation,ABC,CBA
+Pole,228899764,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Cable Segment Delta,527272772,N/A,INSERT,,,
+OH Transformer Bank Unit,527272043,527271875,INSERT,,,
+Cable Segment Delta,527271947,N/A,INSERT,,,
+Audit History,165073177,N/A,INSERT,,,
+Audit History,165073209,N/A,INSERT,,,
+Audit History,165073401,N/A,INSERT,,,
+Audit History,165074795,N/A,INSERT,,,
+Pole,229026401,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Audit History,165092844,N/A,INSERT,,,
+Cable Segment Delta,527275086,N/A,INSERT,,,
+OH Transformer Bank,235982511,N/A,UPDATE,phase_designation,B,A
+Pole,228999450,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+OH Primary,215465864,N/A,UPDATE,installed_length,176,173
+Cable Segment Delta,527272669,N/A,INSERT,,,
+OH Fuse Unit,527274760,233833746,INSERT,,,
+Cable Segment Delta,527272477,N/A,INSERT,,,
+Cable Segment Delta,527272509,N/A,INSERT,,,
+OH Transformer Bank Unit,235982473,235982460,UPDATE,phase,A,B
+Audit History,165075453,N/A,INSERT,,,
+OH Fuse,233833792,N/A,UPDATE,type,Unknown,Cutout
+OH Fuse,233833792,N/A,UPDATE,facility_tag_x,unset,162
+OH Fuse,233833792,N/A,UPDATE,facility_tag_y,unset,902
+OH Fuse,233833792,N/A,UPDATE,map_unit_x,unset,2134
+OH Fuse,233833792,N/A,UPDATE,map_unit_y,unset,117
+Audit History,165073549,N/A,INSERT,,,
+Audit History,165072059,N/A,INSERT,,,
+Audit History,165071931,N/A,INSERT,,,
+Audit History,165072027,N/A,INSERT,,,
+OH Primary,215467251,N/A,UPDATE,calculated_length,122.8,69.97
+OH Primary,215467251,N/A,UPDATE,installed_length,128.5,48
+OH Primary,215467251,N/A,GEOM UPDATE,route,chain (1),chain (2) - Length Changed  < 1cm
+Audit History,165071653,N/A,INSERT,,,
+Audit History,165071717,N/A,INSERT,,,
+Cable Segment Delta,527272031,N/A,INSERT,,,
+Cable Segment Delta,527272063,N/A,INSERT,,,
+OH Fuse,233833497,N/A,UPDATE,type,Unknown,Cutout
+OH Fuse,233833746,N/A,UPDATE,phase_designation,AC,ABC
+OH Fuse,233833746,N/A,UPDATE,normal_position,CNC,CCC
+OH Fuse,233833746,N/A,UPDATE,type,Unknown,Cutout
+OH Fuse,233833746,N/A,UPDATE,facility_tag_x,unset,877
+OH Fuse,233833746,N/A,UPDATE,facility_tag_y,unset,217
+OH Fuse,233833746,N/A,UPDATE,map_unit_x,unset,2134
+OH Fuse,233833746,N/A,UPDATE,map_unit_y,unset,117
+OH Fuse,233833746,N/A,GEOM UPDATE,location,point (1),"point (2) - Moved 12' 3.78"""
+OH Primary,215460902,N/A,UPDATE,installed_length,41,40
+Audit History,165073571,N/A,INSERT,,,
+Audit History,165071192,N/A,INSERT,,,
+Audit History,165070431,N/A,INSERT,,,
+Audit History,165070495,N/A,INSERT,,,
+Audit History,165072742,N/A,INSERT,,,
+Audit History,165070459,N/A,INSERT,,,
+Audit History,165071252,N/A,INSERT,,,
+Cable Segment Delta,527271960,N/A,INSERT,,,
+Cable Segment Delta,527272056,N/A,INSERT,,,
+Cable Segment Delta,527272088,N/A,INSERT,,,
+Pole,229026220,N/A,UPDATE,framing_type,Unknown,Vertical Neutral High
+Audit History,165072064,N/A,INSERT,,,
+Cable Segment Delta,527272746,N/A,INSERT,,,
+Audit History,165073983,N/A,INSERT,,,
+Cable Segment Delta,527272106,N/A,INSERT,,,
+Cable Segment Delta,527272138,N/A,INSERT,,,
+Cable Segment Delta,527272170,N/A,INSERT,,,
+Cable Segment Delta,527271946,N/A,INSERT,,,
+Audit History,165074001,N/A,INSERT,,,
+Audit History,165074033,N/A,INSERT,,,
+Audit History,165073937,N/A,INSERT,,,
+Audit History,165073969,N/A,INSERT,,,
+UG Transformer,235999181,N/A,UPDATE,facility_tag_x,525,76
+UG Transformer,235999181,N/A,UPDATE,facility_tag_y,181,43
+UG Transformer,235999181,N/A,UPDATE,xcel_energy_device_id,3 - 2133 - 525 - 116 - 181,3 - 2133 - 76 - 116 - 43
+UG Transformer,235999181,N/A,UPDATE,xcel_energy_field_stencil,525 - 181,76 - 43
+Audit History,165073385,N/A,INSERT,,,
+Audit History,165073193,N/A,INSERT,,,
+Pole,229026686,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Cable Segment Delta,527271982,N/A,INSERT,,,
+Cable Segment Delta,527272046,N/A,INSERT,,,
+Cable Segment Delta,527272078,N/A,INSERT,,,
+Audit History,165073941,N/A,INSERT,,,
+Audit History,165074702,N/A,INSERT,,,
+Audit History,165073973,N/A,INSERT,,,
+Audit History,165074005,N/A,INSERT,,,
+Distributed Generation,527272572,N/A,INSERT,,,
+Edist Device Feeder,527272636,N/A,INSERT,,,
+Cable Segment Delta,527274759,N/A,INSERT,,,
+Cable Segment Delta,527272476,N/A,INSERT,,,
+Audit History,165075260,N/A,INSERT,,,
+Audit History,165075324,N/A,INSERT,,,
+Audit History,165075356,N/A,INSERT,,,
+Audit History,165075388,N/A,INSERT,,,
+Cable Segment Delta,527274805,N/A,INSERT,,,
+Cable Segment Delta,527274869,N/A,INSERT,,,
+Cable Segment Delta,527274997,N/A,INSERT,,,
+Cable Segment Delta,527271984,N/A,INSERT,,,
+Cable Segment Delta,527272048,N/A,INSERT,,,
+Audit History,165073991,N/A,INSERT,,,
+OH Transformer Bank Unit,441689289,441689268,UPDATE,phase,B,A
+Audit History,165071418,N/A,INSERT,,,
+Audit History,165071514,N/A,INSERT,,,
+Audit History,165074704,N/A,INSERT,,,
+Audit History,165071257,N/A,INSERT,,,
+Audit History,165072683,N/A,INSERT,,,
+Audit History,165073476,N/A,INSERT,,,
+OH Primary,215461048,N/A,UPDATE,installed_length,152,149
+OH Primary,215461093,N/A,UPDATE,phase_orientation,ABC,CBA
+Audit History,165071980,N/A,INSERT,,,
+Primary Wire,441768076,441768064,UPDATE,status,Existing,Deleted
+Audit History,165072012,N/A,INSERT,,,
+Audit History,165072161,N/A,INSERT,,,
+Audit History,165072257,N/A,INSERT,,,
+Audit History,165072321,N/A,INSERT,,,
+Pole,229026091,N/A,UPDATE,status,Retired,Deleted
+Cable Segment Delta,527272355,N/A,INSERT,,,
+Cable Segment Delta,527272387,N/A,INSERT,,,
+Cable Segment Delta,527272419,N/A,INSERT,,,
+Cable Segment Delta,527272770,N/A,INSERT,,,
+Audit History,165075107,N/A,INSERT,,,
+Cable Segment Delta,527271945,N/A,INSERT,,,
+Audit History,165073175,N/A,INSERT,,,
+Audit History,165075458,N/A,INSERT,,,
+Audit History,165074160,N/A,INSERT,,,
+Audit History,165073207,N/A,INSERT,,,
+Primary Wire,215461345,215461344,UPDATE,status,Existing,Deleted
+OH Primary,215462358,N/A,UPDATE,installed_length,138,136
+OH Primary,215467791,N/A,UPDATE,installed_length,126,127
+OH Primary,441767227,N/A,UPDATE,installed_length,80,108
+OH Primary,215383873,N/A,UPDATE,installed_length,157.1,156
+OH Primary,215383873,N/A,UPDATE,phase_orientation,ABC,CBA
+Pole,228999544,N/A,UPDATE,framing_type,Unknown,Horizontal Neutral Low
+Pole,228999608,N/A,UPDATE,framing_type,Unknown,Vertical Neutral Low
+Cable Segment Delta,527272368,N/A,INSERT,,,
+Cable Segment Delta,527272400,N/A,INSERT,,,
+Cable Segment Delta,527272432,N/A,INSERT,,,
+Edist Device Feeder,527272571,N/A,INSERT,,,
+OH Transformer Bank Unit,235982471,235982460,UPDATE,phase,B,C
+Cable Segment Delta,527272143,N/A,INSERT,,,
+Cable Segment Delta,527272175,N/A,INSERT,,,
+Audit History,165072723,N/A,INSERT,,,
+Audit History,165073612,N/A,INSERT,,,
+Audit History,165073644,N/A,INSERT,,,
+Audit History,165073452,N/A,INSERT,,,
+Audit History,165071356,N/A,INSERT,,,
+Distributed Generation,439063210,N/A,UPDATE,type,PV,Unknown
+Audit History,165092888,N/A,INSERT,,,
+Audit History,165073509,N/A,INSERT,,,
+Audit History,165072780,N/A,INSERT,,,
+Audit History,165071354,N/A,INSERT,,,
+Audit History,165071194,N/A,INSERT,,,
+Primary Wire,527271611,215460978,INSERT,,,
+Primary Wire,527271515,526959030,INSERT,,,

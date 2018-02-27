@@ -1,0 +1,4334 @@
+{
+  "allPlaceholder": "Search By ID",
+  "showInfoWindowOnSelect": false,
+  "sources": [
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/67",
+      "name": "ELECTRIC_TEMP_OBJECT_ID",
+      "placeholder": "",
+      "searchFields": [
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/65",
+      "name": "LAND_PREMISE_ADDRESS",
+      "placeholder": "",
+      "searchFields": [
+        "OBJECTID",
+        "PREMISE_ID",
+        "LOT_CENTROID_ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/64",
+      "name": "EDIST_UG_TRANSFORMER_UNIT",
+      "placeholder": "",
+      "searchFields": [
+        "ID",
+        "EDIST_UG_TRANSFORMER_ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/63",
+      "name": "EDIST_UG_SWITCH_UNIT",
+      "placeholder": "",
+      "searchFields": [
+        "ID",
+        "EDIST_UG_SWITCH_ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/62",
+      "name": "EDIST_UG_FUSE_UNIT",
+      "placeholder": "",
+      "searchFields": [
+        "ID",
+        "EDIST_UG_FUSE_ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/61",
+      "name": "EDIST_STEP_TRANSFORMER_UNIT",
+      "placeholder": "",
+      "searchFields": [
+        "ID",
+        "EDIST_STEP_TRANSFORMER_BANK_ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/60",
+      "name": "EDIST_SERVICE_WIRE",
+      "placeholder": "",
+      "searchFields": [
+        "ID",
+        "EDIST_OH_SERVICE_ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/59",
+      "name": "EDIST_SERVICE_CABLE",
+      "placeholder": "",
+      "searchFields": [
+        "ID",
+        "EDIST_UG_SERVICE_ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/58",
+      "name": "EDIST_SECTIONALIZER_UNIT",
+      "placeholder": "",
+      "searchFields": [
+        "ID",
+        "EDIST_SECTIONALIZER_BANK_ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/57",
+      "name": "EDIST_SECONDARY_WIRE",
+      "placeholder": "",
+      "searchFields": [
+        "ID",
+        "EDIST_OH_SECONDARY_ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/56",
+      "name": "EDIST_SECONDARY_CABLE",
+      "placeholder": "",
+      "searchFields": [
+        "ID",
+        "EDIST_UG_SECONDARY_ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/55",
+      "name": "EDIST_REGULATOR_UNIT",
+      "placeholder": "",
+      "searchFields": [
+        "ID",
+        "EDIST_REGULATOR_BANK_ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/54",
+      "name": "EDIST_RECLOSER_UNIT",
+      "placeholder": "",
+      "searchFields": [
+        "ID",
+        "EDIST_RECLOSER_BANK_ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/53",
+      "name": "EDIST_PRIMARY_WIRE",
+      "placeholder": "",
+      "searchFields": [
+        "ID",
+        "EDIST_OH_PRIMARY_ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/52",
+      "name": "EDIST_PRIMARY_CABLE",
+      "placeholder": "",
+      "searchFields": [
+        "ID",
+        "EDIST_UG_PRIMARY_ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/51",
+      "name": "EDIST_POLE_ATTACHMENT",
+      "placeholder": "",
+      "searchFields": [
+        "ID",
+        "EDIST_POLE"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/50",
+      "name": "EDIST_OH_TRANSFORMER_UNIT",
+      "placeholder": "",
+      "searchFields": [
+        "ID",
+        "EDIST_OH_TRANSFORMER_BANK_ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/49",
+      "name": "EDIST_OH_SWITCH_UNIT",
+      "placeholder": "",
+      "searchFields": [
+        "ID",
+        "EDIST_OH_SWITCH_ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/48",
+      "name": "EDIST_OH_FUSE_UNIT",
+      "placeholder": "",
+      "searchFields": [
+        "ID",
+        "EDIST_OH_FUSE_ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/47",
+      "name": "EDIST_MESH_NETWORK",
+      "placeholder": "",
+      "searchFields": [
+        "ID",
+        "UG_TRANSFORMERS",
+        "OH_TRANSFORMERS"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/46",
+      "name": "EDIST_CIRCUIT",
+      "placeholder": "",
+      "searchFields": [
+        "ID",
+        "EDIST_STEP_TRANSFORMER_BANKS",
+        "EDIST_OH_PRIMARYS",
+        "EDIST_CIRCUIT_BREAKER",
+        "EDIST_BUSBARS",
+        "EDIST_UG_PRIMARYS"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/45",
+      "name": "EDIST_ATO_SWITCH_SCHEME",
+      "placeholder": "",
+      "searchFields": [
+        "MASTER_SWITCH_ID",
+        "SLAVE_SWITCH_ID",
+        "ATO_ID",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    }
+  ],
+  "editor": {
+    "tableInfos": [
+      {
+        "featureLayer": {
+          "id": "XCEL_ADMS_ELECTRIC_5582"
+        },
+        "fieldInfos": [
+          {
+            "fieldName": "ID",
+            "label": "ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SOURCE_ID",
+            "label": "SOURCE_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SOURCE_TABLE",
+            "label": "SOURCE_TABLE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "TARGET_ID",
+            "label": "TARGET_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "TARGET_TABLE",
+            "label": "TARGET_TABLE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COID",
+            "label": "COID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UACTION",
+            "label": "UACTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "GLOBALID",
+            "label": "GLOBALID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "FEEDER_NAME",
+            "label": "FEEDER_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "name": "JOBUNIT",
+            "alias": "JOBUNIT",
+            "show": true
+          },
+          {
+            "name": "PATS",
+            "alias": "PATS",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "XCEL_ADMS_ELECTRIC_7267"
+        },
+        "fieldInfos": [
+          {
+            "fieldName": "NAME",
+            "label": "NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "LABELTEXT",
+            "label": "LABELTEXT",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COID",
+            "label": "COID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CREATIONUS",
+            "label": "CREATIONUS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "LASTUSER",
+            "label": "LASTUSER",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FLD1",
+            "label": "FLD1",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FLD2",
+            "label": "FLD2",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FLD3",
+            "label": "FLD3",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FLD4",
+            "label": "FLD4",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FLD5",
+            "label": "FLD5",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PATS",
+            "label": "PATS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "HTA",
+            "label": "HTA",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CONVERSION",
+            "label": "CONVERSION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COMMENTS",
+            "label": "COMMENTS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FIM",
+            "label": "FIM",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "DATECREATE",
+            "label": "DATECREATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "DATEMODIFI",
+            "label": "DATEMODIFI",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STATUS",
+            "label": "STATUS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PASS",
+            "label": "PASS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "GLOBALID",
+            "label": "GLOBALID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "name": "JOBUNIT",
+            "alias": "JOBUNIT",
+            "show": true
+          }
+          
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "XCEL_ADMS_ELECTRIC_2273"
+        },
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "SERVICENUM",
+            "label": "SERVICENUM",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CRITICAL_CUSTOMER_FLAG",
+            "label": "CRITICAL_CUSTOMER_FLAG",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COMMUNITY_NAME",
+            "label": "COMMUNITY_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "LOT_BLOCK_NO",
+            "label": "LOT_BLOCK_NO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STRUCTURE_NO_FRACTION",
+            "label": "STRUCTURE_NO_FRACTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STREET_NAME",
+            "label": "STREET_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COMMUNITY_STREET_NO",
+            "label": "COMMUNITY_STREET_NO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FLAT",
+            "label": "FLAT",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ID",
+            "label": "ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STREET_TYPE_CODE",
+            "label": "STREET_TYPE_CODE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "TRANSFORMER_ID",
+            "label": "TRANSFORMER_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MEDICAL_ALERT_FLAG",
+            "label": "MEDICAL_ALERT_FLAG",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STRUCTURE_NO",
+            "label": "STRUCTURE_NO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PREMISE_ID",
+            "label": "PREMISE_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FEEDER_NAME",
+            "label": "FEEDER_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UTIL_TYPE",
+            "label": "UTIL_TYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STREET_PREFIX_DIRECTION",
+            "label": "STREET_PREFIX_DIRECTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CSS_SITE_ID",
+            "label": "CSS_SITE_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "TYPE_CONSUMPTION",
+            "label": "TYPE_CONSUMPTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COMMUNITY_NO",
+            "label": "COMMUNITY_NO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "LAND_LOT_CENTROID",
+            "label": "LAND_LOT_CENTROID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STREET_POST_DIRECTION",
+            "label": "STREET_POST_DIRECTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "HOUSE_NO",
+            "label": "HOUSE_NO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ID_NSP_ADDRESS_LOC",
+            "label": "ID_NSP_ADDRESS_LOC",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "LAND_LOT_CENTROID_ID",
+            "label": "LAND_LOT_CENTROID_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SF_DESIGN_ID",
+            "label": "SF_DESIGN_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UDC",
+            "label": "UDC",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SUBTYPECOD",
+            "label": "SUBTYPECOD",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COID",
+            "label": "COID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CHGCODE",
+            "label": "CHGCODE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FIELD_VERI",
+            "label": "FIELD_VERI",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "VERI_TYPE",
+            "label": "VERI_TYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ACCESS_",
+            "label": "ACCESS_",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "LABELTEXT",
+            "label": "LABELTEXT",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CONVERSION",
+            "label": "CONVERSION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSP_DATE",
+            "label": "INSP_DATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FTECH",
+            "label": "FTECH",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FLD1",
+            "label": "FLD1",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FLD2",
+            "label": "FLD2",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FLD3",
+            "label": "FLD3",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FLD4",
+            "label": "FLD4",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FLD5",
+            "label": "FLD5",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COMMENTS",
+            "label": "COMMENTS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "JOBUNIT",
+            "label": "JOBUNIT",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PATS",
+            "label": "PATS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "DEL_DATE",
+            "label": "DEL_DATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "DATECREATED",
+            "label": "DATECREATED",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "DATEMODIFIED",
+            "label": "DATEMODIFIED",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CREATIONUSER",
+            "label": "CREATIONUSER",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "LASTUSER",
+            "label": "LASTUSER",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO1",
+            "label": "PHOTO1",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO2",
+            "label": "PHOTO2",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO3",
+            "label": "PHOTO3",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO4",
+            "label": "PHOTO4",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO5",
+            "label": "PHOTO5",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO6",
+            "label": "PHOTO6",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO7",
+            "label": "PHOTO7",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO8",
+            "label": "PHOTO8",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO9",
+            "label": "PHOTO9",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO10",
+            "label": "PHOTO10",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO11",
+            "label": "PHOTO11",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO12",
+            "label": "PHOTO12",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GPS_LAT",
+            "label": "GPS_LAT",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GPS_LONG",
+            "label": "GPS_LONG",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GPS_ELEV",
+            "label": "GPS_ELEV",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GPS_X",
+            "label": "GPS_X",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GPS_Y",
+            "label": "GPS_Y",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GPS_Z",
+            "label": "GPS_Z",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STR_X",
+            "label": "STR_X",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STR_Y",
+            "label": "STR_Y",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STR_Z",
+            "label": "STR_Z",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "METER_NO",
+            "label": "METER_NO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "LOCATION_DESCR",
+            "label": "LOCATION_DESCR",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GLOBALID",
+            "label": "GLOBALID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "SUBDIVISION_NAME",
+            "label": "SUBDIVISION_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "LOT_CENTROID",
+            "label": "LOT_CENTROID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "LOT_CENTROID_ID",
+            "label": "LOT_CENTROID_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MAPPED_INDICATOR",
+            "label": "MAPPED_INDICATOR",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UACTION",
+            "label": "UACTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STATUS",
+            "label": "STATUS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "name": "JOBUNIT",
+            "alias": "JOBUNIT",
+            "show": true
+          },
+          {
+            "name": "PATS",
+            "alias": "PATS",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "XCEL_ADMS_ELECTRIC_549"
+        },
+        "fieldInfos": [
+          {
+            "fieldName": "ID",
+            "label": "ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COMPANY_NO",
+            "label": "COMPANY_NO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SERIAL_NO",
+            "label": "SERIAL_NO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "RATED_KVA",
+            "label": "RATED_KVA",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MANUFACTURER",
+            "label": "MANUFACTURER",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STATUS",
+            "label": "STATUS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSTALL_DATE",
+            "label": "INSTALL_DATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHASE",
+            "label": "PHASE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SPEC_CODE",
+            "label": "SPEC_CODE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSULATION",
+            "label": "INSULATION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PROTECTION_TYPE",
+            "label": "PROTECTION_TYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_UG_TRANSFORMER_ID",
+            "label": "EDIST_UG_TRANSFORMER_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_UG_TRANSFORMER",
+            "label": "EDIST_UG_TRANSFORMER",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COID",
+            "label": "COID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UACTION",
+            "label": "UACTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ERP_ID",
+            "label": "ERP_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "GLOBALID",
+            "label": "GLOBALID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "SF_DESIGN_ID",
+            "label": "SF_DESIGN_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FEEDER_NAME",
+            "label": "FEEDER_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FUSE_RATED_CURRENT",
+            "label": "FUSE_RATED_CURRENT",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "TRANSFORMER_PROTECTION_TYPE",
+            "label": "TRANSFORMER_PROTECTION_TYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FUSE_SPEED_RATIO",
+            "label": "FUSE_SPEED_RATIO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "name": "JOBUNIT",
+            "alias": "JOBUNIT",
+            "show": true
+          },
+          {
+            "name": "PATS",
+            "alias": "PATS",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "XCEL_ADMS_ELECTRIC_4565"
+        },
+        "fieldInfos": [
+          {
+            "fieldName": "ID",
+            "label": "ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STATUS",
+            "label": "STATUS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSTALL_DATE",
+            "label": "INSTALL_DATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHASE",
+            "label": "PHASE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_UG_SWITCH_ID",
+            "label": "EDIST_UG_SWITCH_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_UG_SWITCH",
+            "label": "EDIST_UG_SWITCH",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COID",
+            "label": "COID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UACTION",
+            "label": "UACTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "SF_DESIGN_ID",
+            "label": "SF_DESIGN_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FEEDER_NAME",
+            "label": "FEEDER_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NORMAL_POSITION",
+            "label": "NORMAL_POSITION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GLOBALID",
+            "label": "GLOBALID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "name": "JOBUNIT",
+            "alias": "JOBUNIT",
+            "show": true
+          },
+          {
+            "name": "PATS",
+            "alias": "PATS",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "XCEL_ADMS_ELECTRIC_6821"
+        },
+        "fieldInfos": [
+          {
+            "fieldName": "ID",
+            "label": "ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STATUS",
+            "label": "STATUS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSTALL_DATE",
+            "label": "INSTALL_DATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FUSE_SIZE",
+            "label": "FUSE_SIZE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MODEL",
+            "label": "MODEL",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHASE",
+            "label": "PHASE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SPEED_RATIO",
+            "label": "SPEED_RATIO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_UG_FUSE_ID",
+            "label": "EDIST_UG_FUSE_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_UG_FUSE",
+            "label": "EDIST_UG_FUSE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COID",
+            "label": "COID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UACTION",
+            "label": "UACTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "SF_DESIGN_ID",
+            "label": "SF_DESIGN_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FEEDER_NAME",
+            "label": "FEEDER_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NORMAL_POSITION",
+            "label": "NORMAL_POSITION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GLOBALID",
+            "label": "GLOBALID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "name": "JOBUNIT",
+            "alias": "JOBUNIT",
+            "show": true
+          },
+          {
+            "name": "PATS",
+            "alias": "PATS",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "XCEL_ADMS_ELECTRIC_9776"
+        },
+        "fieldInfos": [
+          {
+            "fieldName": "ID",
+            "label": "ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SERIAL_NO",
+            "label": "SERIAL_NO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "RATED_KVA",
+            "label": "RATED_KVA",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHASE",
+            "label": "PHASE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MANUFACTURER",
+            "label": "MANUFACTURER",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "HIGHSIDE_BIL",
+            "label": "HIGHSIDE_BIL",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "LOWSIDE_BIL",
+            "label": "LOWSIDE_BIL",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MAX_STEPS",
+            "label": "MAX_STEPS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PROTECTION_TYPE",
+            "label": "PROTECTION_TYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSTALL_DATE",
+            "label": "INSTALL_DATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STATUS",
+            "label": "STATUS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_STEP_TRANSFORMER_BANK_ID",
+            "label": "EDIST_STEP_TRANSFORMER_BANK_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_STEP_TRANSFORMER_BANK",
+            "label": "EDIST_STEP_TRANSFORMER_BANK",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COID",
+            "label": "COID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UACTION",
+            "label": "UACTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ERP_ID",
+            "label": "ERP_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "GLOBALID",
+            "label": "GLOBALID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "SF_DESIGN_ID",
+            "label": "SF_DESIGN_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FEEDER_NAME",
+            "label": "FEEDER_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "TAP_CHANGER_WINDING",
+            "label": "TAP_CHANGER_WINDING",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MODEL_NUMBER",
+            "label": "MODEL_NUMBER",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "BANK_CONFIGURATION",
+            "label": "BANK_CONFIGURATION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "HIGH_STEP",
+            "label": "HIGH_STEP",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "LOW_STEP",
+            "label": "LOW_STEP",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NEUTRAL_STEP",
+            "label": "NEUTRAL_STEP",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NORMAL_STEP",
+            "label": "NORMAL_STEP",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "REVERSE_LOGIC",
+            "label": "REVERSE_LOGIC",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "name": "JOBUNIT",
+            "alias": "JOBUNIT",
+            "show": true
+          },
+          {
+            "name": "PATS",
+            "alias": "PATS",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "XCEL_ADMS_ELECTRIC_5723"
+        },
+        "fieldInfos": [
+          {
+            "fieldName": "ID",
+            "label": "ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSULATION",
+            "label": "INSULATION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SIZE_",
+            "label": "SIZE_",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MATERIAL",
+            "label": "MATERIAL",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_OH_SERVICE_ID",
+            "label": "EDIST_OH_SERVICE_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_OH_SERVICE",
+            "label": "EDIST_OH_SERVICE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COID",
+            "label": "COID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UACTION",
+            "label": "UACTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "GLOBALID",
+            "label": "GLOBALID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "SF_DESIGN_ID",
+            "label": "SF_DESIGN_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "WIRE_GAUGE",
+            "label": "WIRE_GAUGE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FEEDER_NAME",
+            "label": "FEEDER_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "VSIZE",
+            "label": "VSIZE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "VMATERIAL",
+            "label": "VMATERIAL",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "VINSULATION",
+            "label": "VINSULATION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "name": "JOBUNIT",
+            "alias": "JOBUNIT",
+            "show": true
+          },
+          {
+            "name": "PATS",
+            "alias": "PATS",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "XCEL_ADMS_ELECTRIC_3721"
+        },
+        "fieldInfos": [
+          {
+            "fieldName": "ID",
+            "label": "ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSTALL_DATE",
+            "label": "INSTALL_DATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSULATION",
+            "label": "INSULATION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SIZE_",
+            "label": "SIZE_",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MATERIAL",
+            "label": "MATERIAL",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_UG_SERVICE_ID",
+            "label": "EDIST_UG_SERVICE_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_UG_SERVICE",
+            "label": "EDIST_UG_SERVICE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COID",
+            "label": "COID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UACTION",
+            "label": "UACTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "GLOBALID",
+            "label": "GLOBALID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "FEEDER_NAME",
+            "label": "FEEDER_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SF_DESIGN_ID",
+            "label": "SF_DESIGN_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "name": "JOBUNIT",
+            "alias": "JOBUNIT",
+            "show": true
+          },
+          {
+            "name": "PATS",
+            "alias": "PATS",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "XCEL_ADMS_ELECTRIC_3150"
+        },
+        "fieldInfos": [
+          {
+            "fieldName": "ID",
+            "label": "ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STATUS",
+            "label": "STATUS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSTALL_DATE",
+            "label": "INSTALL_DATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COMPANY_NO",
+            "label": "COMPANY_NO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SERIAL_NO",
+            "label": "SERIAL_NO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "TYPE_",
+            "label": "TYPE_",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "AMP_RATING",
+            "label": "AMP_RATING",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NO_OF_OPERATIONS",
+            "label": "NO_OF_OPERATIONS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ACTUATING_CURRENT",
+            "label": "ACTUATING_CURRENT",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHASE",
+            "label": "PHASE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NORMAL_POSITION",
+            "label": "NORMAL_POSITION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_SECTIONALIZER_BANK_ID",
+            "label": "EDIST_SECTIONALIZER_BANK_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_SECTIONALIZER_BANK",
+            "label": "EDIST_SECTIONALIZER_BANK",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COID",
+            "label": "COID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UACTION",
+            "label": "UACTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ERP_ID",
+            "label": "ERP_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "GLOBALID",
+            "label": "GLOBALID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "VOLTAGE_RESTRAINT",
+            "label": "VOLTAGE_RESTRAINT",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FEEDER_NAME",
+            "label": "FEEDER_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SF_DESIGN_ID",
+            "label": "SF_DESIGN_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MANUFACTURER",
+            "label": "MANUFACTURER",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "name": "JOBUNIT",
+            "alias": "JOBUNIT",
+            "show": true
+          },
+          {
+            "name": "PATS",
+            "alias": "PATS",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "XCEL_ADMS_ELECTRIC_2648"
+        },
+        "fieldInfos": [
+          {
+            "fieldName": "ID",
+            "label": "ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSTALL_DATE",
+            "label": "INSTALL_DATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSULATION",
+            "label": "INSULATION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SIZE_",
+            "label": "SIZE_",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MATERIAL",
+            "label": "MATERIAL",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_OH_SECONDARY_ID",
+            "label": "EDIST_OH_SECONDARY_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_OH_SECONDARY",
+            "label": "EDIST_OH_SECONDARY",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STATUS",
+            "label": "STATUS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COID",
+            "label": "COID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UACTION",
+            "label": "UACTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "GLOBALID",
+            "label": "GLOBALID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "WIRE_GAUGE",
+            "label": "WIRE_GAUGE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FEEDER_NAME",
+            "label": "FEEDER_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SF_DESIGN_ID",
+            "label": "SF_DESIGN_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "VSIZE",
+            "label": "VSIZE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "VMATERIAL",
+            "label": "VMATERIAL",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "VINSULATION",
+            "label": "VINSULATION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "name": "JOBUNIT",
+            "alias": "JOBUNIT",
+            "show": true
+          },
+          {
+            "name": "PATS",
+            "alias": "PATS",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "XCEL_ADMS_ELECTRIC_3098"
+        },
+        "fieldInfos": [
+          {
+            "fieldName": "ID",
+            "label": "ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSULATION",
+            "label": "INSULATION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MATERIAL",
+            "label": "MATERIAL",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SIZE_",
+            "label": "SIZE_",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_UG_SECONDARY_ID",
+            "label": "EDIST_UG_SECONDARY_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_UG_SECONDARY",
+            "label": "EDIST_UG_SECONDARY",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COID",
+            "label": "COID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UACTION",
+            "label": "UACTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "GLOBALID",
+            "label": "GLOBALID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "FEEDER_NAME",
+            "label": "FEEDER_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SF_DESIGN_ID",
+            "label": "SF_DESIGN_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "name": "JOBUNIT",
+            "alias": "JOBUNIT",
+            "show": true
+          },
+          {
+            "name": "PATS",
+            "alias": "PATS",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "XCEL_ADMS_ELECTRIC_6891"
+        },
+        "fieldInfos": [
+          {
+            "fieldName": "ID",
+            "label": "ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STATUS",
+            "label": "STATUS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSTALL_DATE",
+            "label": "INSTALL_DATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COMPANY_NO",
+            "label": "COMPANY_NO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SERIAL_NO",
+            "label": "SERIAL_NO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SIZE_",
+            "label": "SIZE_",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "BANDWIDTH",
+            "label": "BANDWIDTH",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHASE",
+            "label": "PHASE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NO_OF_STEPS",
+            "label": "NO_OF_STEPS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PERCENT_REGULATION",
+            "label": "PERCENT_REGULATION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "VOLTAGE_RATING",
+            "label": "VOLTAGE_RATING",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "KVAR_RATING",
+            "label": "KVAR_RATING",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_REGULATOR_BANK_ID",
+            "label": "EDIST_REGULATOR_BANK_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_REGULATOR_BANK",
+            "label": "EDIST_REGULATOR_BANK",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MANUFACTURER",
+            "label": "MANUFACTURER",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "VOLTAGE_CLASS",
+            "label": "VOLTAGE_CLASS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CONTROL_TYPE",
+            "label": "CONTROL_TYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "TIME_DELAY",
+            "label": "TIME_DELAY",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COID",
+            "label": "COID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UACTION",
+            "label": "UACTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ERP_ID",
+            "label": "ERP_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "GLOBALID",
+            "label": "GLOBALID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "FEEDER_NAME",
+            "label": "FEEDER_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SF_DESIGN_ID",
+            "label": "SF_DESIGN_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "REVERSE_REAL_SLOPE",
+            "label": "REVERSE_REAL_SLOPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "REVERSE_BANDWIDTH",
+            "label": "REVERSE_BANDWIDTH",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "HIGH_STEP",
+            "label": "HIGH_STEP",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "LOW_STEP",
+            "label": "LOW_STEP",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "IMAG_SLOPE",
+            "label": "IMAG_SLOPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INITIAL_DELAY",
+            "label": "INITIAL_DELAY",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "TARGET_VALUE",
+            "label": "TARGET_VALUE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "REVERSE_IMAG_SLOPE",
+            "label": "REVERSE_IMAG_SLOPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "REVERSE_INITIAL_DELAY",
+            "label": "REVERSE_INITIAL_DELAY",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "REAL_SLOPE",
+            "label": "REAL_SLOPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "TARGET_RANGE",
+            "label": "TARGET_RANGE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "BI_DIRECTIONAL",
+            "label": "BI_DIRECTIONAL",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "REVERSE_SETTING",
+            "label": "REVERSE_SETTING",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "name": "JOBUNIT",
+            "alias": "JOBUNIT",
+            "show": true
+          },
+          {
+            "name": "PATS",
+            "alias": "PATS",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "XCEL_ADMS_ELECTRIC_1619"
+        },
+        "fieldInfos": [
+          {
+            "fieldName": "ID",
+            "label": "ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STATUS",
+            "label": "STATUS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSTALL_DATE",
+            "label": "INSTALL_DATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COMPANY_NO",
+            "label": "COMPANY_NO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHASE_PICKUP_AMPS",
+            "label": "PHASE_PICKUP_AMPS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SERIAL_NO",
+            "label": "SERIAL_NO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CURVE_SEQUENCE_SETTING",
+            "label": "CURVE_SEQUENCE_SETTING",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "AMP_RATING",
+            "label": "AMP_RATING",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "RECLOSING_INTERVAL",
+            "label": "RECLOSING_INTERVAL",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHASE",
+            "label": "PHASE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GROUND_PICKUP_AMPS",
+            "label": "GROUND_PICKUP_AMPS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GROUND_TCC_SETTING",
+            "label": "GROUND_TCC_SETTING",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_RECLOSER_BANK_ID",
+            "label": "EDIST_RECLOSER_BANK_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_RECLOSER_BANK",
+            "label": "EDIST_RECLOSER_BANK",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SPEED_RATIO",
+            "label": "SPEED_RATIO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COID",
+            "label": "COID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UACTION",
+            "label": "UACTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ERP_ID",
+            "label": "ERP_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "GLOBALID",
+            "label": "GLOBALID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "FEEDER_NAME",
+            "label": "FEEDER_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SF_DESIGN_ID",
+            "label": "SF_DESIGN_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHASE_QUANTITY_FAST",
+            "label": "PHASE_QUANTITY_FAST",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHASE_CURVE_FAST",
+            "label": "PHASE_CURVE_FAST",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHASE_QUANTITY_SLOW",
+            "label": "PHASE_QUANTITY_SLOW",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHASE_CURVE_SLOW",
+            "label": "PHASE_CURVE_SLOW",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHASE_TRIP_CURRENT",
+            "label": "PHASE_TRIP_CURRENT",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GROUND_QUANTITY_FAST",
+            "label": "GROUND_QUANTITY_FAST",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GROUND_TRIP_CURVE_FAST",
+            "label": "GROUND_TRIP_CURVE_FAST",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GROUND_TRIP_CURRENT",
+            "label": "GROUND_TRIP_CURRENT",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GROUND_QUANTITY_SLOW",
+            "label": "GROUND_QUANTITY_SLOW",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GROUND_TRIP_CURVE_SLOW",
+            "label": "GROUND_TRIP_CURVE_SLOW",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MANUFACTURER",
+            "label": "MANUFACTURER",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "name": "JOBUNIT",
+            "alias": "JOBUNIT",
+            "show": true
+          },
+          {
+            "name": "PATS",
+            "alias": "PATS",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "XCEL_ADMS_ELECTRIC_6108"
+        },
+        "fieldInfos": [
+          {
+            "fieldName": "ID",
+            "label": "ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSTALL_DATE",
+            "label": "INSTALL_DATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SIZE_",
+            "label": "SIZE_",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MATERIAL",
+            "label": "MATERIAL",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSULATION",
+            "label": "INSULATION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHASE",
+            "label": "PHASE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_OH_PRIMARY_ID",
+            "label": "EDIST_OH_PRIMARY_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_OH_PRIMARY",
+            "label": "EDIST_OH_PRIMARY",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STATUS",
+            "label": "STATUS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COID",
+            "label": "COID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UACTION",
+            "label": "UACTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "GLOBALID",
+            "label": "GLOBALID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "WIRE_GAUGE",
+            "label": "WIRE_GAUGE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FEEDER_NAME",
+            "label": "FEEDER_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SF_DESIGN_ID",
+            "label": "SF_DESIGN_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "VSIZE",
+            "label": "VSIZE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "VMATERIAL",
+            "label": "VMATERIAL",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "VINSULATION",
+            "label": "VINSULATION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "name": "JOBUNIT",
+            "alias": "JOBUNIT",
+            "show": true
+          },
+          {
+            "name": "PATS",
+            "alias": "PATS",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "XCEL_ADMS_ELECTRIC_9565"
+        },
+        "fieldInfos": [
+          {
+            "fieldName": "ID",
+            "label": "ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CONCENTRIC_SIZE",
+            "label": "CONCENTRIC_SIZE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SIZE_",
+            "label": "SIZE_",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MATERIAL",
+            "label": "MATERIAL",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSULATION_RATING",
+            "label": "INSULATION_RATING",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHASE",
+            "label": "PHASE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSULATION",
+            "label": "INSULATION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_UG_PRIMARY_ID",
+            "label": "EDIST_UG_PRIMARY_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_UG_PRIMARY",
+            "label": "EDIST_UG_PRIMARY",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COID",
+            "label": "COID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UACTION",
+            "label": "UACTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "GLOBALID",
+            "label": "GLOBALID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "SF_DESIGN_ID",
+            "label": "SF_DESIGN_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FEEDER_NAME",
+            "label": "FEEDER_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STATUS",
+            "label": "STATUS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OWNERSHIP",
+            "label": "OWNERSHIOP",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "name": "JOBUNIT",
+            "alias": "JOBUNIT",
+            "show": true
+          },
+          {
+            "name": "PATS",
+            "alias": "PATS",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "XCEL_ADMS_ELECTRIC_9111"
+        },
+        "fieldInfos": [
+          {
+            "fieldName": "ID",
+            "label": "ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STATUS",
+            "label": "STATUS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ATTACHMENT_DATE",
+            "label": "ATTACHMENT_DATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ATTACHMENT_TYPE",
+            "label": "ATTACHMENT_TYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_POLE",
+            "label": "EDIST_POLE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ETRAN_POLE",
+            "label": "ETRAN_POLE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PA_ATTACHING_COMPANY",
+            "label": "PA_ATTACHING_COMPANY",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COMPANY_NAME",
+            "label": "COMPANY_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COMPANY_CODE",
+            "label": "COMPANY_CODE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COMPANY_PHONE_NUMBER",
+            "label": "COMPANY_PHONE_NUMBER",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COID",
+            "label": "COID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UACTION",
+            "label": "UACTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "GLOBALID",
+            "label": "GLOBALID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "SF_DESIGN_ID",
+            "label": "SF_DESIGN_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CHARGEABLE",
+            "label": "CHARGEABLE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FEEDER_NAME",
+            "label": "FEEDER_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "name": "JOBUNIT",
+            "alias": "JOBUNIT",
+            "show": true
+          },
+          {
+            "name": "PATS",
+            "alias": "PATS",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "XCEL_ADMS_ELECTRIC_757"
+        },
+        "fieldInfos": [
+          {
+            "fieldName": "ID",
+            "label": "ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STATUS",
+            "label": "STATUS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSTALL_DATE",
+            "label": "INSTALL_DATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "RATED_KVA",
+            "label": "RATED_KVA",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHASE",
+            "label": "PHASE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSULATION",
+            "label": "INSULATION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PROTECTION_TYPE",
+            "label": "PROTECTION_TYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SPEC_CODE",
+            "label": "SPEC_CODE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_OH_TRANSFORMER_BANK_ID",
+            "label": "EDIST_OH_TRANSFORMER_BANK_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_OH_TRANSFORMER_BANK",
+            "label": "EDIST_OH_TRANSFORMER_BANK",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COMPANY_NO",
+            "label": "COMPANY_NO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SERIAL_NO",
+            "label": "SERIAL_NO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COID",
+            "label": "COID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UACTION",
+            "label": "UACTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ERP_ID",
+            "label": "ERP_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "GLOBALID",
+            "label": "GLOBALID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "SF_DESIGN_ID",
+            "label": "SF_DESIGN_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FEEDER_NAME",
+            "label": "FEEDER_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "TRANSFORMER_PROTECTION_TYPE",
+            "label": "TRANSFORMER_PROTECTION_TYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FUSE_RATED_CURRENT",
+            "label": "FUSE_RATED_CURRENT",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FUSE_SPEED_RATIO",
+            "label": "FUSE_SPEED_RATIO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MANUFACTURER",
+            "label": "MANUFACTURER",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "name": "JOBUNIT",
+            "alias": "JOBUNIT",
+            "show": true
+          },
+          {
+            "name": "PATS",
+            "alias": "PATS",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "XCEL_ADMS_ELECTRIC_9141"
+        },
+        "fieldInfos": [
+          {
+            "fieldName": "ID",
+            "label": "ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STATUS",
+            "label": "STATUS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSTALL_DATE",
+            "label": "INSTALL_DATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHASE",
+            "label": "PHASE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NORMAL_POSITION",
+            "label": "NORMAL_POSITION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_OH_SWITCH_ID",
+            "label": "EDIST_OH_SWITCH_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_OH_SWITCH",
+            "label": "EDIST_OH_SWITCH",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COID",
+            "label": "COID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UACTION",
+            "label": "UACTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "GLOBALID",
+            "label": "GLOBALID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "SF_DESIGN_ID",
+            "label": "SF_DESIGN_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FEEDER_NAME",
+            "label": "FEEDER_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "name": "JOBUNIT",
+            "alias": "JOBUNIT",
+            "show": true
+          },
+          {
+            "name": "PATS",
+            "alias": "PATS",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "XCEL_ADMS_ELECTRIC_9635"
+        },
+        "fieldInfos": [
+          {
+            "fieldName": "ID",
+            "label": "ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STATUS",
+            "label": "STATUS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSTALL_DATE",
+            "label": "INSTALL_DATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHASE",
+            "label": "PHASE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SPEED_RATIO",
+            "label": "SPEED_RATIO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FUSE_SIZE",
+            "label": "FUSE_SIZE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "HOUSING_TYPE",
+            "label": "HOUSING_TYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "HOUSING_RATING",
+            "label": "HOUSING_RATING",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MODEL",
+            "label": "MODEL",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NORMAL_POSITION",
+            "label": "NORMAL_POSITION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "BODY_TYPE",
+            "label": "BODY_TYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_OH_FUSE_ID",
+            "label": "EDIST_OH_FUSE_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_OH_FUSE",
+            "label": "EDIST_OH_FUSE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COID",
+            "label": "COID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UACTION",
+            "label": "UACTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ERP_ID",
+            "label": "ERP_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "GLOBALID",
+            "label": "GLOBALID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "SF_DESIGN_ID",
+            "label": "SF_DESIGN_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FEEDER_NAME",
+            "label": "FEEDER_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "name": "JOBUNIT",
+            "alias": "JOBUNIT",
+            "show": true
+          },
+          {
+            "name": "PATS",
+            "alias": "PATS",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "XCEL_ADMS_ELECTRIC_8492"
+        },
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "ID",
+            "label": "ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UG_TRANSFORMERS",
+            "label": "UG_TRANSFORMERS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OH_TRANSFORMERS",
+            "label": "OH_TRANSFORMERS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MESH_NETWORK_NAME",
+            "label": "MESH_NETWORK_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GLOBALID",
+            "label": "GLOBALID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "UDC",
+            "label": "UDC",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SUBTYPECOD",
+            "label": "SUBTYPECOD",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COID",
+            "label": "COID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CHGCODE",
+            "label": "CHGCODE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FIELD_VERI",
+            "label": "FIELD_VERI",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "VERI_TYPE",
+            "label": "VERI_TYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "LABELTEXT",
+            "label": "LABELTEXT",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CONVERSION",
+            "label": "CONVERSION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSP_DATE",
+            "label": "INSP_DATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FTECH",
+            "label": "FTECH",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FLD1",
+            "label": "FLD1",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FLD2",
+            "label": "FLD2",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FLD3",
+            "label": "FLD3",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FLD4",
+            "label": "FLD4",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FLD5",
+            "label": "FLD5",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COMMENTS",
+            "label": "COMMENTS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "JOBUNIT",
+            "label": "JOBUNIT",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PATS",
+            "label": "PATS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "DEL_DATE",
+            "label": "DEL_DATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "DATECREATED",
+            "label": "DATECREATED",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "DATEMODIFIED",
+            "label": "DATEMODIFIED",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CREATIONUSER",
+            "label": "CREATIONUSER",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "LASTUSER",
+            "label": "LASTUSER",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO1",
+            "label": "PHOTO1",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO2",
+            "label": "PHOTO2",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO3",
+            "label": "PHOTO3",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO4",
+            "label": "PHOTO4",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO5",
+            "label": "PHOTO5",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO6",
+            "label": "PHOTO6",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO7",
+            "label": "PHOTO7",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO8",
+            "label": "PHOTO8",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO9",
+            "label": "PHOTO9",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO10",
+            "label": "PHOTO10",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO11",
+            "label": "PHOTO11",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO12",
+            "label": "PHOTO12",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GPS_LAT",
+            "label": "GPS_LAT",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GPS_LONG",
+            "label": "GPS_LONG",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GPS_ELEV",
+            "label": "GPS_ELEV",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GPS_X",
+            "label": "GPS_X",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GPS_Y",
+            "label": "GPS_Y",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GPS_Z",
+            "label": "GPS_Z",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STR_X",
+            "label": "STR_X",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STR_Y",
+            "label": "STR_Y",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STR_Z",
+            "label": "STR_Z",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ACCESS_",
+            "label": "ACCESS_",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UACTION",
+            "label": "UACTION",
+            "isEditable": true,
+            "visible": true
+          }
+         
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "XCEL_ADMS_ELECTRIC_8990"
+        },
+        "fieldInfos": [
+          {
+            "fieldName": "ID",
+            "label": "ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FEEDER_NO",
+            "label": "FEEDER_NO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FEEDER_VOLTAGE",
+            "label": "FEEDER_VOLTAGE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FEEDER_NAME",
+            "label": "FEEDER_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_STEP_TRANSFORMER_BANKS",
+            "label": "EDIST_STEP_TRANSFORMER_BANKS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_OH_PRIMARYS",
+            "label": "EDIST_OH_PRIMARYS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_CIRCUIT_BREAKER",
+            "label": "EDIST_CIRCUIT_BREAKER",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_BUSBARS",
+            "label": "EDIST_BUSBARS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FEEDER_COLOR",
+            "label": "FEEDER_COLOR",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_UG_PRIMARYS",
+            "label": "EDIST_UG_PRIMARYS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "EDIST_DEVICE_FEEDERS",
+            "label": "EDIST_DEVICE_FEEDERS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SOUTH_FEEDER_NO",
+            "label": "SOUTH_FEEDER_NO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OMS_OUTAGE_HISTORYS",
+            "label": "OMS_OUTAGE_HISTORYS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COID",
+            "label": "COID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UACTION",
+            "label": "UACTION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ERP_ID",
+            "label": "ERP_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "GLOBALID",
+            "label": "GLOBALID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "SF_DESIGN_ID",
+            "label": "SF_DESIGN_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "name": "JOBUNIT",
+            "alias": "JOBUNIT",
+            "show": true
+          },
+          {
+            "name": "PATS",
+            "alias": "PATS",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          },
+          {
+            "fieldName": "FIELD_COMPLETED",
+            "label": "FIELD_COMPLETED",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "BACKOFFICE_COMPLETED",
+            "label": "BACKOFFICE_COMPLETED",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "DELIVERED_TO_XCEL",
+            "label": "DELIVERED_TO_XCEL",
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "XCEL_ADMS_ELECTRIC_8055"
+        },
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "MASTER_SWITCH_ID",
+            "label": "MASTER_SWITCH_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SLAVE_SWITCH_ID",
+            "label": "SLAVE_SWITCH_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "TYPE",
+            "label": "TYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ATO_ID",
+            "label": "ATO_ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "TIME_DELAY",
+            "label": "TIME_DELAY",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ID",
+            "label": "ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GLOBALID",
+            "label": "GLOBALID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "UDC",
+            "label": "UDC",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SUBTYPECOD",
+            "label": "SUBTYPECOD",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COID",
+            "label": "COID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CHGCODE",
+            "label": "CHGCODE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FIELD_VERI",
+            "label": "FIELD_VERI",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "VERI_TYPE",
+            "label": "VERI_TYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "LABELTEXT",
+            "label": "LABELTEXT",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CONVERSION",
+            "label": "CONVERSION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INSP_DATE",
+            "label": "INSP_DATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FTECH",
+            "label": "FTECH",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FLD1",
+            "label": "FLD1",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FLD2",
+            "label": "FLD2",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FLD3",
+            "label": "FLD3",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FLD4",
+            "label": "FLD4",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FLD5",
+            "label": "FLD5",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COMMENTS",
+            "label": "COMMENTS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "JOBUNIT",
+            "label": "JOBUNIT",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PATS",
+            "label": "PATS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "DEL_DATE",
+            "label": "DEL_DATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "DATECREATED",
+            "label": "DATECREATED",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "DATEMODIFIED",
+            "label": "DATEMODIFIED",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CREATIONUSER",
+            "label": "CREATIONUSER",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "LASTUSER",
+            "label": "LASTUSER",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO1",
+            "label": "PHOTO1",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO2",
+            "label": "PHOTO2",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO3",
+            "label": "PHOTO3",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO4",
+            "label": "PHOTO4",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO5",
+            "label": "PHOTO5",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO6",
+            "label": "PHOTO6",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO7",
+            "label": "PHOTO7",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO8",
+            "label": "PHOTO8",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO9",
+            "label": "PHOTO9",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO10",
+            "label": "PHOTO10",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO11",
+            "label": "PHOTO11",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PHOTO12",
+            "label": "PHOTO12",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GPS_LAT",
+            "label": "GPS_LAT",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GPS_LONG",
+            "label": "GPS_LONG",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GPS_ELEV",
+            "label": "GPS_ELEV",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GPS_X",
+            "label": "GPS_X",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GPS_Y",
+            "label": "GPS_Y",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GPS_Z",
+            "label": "GPS_Z",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STR_X",
+            "label": "STR_X",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STR_Y",
+            "label": "STR_Y",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STR_Z",
+            "label": "STR_Z",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ACCESS_",
+            "label": "ACCESS_",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "UACTION",
+            "label": "UACTION",
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      }
+    ],
+    "displayPromptOnSave": true,
+    "displayPromptOnDelete": true,
+    "removeOnSave": false,
+    "useFilterEditor": false,
+    "listenToGF": false,
+    "keepTemplateSelected": true,
+    "editGeometryDefault": false,
+    "autoSaveEdits": false,
+    "editDescription": "Select a template to create features"
+  }
+}

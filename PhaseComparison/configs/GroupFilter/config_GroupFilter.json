@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "Search By Feeder",
+      "desc": "",
+      "operator": "=",
+      "defaultVal": "",
+      "appendSameLayer": true,
+      "appendSameLayerConjunc": "OR",
+      "layers": [
+        {
+          "layer": "PHASE_COMPARISON_1772.2",
+          "field": "FEEDERNAME",
+          "dataType": "esriFieldTypeString",
+          "useDomain": true
+        }
+      ]
+    }
+  ],
+  "simpleMode": true,
+  "optionsMode": true,
+  "slAppendChoice": "OR",
+  "zoomMode": true
+}

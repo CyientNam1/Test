@@ -1,0 +1,12 @@
+{
+		"WFMURL" : "https://arcgis.cyient-fiops.com/arcgis/rest/services/BlueBonnet/WFM/WMServer",	
+		"queryID" : 1282,
+		"WFMUsername" : "Steve.way",
+		"identityService" : "https://ldap.cyient-fiops.com:8082/IdentityServices",
+		"allowExecute": true,
+		"allowReassign": true,
+		"allowExport" : false,
+		"exportURL": "https://www.cyient-fiops.com:8081/ExportData/",
+		"exportJobType": 321,
+		 "mapprogressimage": "images/busy-indicator.gif"
+}

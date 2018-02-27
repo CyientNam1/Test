@@ -1,0 +1,12 @@
+{
+		"WFMURL" : "https://arcgis.cyient-fiops.com/arcgis/rest/services/XCEL/WFM/WMServer",
+		"queryID" : 1603,
+		"WFMUsername" : "Steve.Way",
+		"readOnly": false,
+		"identityService" : "https://www.cyient-fiops.com/XCELAPIGateway/Roles/",
+		"Users" : "ACTION=GetAllUsers",
+		"allowExport" : false,
+		"allowExecute": true,
+		"exportURL": "http://52.72.103.196:8081/ExportData/",
+		"exportJobType": 1282
+}

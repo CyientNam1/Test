@@ -1,0 +1,14 @@
+{
+  "name": "PoleAnalytics",
+  "platform": "HTML",
+  "version": "1.0",
+  "wabVersion": "2.1",
+  "author": "Cyient Inc",
+  "description": "Pole Failure Analytics Widget",
+  "copyright": "Cyient Inc",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "featureActions": [{
+    "name": "ShowVertex",
+    "uri": "ShowVertexFeatureAction"
+  }]
+}

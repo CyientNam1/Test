@@ -1,0 +1,18 @@
+{
+    "WFMURL": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/WFM/WMServer",
+    "queryID": 1603,
+    "WFMUsername": "Steve.Way",
+    "readOnly": false,
+    "identityService": "https://www.cyient-fiops.com/XCELAPIGateway/Roles/",
+    "Users": "ACTION=GetAllUsers",
+    "allowExport": false,
+    "allowExecute": true,
+    "allowDeletion": false,
+    "allowReassign": false,
+    "exportURL": "http://52.72.103.196:8081/ExportData/",
+    "exportJobType": 1282,
+    "workGridUrl": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/UDC_WorkGrids_XCELADB/FeatureServer/0",
+    "FishnetgridUrl":"https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/FISHNET_XCELADB/FeatureServer/0",
+    "Servicetoken":"https://framework-dev.cyient-fiops.com/server/tokens/generateToken",
+    "CircuitURL" :"https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/FeatureServer/46"
+}

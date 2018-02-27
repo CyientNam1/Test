@@ -1,0 +1,550 @@
+.jimu-widget-UnitTableEditior{
+	min-height: 32px;
+}
+.jimu-widget-UnitTableEditior .search-node.default-width-for-openAtStart{
+	width: 100%;
+}
+
+.jimu-widget-UnitTableEditior .result-item-selected{
+	background: #eee;
+}
+
+.jimu-widget-UnitTableEditior .arcgisSearch .searchBtn{
+	padding: 6px;
+}
+.jimu-widget-UnitTableEditior .arcgisSearch .searchBtn:hover,
+.jimu-widget-UnitTableEditior .arcgisSearch .searchBtn:focus {
+	background-color: #485566;
+	color: white;
+}
+.jimu-widget-UnitTableEditior .arcgisSearch .searchGroup .searchInputGroup .searchInput{
+	width: auto;
+}
+
+.jimu-widget-UnitTableEditior.use-absolute .arcgisSearch .searchToggle{
+	float: left;
+}
+
+.jimu-rtl .jimu-widget-UnitTableEditior.use-absolute .arcgisSearch .searchToggle{
+	float: right;
+}
+
+.jimu-widget-UnitTableEditior.use-absolute .arcgisSearch .searchInputGroup{
+	position: absolute;
+	top: 0;
+	width: auto;
+	left: 34px;
+	right: 34px;
+}
+
+.jimu-widget-UnitTableEditior.use-absolute .arcgisSearch .searchInputGroup form{
+	overflow: hidden;
+	z-index: 0;
+	position: relative;
+}
+.jimu-widget-UnitTableEditior.use-absolute .arcgisSearch .searchInputGroup .searchClear{
+	z-index: 0;
+}
+
+.jimu-widget-UnitTableEditior.use-absolute .arcgisSearch .searchExpandContainer{
+	float: none;
+}
+
+.jimu-widget-UnitTableEditior.use-absolute .arcgisSearch .searchSubmit{
+	float: right;
+}
+
+.jimu-rtl .jimu-widget-UnitTableEditior.use-absolute .arcgisSearch .searchSubmit{
+	float: left;
+}
+
+.jimu-widget-UnitTableEditior .arcgisSearch .show-all-results{
+	position: absolute;
+	height: 25px;
+	color: #686868;
+	line-height: 25px;
+	display: none;
+	width: 237px;
+	margin: auto;
+	background-color: #fff;
+	padding: 0 12px;
+	cursor: pointer;
+}
+
+.jimu-widget-UnitTableEditior .arcgisSearch .searchMenu{
+	border-radius: 0;
+	color: #686868;
+	font-size: 12px;
+	padding: 0;
+	top: 33px;
+}
+
+.jimu-widget-UnitTableEditior .arcgisSearch .searchMenu li.active{
+	background-color: #d9dde0;
+	color: #686868;
+	font-size: 14px;
+}
+
+.jimu-widget-UnitTableEditior .arcgisSearch .searchMenu li{
+	padding: 0 12px;
+	line-height: 25px;
+}
+
+.jimu-widget-UnitTableEditior .arcgisSearch .searchMenu li:hover,
+.jimu-widget-UnitTableEditior .arcgisSearch .searchMenu li:focus {
+	background-color: #eee;
+}
+
+.jimu-widget-UnitTableEditior .arcgisSearch .searchMenu .menuHeader{
+	background-color: #d9dde0;
+	color: #686868;
+	font-size: 14px;
+	min-height: 30px;
+	padding: 0 12px;
+	line-height: 30px;
+}
+
+.processing-indicator-panel {
+    display: none;
+    width: 100%;
+    height: 100%;
+    z-index: 500;
+    top: 0;
+    left: 0;
+    position: absolute;
+    background-position: center center;
+    background-image: url(../images/busy.gif);
+    background-repeat: no-repeat;
+}
+
+    .processing-indicator-panel.busy {
+        display: block;
+    }
+
+.jimu-widget-UnitTableEditior {
+    position: relative;
+}
+
+   .widgetIndicator {
+        height: 4px;
+        position:absolute;
+        top:0;
+        z-index:1;
+        width:100%;
+        overflow:hidden;
+        overflow-x: hidden;
+        /*width: 94%;
+        border-radius: 3px;
+        padding-left: 3px;
+        padding-right: 3px;
+        margin-left: 3%;
+        margin-right: 3%;*/
+        
+    }
+
+        .widgetActive {
+            background: #73AD21;
+        }
+
+        .widgetNotActive {
+            background: red;
+        }
+    /*.jimu-widget-UnitTableEditior .widgetActive {
+        width: 22px;
+        height: 22px;
+        background-position: center center;
+        background-image: url(../images/widgetActive.png);
+        background-repeat: no-repeat;
+        position: absolute;
+        left: 1px;
+        top: 1px;
+    }
+
+    .jimu-widget-UnitTableEditior .widgetNotActive {
+        width: 22px;
+        height: 22px;
+        background-position: center center;
+        background-image: url(../images/widgetNotActive.png);
+        background-repeat: no-repeat;
+        position: absolute;
+        left: 1px;
+        top: 1px;
+    }*/
+
+    .jimu-widget-UnitTableEditior .hideField {
+        display: none;
+    }
+    /***********about templatePicker**************/
+
+    .jimu-widget-UnitTableEditior .templatePicker {
+        position: relative;
+        height: 296px;
+    }
+
+    .jimu-widget-UnitTableEditior .grid {
+        height: 100% !important;
+    }
+
+    .jimu-widget-UnitTableEditior .dojoxGridMasterHeader {
+        height: 0 !important;
+    }
+
+    .jimu-widget-UnitTableEditior .dojoxGridContent {
+        width: 100% !important;
+    }
+
+        .jimu-widget-UnitTableEditior .dojoxGridContent div[role=presentation] {
+            right: 0;
+        }
+
+    .jimu-widget-UnitTableEditior .dojoxGridRowTable {
+        width: 100%;
+    }
+
+    .jimu-widget-UnitTableEditior .dojoxGridRow {
+        width: 100%;
+    }
+
+    .jimu-widget-UnitTableEditior .dojoxGridView {
+        width: 100% !important;
+    }
+
+    /********about attributeInspector*********/
+    .jimu-widget-UnitTableEditior .esriAttributeInspector {
+        height: 100%;
+        width: 100%;
+    }
+
+        /*.jimu-widget-UnitTableEditior .esriAttributeInspector .atiLabel {
+            color:midnightblue !important;
+          
+        }*/
+        /*.jimu-widget-UnitTableEditior .esriAttributeInspector .atiLabel {
+            display: inline-block;
+            overflow: hidden;
+            white-space: nowrap;
+            -ms-text-overflow: ellipsis;
+            -o-text-overflow: ellipsis;
+            text-overflow: ellipsis;
+            width: 100%;
+        }*/
+
+        .jimu-widget-UnitTableEditior .esriAttributeInspector td {
+            display: block;
+            clear: both;
+            height: auto;
+            width: 100%;
+            float: left;
+        }
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+.clearfix {
+    display: inline-block;
+}
+
+* html .clearfix {
+    height: 1%;
+}
+/* Hides from IE-mac \*/
+.clearfix {
+    display: block;
+}
+
+.clear:after {
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+/*tr td {
+      padding: 20px 40px;
+      border: 1px solid black;
+      display: block;
+    }*/
+.jimu-widget-UnitTableEditior .esriAttributeInspector .atiNavButtons {
+    position: absolute;
+    left: 50%;
+    margin-left: -90px;
+    top: -10px;
+}
+
+.jimu-widget-UnitTableEditior .esriAttributeInspector .asteriskIndicator {
+    color: red !important;
+}
+
+
+.jimu-widget-UnitTableEditior .esriAttributeInspector .saveButton {
+    float: right;
+    display: inline;
+}
+.jimu-rtl .jimu-widget-UnitTableEditior .esriAttributeInspector .saveButton {
+    float: left;
+    display: inline;
+}
+    .jimu-widget-UnitTableEditior .esriAttributeInspector .saveButton.hide {
+        display: none;
+    }
+
+.jimu-widget-UnitTableEditior .esriAttributeInspector .deleteButton {
+    float: right;
+    margin-right: 20px;
+}
+.jimu-rtl .jimu-widget-UnitTableEditior .esriAttributeInspector .deleteButton {
+    float: left;
+    margin-left: 20px;
+}
+/*********about preset values table*********/
+
+.jimu-widget-UnitTableEditior .ee-presetValueTableDiv {
+    height: 100%;
+    width: 100%;
+}
+
+.jimu-widget-UnitTableEditior .ee-presetValueHeaderTable {
+    color: #000000;
+    font-size: 14px;
+    padding: 8px;
+    background-color: #E3E3E3;
+    vertical-align: middle;
+    width: 100%;
+}
+
+.jimu-widget-UnitTableEditior .ee-presetValueBodyTable td {
+    display: block;
+    clear: both;
+    height: auto;
+    width: 100%;
+    float: left;
+}
+
+.jimu-widget-UnitTableEditior .ee-atiLabel {
+    width: 100%;
+    margin-bottom: 3px;
+}
+
+.jimu-widget-UnitTableEditior .atiLabel {
+    width: 100%;
+    margin-top: 6px !important;
+    margin-bottom: 3px !important;
+}
+
+.jimu-widget-UnitTableEditior .ee-presetValueBody {
+    vertical-align: top;
+}
+
+.jimu-widget-UnitTableEditior .ee-presetValueBodyTable {
+    width: 100%;
+}
+
+.jimu-widget-UnitTableEditior .ee-presetValue-label-header-field,
+.jimu-widget-UnitTableEditior .field-alias-label {
+    width: 40%;
+}
+
+.jimu-widget-UnitTableEditior .ee-presetValue-value-header-field,
+.jimu-widget-UnitTableEditior .preset-value-editable {
+    width: 100%;
+    margin-bottom: 6px;
+}
+
+.jimu-widget-UnitTableEditior .ee-inputField {
+    width: 100%;
+}
+.jimu-widget-UnitTableEditior .ee-inputFieldTextArea {
+    width: 100%!important;
+    resize: vertical;
+    overflow: auto;
+    font-family: inherit;
+    line-height: 20px !important;
+    font-size: 14px;
+    min-height: 70px;
+}
+.jimu-widget-UnitTableEditior .ee-inputFieldRichText {
+    width: 100%!important;
+    margin: 5px auto;    
+  
+}
+.jimu-widget-UnitTableEditior .spacer {
+    height: 12px;
+}
+
+.jimu-widget-UnitTableEditior .spacerSmall {
+    height: 8px;
+}
+
+.jimu-widget-UnitTableEditior .attributeInspectorDiv {
+    padding-top: 8px;
+}
+
+.jimu-widget-UnitTableEditior .esriAttributeInspector .atiField {
+    width: 100%;
+}
+
+.jimu-widget-UnitTableEditior .esriAttributeInspector .dijitTextBox {
+    width: 100%!important;
+}
+.jimu-widget-UnitTableEditior .esriAttributeInspector .dijitTextArea {
+    
+    width: 100%!important;
+    min-height: 70px;
+    resize: vertical;
+    overflow: auto;
+    font-family: inherit;
+    line-height: 20px !important;
+    font-size: 14px;
+}
+/*.jimu-widget-UnitTableEditior .dijitTextBox {
+    height: 28px !important;
+}*/
+
+.jimu-widget-UnitTableEditior div.atiAttributes table {
+    width: 98%;
+}
+
+.jimu-widget-UnitTableEditior .processing-indicator {
+    display: none;
+    float: right;
+    width: 40px;
+    height: 40px;
+    background-position: center center;
+    background-image: url(../images/busy.gif);
+    background-repeat: no-repeat;
+    z-index: 999;
+}
+
+    .jimu-widget-UnitTableEditior .processing-indicator.busy {
+        display: inline;
+    }
+
+.jimu-widget-UnitTableEditior .processing-indicator-panel {
+    display: none;
+    width: 100%;
+    height: 100%;
+    z-index: 500;
+    top: 0;
+    left: 0;
+    position: absolute;
+    background-position: center center;
+    background-image: url(../images/busy.gif);
+    background-repeat: no-repeat;
+}
+
+    .jimu-widget-UnitTableEditior .processing-indicator-panel.busy {
+        display: block;
+    }
+
+
+
+.jimu-widget-UnitTableEditior .updateOnlyText {
+    vertical-align: middle;
+    padding: 10px;
+}
+
+.jimu-widget-UnitTableEditior .attInput {
+    padding-top: 3px;
+    padding-bottom: 3px;
+    display: inline-block;
+}
+
+.jimu-widget-UnitTableEditior .deleteAttachment {
+    padding-right: 5px;
+    cursor: pointer;
+    color: red !important;
+    font-weight: bold;
+}
+
+.jimu-widget-UnitTableEditior .atiNavMessage {
+    display: inline-block;
+    float: none;
+}
+
+.jimu-widget-UnitTableEditior .dijitButtonHover .dijitButtonNode {
+    background-color: transparent !important;
+    background-image: none !important;
+    border: none !important;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+.jimu-widget-UnitTableEditior .dijitButton .dijitButtonNode {
+    background-color: transparent !important;
+    background-image: none !important;
+    border: none !important;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+.jimu-widget-UnitTableEditior .dijitButton {
+    background-color: transparent !important;
+    background-image: none !important;
+    border: none !important;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+
+
+.dijitCalendarDateTemplate.dijitCalendarCurrentDate .dijitCalendarDateLabel {
+    color: red;
+    border-color: red;
+}
+
+/* hover */
+
+.dijitCalendarDateTemplate.dijitCalendarHoveredDate .dijitCalendarDateLabel,
+.dijitCalendarDateTemplate.dijitCalendarEnabledDate:hover .dijitCalendarDateLabel {
+    background-color: greenyellow;
+}
+
+/* active 
+
+.dijitCalendarDateTemplate.dijitCalendarActiveDate .dijitCalendarDateLabel,
+.dijitCalendarDateTemplate.dijitCalendarEnabledDate:active .dijitCalendarDateLabel {
+    background-color: darkslategray;
+}
+*/
+/* selected */
+
+.dijitCalendarDateTemplate.dijitCalendarSelectedDate .dijitCalendarDateLabel,
+.dijitCalendarDateTemplate.dijitCalendarSelectedDate.dijitCalendarHoveredDate .dijitCalendarDateLabel {
+    background-color: cyan;
+}
+
+.jimu-widget-UnitTableEditior .dijitComboBox > div.dijitArrowButton.dijitDownArrowButton {
+    width: 25px !important;
+}
+
+.jimu-widget-UnitTableEditior .dijitTextBox .dijitInputField {
+    height: 100% !important;
+}
+
+.jimu-widget-UnitTableEditior .dijitComboBox > div.dijitArrowButton.dijitDownArrowButton > input {
+    width: 100%;
+}
+
+.jimu-widget-UnitTableEditior .attwarning {
+    margin-top: 2px;
+    color: brown;
+}
+
+.jimu-widget-UnitTableEditior .presetFieldsTableDiv {
+    display: none;
+}
+
+.jimu-widget-UnitTableEditior .esriAttributeInspector .dijitTextBox {
+    height: 30px!important;
+}
+.jimu-widget-UnitTableEditior .dijitTextBox {
+    height: 30px!important;
+}

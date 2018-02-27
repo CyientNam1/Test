@@ -1,0 +1,53 @@
+.jimu-widget-JobAllocation .SFJobAllocationButtonAdd{
+	
+	background-image: url(../images/selectionAddwhite.png);
+  background-repeat: no-repeat;
+  background-size: 25px 25px;
+  width: 36px;
+  height: 36px;
+  margin-left: auto;
+  margin-right: auto 
+	
+}
+.jimu-widget-JobAllocation .SFJobAllocationButtonSubtract{
+	
+	background-image: url(../images/selectionSubtractWhite.png);
+  background-repeat: no-repeat;
+  background-size: 25px 25px;
+  width: 36px;
+  height: 36px;
+  margin-left: auto;
+  margin-right: auto 
+	
+}
+
+.jimu-widget-JobAllocation .dijitButtonNode {
+	
+	border-style: none;
+
+	
+}
+
+.jimu-widget-JobAllocation .SFJobAllocationCreateJob{
+	
+	background-image: url(../images/CreateJobBlack.png);
+  background-repeat: no-repeat;
+    background-size: 25px 25px;
+  width: 36px;
+  height: 36px;
+  margin-left: auto;
+  margin-right: auto 
+	
+}
+
+.jimu-widget-JobAllocation .SFJobAllocationButtonClearJob{
+	
+	background-image: url(../images/ic_clear_black_36dp_1x.png);
+  background-repeat: no-repeat;
+   background-size: 25px 25px;
+  width: 36px;
+  height: 36px;
+  margin-left: auto;
+  margin-right: auto 
+	
+}

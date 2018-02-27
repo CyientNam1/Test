@@ -1,0 +1,1328 @@
+{
+  "allPlaceholder": "",
+  "showInfoWindowOnSelect": true,
+  "sources": [
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/16",
+      "name": "Actual Route",
+      "placeholder": "216230119",
+      "searchFields": [
+        "FEATURE_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/0",
+      "name": "Anchor Guy",
+      "placeholder": "231658411",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/1",
+      "name": "Area Light",
+      "placeholder": "238339184",
+      "searchFields": [
+        "ID",
+        "LAMP_TYPE"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/17",
+      "name": "Arrow",
+      "placeholder": "232379380",
+      "searchFields": [
+        "FEATURE_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/18",
+      "name": "Bank Phasing Text",
+      "placeholder": "236782327",
+      "searchFields": [
+        "FEATURE_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/0",
+      "name": "Busbar",
+      "placeholder": "234425329",
+      "searchFields": [
+        "ID",
+        "FEEDER_NO"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/2",
+      "name": "Capacitor Rack",
+      "placeholder": "233788241",
+      "searchFields": [
+        "ID",
+        "KVAR_RATING"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/19",
+      "name": "Change Marker",
+      "placeholder": "216410927",
+      "searchFields": [
+        "FEATURE_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/3",
+      "name": "Circuit Breaker",
+      "placeholder": "401225996",
+      "searchFields": [
+        "ID",
+        "FEEDER_NO"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/4",
+      "name": "Cogeneration",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/20",
+      "name": "Config Text",
+      "placeholder": "236782327",
+      "searchFields": [
+        "FEATURE_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/1",
+      "name": "Customer Pointer",
+      "placeholder": "243890096",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/21",
+      "name": "Customer Connection",
+      "placeholder": "234897861",
+      "searchFields": [
+        "FEATURE_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/31",
+      "name": "DAT Flag",
+      "placeholder": "229110871",
+      "searchFields": [
+        "FEEDER_ID",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/5",
+      "name": "Distribution Generation",
+      "placeholder": "348305633",
+      "searchFields": [
+        "ID",
+        "RATED_KVA"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/6",
+      "name": "Distributed Storage",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "MAXIMUM_KVA"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/44",
+      "name": "Edist Meter",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "OBJECTID",
+        "METER_NUMBER"
+      ],
+      "displayField": "METER_NUMBER",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/7",
+      "name": "Elbow",
+      "placeholder": "74295055",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/2",
+      "name": "Electric GPS",
+      "placeholder": "461075809",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/15",
+      "name": "Electric Note",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/22",
+      "name": "Electric XY",
+      "placeholder": "82542607",
+      "searchFields": [
+        "FEEDER_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/26",
+      "name": "Etran OH Conductor",
+      "placeholder": "375583977",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/27",
+      "name": "Etran OH Transmission",
+      "placeholder": "all",
+      "searchFields": [
+        "FEEDER_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/8",
+      "name": "Fault Indicator",
+      "placeholder": "62473081",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/24",
+      "name": "Feeder End Stiching Point",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "JOBUNIT"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/25",
+      "name": "Fence",
+      "placeholder": "341451992",
+      "searchFields": [
+        "FEATURE_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/23",
+      "name": "GPS Location",
+      "placeholder": "all",
+      "searchFields": [
+        "FEATURE_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/28",
+      "name": "Lateral Connection",
+      "placeholder": "234547071",
+      "searchFields": [
+        "FEATURE_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/9",
+      "name": "Lot Centroid",
+      "placeholder": "all",
+      "searchFields": [
+        "TYPE",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/12",
+      "name": "Network Actual Location",
+      "placeholder": "233788241",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/13",
+      "name": "Network Secondary Location",
+      "placeholder": "236789795",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/10",
+      "name": "Nonmetered Facility",
+      "placeholder": "232390352",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/11",
+      "name": "OH ATO",
+      "placeholder": "234898749",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "COMPANY_NO",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/12",
+      "name": "OH Fuse",
+      "placeholder": "233851618",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/13",
+      "name": "OH Primary",
+      "placeholder": "216332038",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/14",
+      "name": "OH Secondary",
+      "placeholder": "223985598",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/15",
+      "name": "OH Service",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/16",
+      "name": "OH Switch",
+      "placeholder": "107224338",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/17",
+      "name": "OH Transformer Bank",
+      "placeholder": "236764249",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/3",
+      "name": "Pad",
+      "placeholder": "233641971",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/14",
+      "name": "PAR Flag",
+      "placeholder": "229110703",
+      "searchFields": [
+        "FEEDER_ID",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/18",
+      "name": "Pedestal",
+      "placeholder": "232677675",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/19",
+      "name": "Pole",
+      "placeholder": "229221323",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/20",
+      "name": "Pole Brace",
+      "placeholder": "348213085",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/21",
+      "name": "Pole H Fixture",
+      "placeholder": "232174223",
+      "searchFields": [
+        "ID",
+        "NO_OF_ARMS"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/29",
+      "name": "Primary Connection",
+      "placeholder": "349227433",
+      "searchFields": [
+        "FEATURE_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/22",
+      "name": "Primary Meter",
+      "placeholder": "234897861",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/23",
+      "name": "Primary Open Point",
+      "placeholder": "234860198",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/24",
+      "name": "Primary Splice",
+      "placeholder": "413558478",
+      "searchFields": [
+        "ID",
+        "SPLICE_TYPE"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/4",
+      "name": "Primary Structure Node",
+      "placeholder": "96248285",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/25",
+      "name": "Reclosure Bank",
+      "placeholder": "234473552",
+      "searchFields": [
+        "ID",
+        "RECLOSER_TYPE"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/26",
+      "name": "Regulator Bank",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/27",
+      "name": "Riser",
+      "placeholder": "232148678",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/43",
+      "name": "Secondary Capacitor",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "KVAR_RATING"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/30",
+      "name": "Secondary Connection",
+      "placeholder": "349227433",
+      "searchFields": [
+        "FEATURE_NAME",
+        "ID"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/5",
+      "name": "Secondary Inline Device",
+      "placeholder": "96504072",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/28",
+      "name": "Secondary Open Point",
+      "placeholder": "234927756",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/6",
+      "name": "Secondary Structure Node",
+      "placeholder": "99001444s",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/29",
+      "name": "Secondary Transformer",
+      "placeholder": "55659361",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/30",
+      "name": "Sectionalizer Bank",
+      "placeholder": "234481685",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/46",
+      "name": "Service Wire",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/7",
+      "name": "Slack span Feed Point",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/8",
+      "name": "Span Guy",
+      "placeholder": "232203744",
+      "searchFields": [
+        "ID",
+        "NO_OF_GUYS"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/31",
+      "name": "Splice Box",
+      "placeholder": "389484061",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/32",
+      "name": "Step Transformer Bank",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "MAP_UNIT_X",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/33",
+      "name": "Street Light",
+      "placeholder": "238953559",
+      "searchFields": [
+        "ID",
+        "LAMP_TYPE"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/34",
+      "name": "Substation",
+      "placeholder": "55659522",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/35",
+      "name": "Switching Facility",
+      "placeholder": "233281585",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/36",
+      "name": "UG ATO",
+      "placeholder": "412316678",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/37",
+      "name": "UG Fuse",
+      "placeholder": "234209613",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/42",
+      "name": "UG Primary",
+      "placeholder": "215740457",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/10",
+      "name": "UG Route",
+      "placeholder": "212413413",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/40",
+      "name": "UG Service",
+      "placeholder": "all",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/38",
+      "name": "UG Secondary",
+      "placeholder": "66683975",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_REFERENCE_XCELADB/MapServer/11",
+      "name": "UG Structure",
+      "placeholder": "456173346",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/41",
+      "name": "UG Switch",
+      "placeholder": "234580296",
+      "searchFields": [
+        "ID",
+        "TYPE_"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": null,
+      "url": "https://framework-dev.cyient-fiops.com/server/rest/services/XCELADB/XCEL_ADMS_ELECTRIC_XCELADB/MapServer/39",
+      "name": "UG Transformer",
+      "placeholder": "236836676",
+      "searchFields": [
+        "ID",
+        "FEEDER_NAME"
+      ],
+      "displayField": "ID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "url": "http://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer",
+      "name": "World",
+      "singleLineFieldName": "SingleLine",
+      "placeholder": "World",
+      "countryCode": "",
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "searchInCurrentMapExtent": false,
+      "type": "locator"
+    }
+  ]
+}
